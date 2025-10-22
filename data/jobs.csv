@@ -1,0 +1,201 @@
+job_id,job_title,company_name,required_skills,experience_required,education_required,salary,job_type,location,region,language_preference,apply_link
+1,Plumber,"Silva, Torres and Wells","computer, maintenance",0+ years,Bachelor,₹44192 per month,Operator,East Vicki,Maharashtra,English,http://www.paul.com/
+2,Plumber,"Reed, Ward and Griffin",wiring,3+ years,Bachelor,₹19108 per month,Government,Meghantown,Bihar,English,https://sanchez.com/
+3,Plumber,Williams-Clayton,computer,1+ years,ITI,₹47932 per month,Government,Port Lisa,Bihar,Malayalam,https://www.maynard.com/
+4,Plumber,"Rodgers, Klein and Mann","plumbing, electrical, mechanics",2+ years,Diploma,₹31617 per month,Government,New Sergio,Maharashtra,Tamil,https://garcia-cervantes.biz/
+5,Accountant,Roth Group,"computer, maintenance, wiring",2+ years,ITI,₹23483 per month,Operator,Meganbury,Bihar,Hindi,http://www.baker-marshall.biz/
+6,Computer Operator,"Blackwell, Valencia and Hicks","plumbing, accounting",3+ years,Diploma,₹15905 per month,Clerk,West Dianashire,Uttar Pradesh,Hindi,http://adams.org/
+7,Plumber,Fisher-Ramirez,"plumbing, wiring",2+ years,Diploma,₹42376 per month,Private,Michaelfurt,Kerala,Tamil,https://hayes.net/
+8,Computer Operator,Mcbride PLC,maintenance,0+ years,Master,₹24496 per month,Technician,Glassmouth,Kerala,Telugu,https://www.anthony.com/
+9,Accountant,Benson-Galvan,"mechanics, electrical",3+ years,Master,₹29529 per month,Operator,Port Rachel,Tamil Nadu,Tamil,https://dean.info/
+10,Computer Operator,"Francis, Mitchell and Tran","accounting, mechanics, wiring",2+ years,Bachelor,₹18711 per month,Operator,Derekland,Kerala,Tamil,http://www.gordon-kelley.biz/
+11,Electrical Technician,"King, Clements and Hudson",plumbing,0+ years,Bachelor,₹48857 per month,Private,North Bryanport,Kerala,English,http://www.bell.com/
+12,Plumber,"Scott, Cannon and Moyer","accounting, electrical",0+ years,ITI,₹38679 per month,Private,South Rachelberg,Kerala,Tamil,https://smith.com/
+13,Electrical Technician,Johnson-Summers,"wiring, computer, electrical",2+ years,Diploma,₹32326 per month,Private,Lopezview,Uttar Pradesh,Tamil,http://www.hayes-lopez.biz/
+14,Accountant,Gonzalez-Colon,wiring,2+ years,Master,₹28003 per month,Clerk,Lake Nicole,Kerala,English,https://www.kennedy.org/
+15,Accountant,Martin Group,"electrical, plumbing",3+ years,Bachelor,₹36533 per month,Clerk,Lake Miranda,Uttar Pradesh,Malayalam,http://www.greene.com/
+16,Plumber,Harris-Green,"accounting, electrical, wiring",2+ years,Master,₹24288 per month,Government,Thompsonside,Kerala,Telugu,https://marshall.net/
+17,Computer Operator,Hammond-Kennedy,electrical,0+ years,Master,₹10156 per month,Government,East Donald,Kerala,Hindi,https://www.boone-collins.com/
+18,Plumber,"Wilson, Garrison and Moore","electrical, accounting, wiring",1+ years,Diploma,₹19681 per month,Private,Sabrinaberg,Uttar Pradesh,Tamil,https://www.williams.com/
+19,Accountant,"Kerr, Nichols and Gaines","maintenance, plumbing, wiring",2+ years,Diploma,₹49378 per month,Operator,Williamsfort,Maharashtra,Telugu,https://vargas-fernandez.biz/
+20,Plumber,"Brown, Jones and Barajas",mechanics,3+ years,Diploma,₹31894 per month,Clerk,South Shaunville,Kerala,Telugu,http://www.cantrell-james.com/
+21,Accountant,Cooper-Baker,plumbing,3+ years,ITI,₹21408 per month,Technician,Smithborough,Tamil Nadu,Hindi,http://www.mack-williams.net/
+22,Mechanic,"Hughes, Miller and Edwards","mechanics, computer",1+ years,Diploma,₹41715 per month,Technician,Port Joseph,Tamil Nadu,English,http://evans.com/
+23,Accountant,"Munoz, Jones and Johnson","mechanics, accounting, maintenance",0+ years,Diploma,₹15818 per month,Operator,East Nicoleville,Tamil Nadu,Hindi,https://hoffman-jones.com/
+24,Mechanic,Flores Ltd,maintenance,1+ years,Diploma,₹17431 per month,Operator,Lake Michelle,Bihar,Telugu,https://www.white.com/
+25,Computer Operator,"Wilson, Cooper and Sandoval",accounting,2+ years,Master,₹37541 per month,Operator,Ericborough,Tamil Nadu,Hindi,https://jackson.info/
+26,Electrical Technician,"Williams, Cain and Scott","wiring, mechanics",1+ years,ITI,₹15052 per month,Technician,Carpenterbury,Uttar Pradesh,Malayalam,https://peters.info/
+27,Electrical Technician,"Phillips, Young and Marshall",mechanics,0+ years,Diploma,₹21488 per month,Private,Cohenfort,Tamil Nadu,Hindi,http://www.soto.com/
+28,Electrical Technician,Chang-Floyd,"plumbing, accounting, electrical",2+ years,ITI,₹14015 per month,Technician,West Cindyport,Kerala,Hindi,http://www.hodges.com/
+29,Mechanic,"Johnson, Lyons and Wolfe","wiring, mechanics, computer",0+ years,ITI,₹11191 per month,Private,East Christina,Uttar Pradesh,Tamil,https://www.sutton-taylor.org/
+30,Mechanic,Cox-Saunders,"computer, electrical",3+ years,High School,₹35385 per month,Government,North Kristinchester,Uttar Pradesh,Hindi,http://morales.com/
+31,Plumber,Taylor-Ayers,"plumbing, maintenance, computer",1+ years,Bachelor,₹29524 per month,Private,Jonesville,Uttar Pradesh,Malayalam,http://www.gonzalez-roth.com/
+32,Electrical Technician,Peters Ltd,"wiring, mechanics, accounting",3+ years,High School,₹48979 per month,Technician,Jeffreyburgh,Uttar Pradesh,Telugu,http://www.smith.org/
+33,Electrical Technician,Burton-Bond,"wiring, accounting, electrical",0+ years,High School,₹21008 per month,Private,Port Matthew,Bihar,Telugu,http://www.garcia-king.net/
+34,Accountant,Reed and Sons,"computer, electrical",2+ years,Diploma,₹13715 per month,Clerk,East Cynthiaville,Uttar Pradesh,Malayalam,http://fitzpatrick.com/
+35,Plumber,"Young, Zimmerman and Williams",mechanics,0+ years,ITI,₹32050 per month,Technician,Cookville,Maharashtra,Malayalam,https://perez-rollins.com/
+36,Computer Operator,"Daniels, Stephens and Graham",maintenance,0+ years,High School,₹30761 per month,Government,Port Sara,Maharashtra,Telugu,https://hall-brown.com/
+37,Mechanic,Stuart-Taylor,electrical,3+ years,High School,₹49961 per month,Technician,West Stephanie,Maharashtra,English,https://www.williams-horton.com/
+38,Plumber,"Bennett, Jordan and Jackson",computer,2+ years,High School,₹33690 per month,Clerk,Port Christopherchester,Maharashtra,English,https://castillo-mckinney.com/
+39,Plumber,Ochoa-Long,"computer, electrical",3+ years,Bachelor,₹18172 per month,Private,Port Lisatown,Tamil Nadu,Tamil,https://lane-garner.com/
+40,Computer Operator,"Gentry, Burton and Holt","electrical, accounting",1+ years,ITI,₹42344 per month,Operator,North Tara,Kerala,Hindi,https://www.patterson-brennan.com/
+41,Plumber,"Brown, Jones and Bowen",wiring,0+ years,Master,₹20385 per month,Government,Lake Sierraborough,Maharashtra,Tamil,https://espinoza.biz/
+42,Mechanic,Haynes-Hernandez,electrical,2+ years,Diploma,₹14985 per month,Government,Port Keith,Kerala,Hindi,https://www.hill.net/
+43,Accountant,Jones-Jones,accounting,1+ years,ITI,₹24331 per month,Private,East Ricky,Kerala,Telugu,https://jordan.com/
+44,Plumber,"Mahoney, Rivera and Jones",electrical,1+ years,Bachelor,₹43256 per month,Clerk,West Brittany,Tamil Nadu,Tamil,https://hall.com/
+45,Electrical Technician,Poole-Taylor,"maintenance, accounting, computer",1+ years,Master,₹32029 per month,Operator,North Kyleshire,Kerala,Malayalam,https://martinez-bell.info/
+46,Computer Operator,"Newman, Mendoza and Shaffer","accounting, electrical, computer",2+ years,Bachelor,₹18771 per month,Operator,South Kimberly,Maharashtra,Telugu,https://lopez-elliott.info/
+47,Plumber,"Smith, Mason and Watson","accounting, mechanics, electrical",1+ years,Bachelor,₹34617 per month,Technician,Faulknerfort,Kerala,Telugu,https://www.phillips.com/
+48,Electrical Technician,Rodriguez-Winters,"mechanics, maintenance, plumbing",3+ years,Master,₹49482 per month,Technician,Port Paulview,Uttar Pradesh,Hindi,https://harris-garrett.net/
+49,Computer Operator,"Payne, Williams and Richardson",computer,3+ years,Bachelor,₹39510 per month,Clerk,Pettyside,Maharashtra,Telugu,http://www.booker-mosley.info/
+50,Computer Operator,Conley Group,"computer, mechanics",3+ years,Diploma,₹29493 per month,Technician,New Angie,Tamil Nadu,Telugu,https://www.smith.biz/
+51,Plumber,Rice-Norris,plumbing,0+ years,Master,₹22036 per month,Government,Lake Amanda,Maharashtra,Tamil,https://www.brown.info/
+52,Plumber,Mcguire Ltd,"computer, maintenance",1+ years,Bachelor,₹33044 per month,Private,New Nicholasfurt,Uttar Pradesh,Tamil,http://diaz.com/
+53,Electrical Technician,Bradford PLC,"plumbing, computer",2+ years,ITI,₹39914 per month,Private,Hartside,Bihar,English,https://bishop.com/
+54,Electrical Technician,Alexander Inc,"mechanics, maintenance, electrical",0+ years,Diploma,₹16729 per month,Operator,Tylerfort,Uttar Pradesh,Telugu,https://www.harris-lee.info/
+55,Electrical Technician,West-Whitehead,wiring,3+ years,ITI,₹17134 per month,Private,North Josephton,Uttar Pradesh,Tamil,http://thompson.biz/
+56,Computer Operator,Norton Group,maintenance,1+ years,High School,₹35062 per month,Clerk,Scottborough,Bihar,Tamil,http://www.avery.com/
+57,Electrical Technician,Fletcher and Sons,plumbing,0+ years,Diploma,₹44288 per month,Technician,North Brian,Uttar Pradesh,Telugu,https://www.smith-brown.com/
+58,Mechanic,Long-Snyder,"computer, electrical, maintenance",1+ years,High School,₹43911 per month,Operator,Fuentesside,Tamil Nadu,Tamil,http://levine.com/
+59,Electrical Technician,Edwards Inc,"electrical, mechanics",1+ years,Diploma,₹30373 per month,Private,Hollandmouth,Uttar Pradesh,Telugu,http://www.perez-schaefer.com/
+60,Mechanic,"Wallace, Wilson and Peck",maintenance,0+ years,Master,₹35473 per month,Private,New Victorton,Tamil Nadu,Malayalam,https://tyler.com/
+61,Plumber,"Lewis, Bowen and Webb","accounting, electrical",0+ years,ITI,₹21579 per month,Private,Kimberg,Tamil Nadu,Tamil,https://www.spencer.com/
+62,Accountant,"Hughes, Thomas and Mendez","mechanics, wiring, plumbing",2+ years,Master,₹26456 per month,Technician,Goodmanborough,Maharashtra,Tamil,http://www.george-gordon.biz/
+63,Accountant,Nunez-Macias,mechanics,0+ years,Master,₹13959 per month,Operator,Fisherstad,Bihar,English,http://wallace.com/
+64,Electrical Technician,"Smith, Fletcher and Mathews",wiring,1+ years,ITI,₹36462 per month,Private,Leblancborough,Bihar,English,https://www.smith.org/
+65,Mechanic,Mason-Ortiz,maintenance,2+ years,High School,₹31150 per month,Operator,Colefort,Tamil Nadu,Malayalam,http://wilson.com/
+66,Mechanic,"Williams, Rodriguez and Sanchez","maintenance, electrical, computer",2+ years,High School,₹37413 per month,Technician,West Karen,Uttar Pradesh,Telugu,http://curtis.net/
+67,Computer Operator,Nguyen-Rogers,"maintenance, mechanics",0+ years,Bachelor,₹21251 per month,Operator,Jenkinsborough,Kerala,English,http://henry.net/
+68,Mechanic,Williams Ltd,"computer, wiring, mechanics",3+ years,Diploma,₹25981 per month,Technician,North Kevin,Uttar Pradesh,Telugu,https://crawford.com/
+69,Mechanic,"Brown, Collins and Sullivan","mechanics, electrical",1+ years,Master,₹44977 per month,Private,Port Thomas,Uttar Pradesh,Tamil,https://www.jackson.info/
+70,Accountant,"Rodriguez, Pearson and Bell","mechanics, maintenance",2+ years,ITI,₹11206 per month,Operator,Howardstad,Kerala,Telugu,https://www.butler.net/
+71,Mechanic,Mcmahon-Stewart,"accounting, wiring, maintenance",1+ years,Diploma,₹17209 per month,Government,South Davidland,Bihar,English,https://smith.com/
+72,Computer Operator,Woodard Inc,"maintenance, electrical, accounting",0+ years,High School,₹21641 per month,Government,New John,Maharashtra,Tamil,http://www.lucas.com/
+73,Computer Operator,Johnson Ltd,"maintenance, accounting, plumbing",1+ years,High School,₹24746 per month,Operator,Hoffmanmouth,Uttar Pradesh,Telugu,http://www.whitaker.com/
+74,Electrical Technician,"Berry, Fritz and Jensen","plumbing, accounting",1+ years,Diploma,₹23410 per month,Clerk,Bettyville,Tamil Nadu,Tamil,https://www.thomas.com/
+75,Computer Operator,Shelton-Elliott,"accounting, electrical, maintenance",2+ years,High School,₹46018 per month,Government,Port Elizabethburgh,Maharashtra,Telugu,https://www.lee.com/
+76,Mechanic,Thompson Inc,"electrical, accounting, mechanics",1+ years,Diploma,₹29889 per month,Technician,New Craig,Bihar,Malayalam,https://novak.com/
+77,Accountant,Stephens LLC,accounting,3+ years,ITI,₹48244 per month,Government,Marcside,Bihar,English,http://schultz-jackson.com/
+78,Electrical Technician,"Larson, Reyes and Frazier","plumbing, computer, maintenance",2+ years,Master,₹20147 per month,Private,Kevinfurt,Uttar Pradesh,Telugu,http://bowman-todd.com/
+79,Plumber,Leblanc LLC,"mechanics, computer, wiring",2+ years,Bachelor,₹45712 per month,Private,Meganport,Uttar Pradesh,Telugu,http://weiss.info/
+80,Electrical Technician,Hall-Chen,"mechanics, wiring, maintenance",0+ years,Bachelor,₹27025 per month,Clerk,Gailshire,Tamil Nadu,Telugu,http://www.price.com/
+81,Mechanic,Charles-Goodwin,"mechanics, plumbing, wiring",1+ years,Master,₹15879 per month,Clerk,Howardland,Uttar Pradesh,English,https://le-kennedy.com/
+82,Plumber,"Hill, Sanders and Wilkinson","electrical, mechanics",1+ years,Bachelor,₹48357 per month,Clerk,Darrenberg,Maharashtra,Telugu,http://stanton-nguyen.com/
+83,Mechanic,"Thomas, Allen and Kelly","maintenance, accounting, plumbing",1+ years,Diploma,₹44321 per month,Clerk,East Samantha,Maharashtra,English,https://www.price-lewis.com/
+84,Computer Operator,"Dodson, Erickson and Powers","electrical, plumbing, mechanics",2+ years,Master,₹34531 per month,Operator,Scottside,Maharashtra,Malayalam,http://www.harrell-wagner.com/
+85,Electrical Technician,"Hansen, Allison and Thomas","electrical, wiring",3+ years,ITI,₹15699 per month,Operator,Turnerfort,Maharashtra,Tamil,https://smith.com/
+86,Computer Operator,Garrett-Dawson,plumbing,3+ years,High School,₹11510 per month,Technician,East Brett,Tamil Nadu,Telugu,https://www.dunn-harris.org/
+87,Mechanic,"Mclaughlin, Collins and Harris","electrical, maintenance",3+ years,Master,₹44232 per month,Private,West Sherryton,Maharashtra,Malayalam,http://williams-cox.org/
+88,Mechanic,"Scott, Browning and Carlson",wiring,0+ years,Master,₹35781 per month,Clerk,Johnsport,Kerala,Telugu,http://romero.com/
+89,Accountant,Waters and Sons,"electrical, wiring",0+ years,Master,₹27013 per month,Clerk,South Anitamouth,Kerala,English,http://deleon.net/
+90,Electrical Technician,Stephens LLC,"maintenance, computer, accounting",2+ years,Diploma,₹19107 per month,Technician,Whitefort,Maharashtra,Hindi,http://www.shaffer-king.biz/
+91,Accountant,Warren-Moreno,"mechanics, maintenance",1+ years,Master,₹30367 per month,Technician,East Amyfurt,Uttar Pradesh,English,https://www.jackson-allen.com/
+92,Computer Operator,Maxwell-Jones,plumbing,1+ years,Master,₹19886 per month,Private,Port Richardside,Bihar,Tamil,https://frye.com/
+93,Accountant,"Fleming, Hernandez and Whitaker",mechanics,0+ years,Bachelor,₹28989 per month,Operator,Moorestad,Maharashtra,Tamil,https://www.miller.com/
+94,Plumber,Morales and Sons,"computer, wiring",1+ years,Master,₹35107 per month,Operator,North Stephanieside,Uttar Pradesh,Malayalam,http://www.peterson.biz/
+95,Plumber,Parker-Owen,"maintenance, accounting, plumbing",0+ years,Diploma,₹37742 per month,Clerk,Anthonyhaven,Bihar,Tamil,https://www.juarez.com/
+96,Computer Operator,Thompson Ltd,"accounting, electrical, computer",3+ years,High School,₹48159 per month,Operator,West Alyssaberg,Bihar,Telugu,https://cunningham-casey.info/
+97,Mechanic,Dorsey Ltd,plumbing,3+ years,ITI,₹47746 per month,Clerk,South Edwardborough,Tamil Nadu,English,https://www.vazquez.biz/
+98,Mechanic,"Dickerson, Reed and Copeland",mechanics,1+ years,Master,₹11058 per month,Private,North Marissabury,Tamil Nadu,English,http://www.davila.com/
+99,Accountant,"Charles, Clark and Baker","accounting, maintenance",2+ years,ITI,₹29669 per month,Technician,Perkinsburgh,Uttar Pradesh,Telugu,https://www.walker.com/
+100,Electrical Technician,Evans-Conley,mechanics,3+ years,ITI,₹35481 per month,Technician,Ethanhaven,Bihar,English,https://www.carter.net/
+101,Plumber,Rodriguez Group,"accounting, electrical",3+ years,Diploma,₹10588 per month,Clerk,Derekberg,Uttar Pradesh,Malayalam,https://www.velez.com/
+102,Electrical Technician,Sullivan-Garcia,"wiring, electrical",2+ years,High School,₹10150 per month,Private,New Tylerville,Maharashtra,English,http://thomas-ayala.info/
+103,Electrical Technician,Hunter-Paul,maintenance,3+ years,High School,₹36763 per month,Private,Parkerfort,Bihar,Tamil,https://franklin.com/
+104,Computer Operator,"Clark, Newman and Gutierrez","maintenance, accounting, mechanics",2+ years,ITI,₹23121 per month,Operator,Evansshire,Uttar Pradesh,English,https://diaz.com/
+105,Computer Operator,Sandoval Ltd,"maintenance, mechanics",2+ years,Master,₹19039 per month,Technician,South Samuelbury,Uttar Pradesh,Tamil,http://hernandez.com/
+106,Plumber,Green Inc,"electrical, mechanics, plumbing",3+ years,ITI,₹26507 per month,Operator,Griffinton,Bihar,English,http://www.wise.info/
+107,Electrical Technician,"Fleming, Small and Pitts","electrical, accounting, maintenance",1+ years,ITI,₹34821 per month,Clerk,Johnsonburgh,Maharashtra,Tamil,http://sanchez.com/
+108,Electrical Technician,Garcia-Edwards,"mechanics, electrical",1+ years,Master,₹19845 per month,Government,East Steven,Uttar Pradesh,Tamil,http://salinas.org/
+109,Mechanic,Hamilton-Wilson,"plumbing, accounting",3+ years,Bachelor,₹31637 per month,Technician,Erikmouth,Tamil Nadu,Tamil,http://santos.net/
+110,Electrical Technician,Dudley-Matthews,"maintenance, computer, plumbing",1+ years,ITI,₹40814 per month,Private,Gallowayberg,Uttar Pradesh,Hindi,https://www.johnson.com/
+111,Plumber,Gordon Ltd,mechanics,2+ years,Diploma,₹24256 per month,Technician,Marioville,Kerala,Tamil,http://miller.com/
+112,Electrical Technician,"Walker, Oneill and Lowe","accounting, mechanics, electrical",2+ years,ITI,₹13508 per month,Clerk,Morganmouth,Bihar,Tamil,http://www.russell.com/
+113,Accountant,Bates-Miller,"mechanics, wiring, computer",1+ years,ITI,₹24391 per month,Private,Danielland,Tamil Nadu,Telugu,http://www.stafford.biz/
+114,Computer Operator,Kelly PLC,mechanics,0+ years,High School,₹14727 per month,Government,Port Lindabury,Maharashtra,Telugu,http://www.rice.net/
+115,Computer Operator,Mccann-Wolfe,"computer, electrical, accounting",1+ years,Bachelor,₹29897 per month,Technician,Bradleyville,Maharashtra,Hindi,https://www.banks.com/
+116,Computer Operator,Williams Group,"wiring, accounting, plumbing",2+ years,Bachelor,₹31546 per month,Technician,Paigeberg,Tamil Nadu,Malayalam,https://harvey-green.com/
+117,Mechanic,Parker LLC,maintenance,0+ years,ITI,₹38459 per month,Government,Lake Jeremyview,Maharashtra,Malayalam,https://www.alexander.net/
+118,Electrical Technician,Roy-Sexton,wiring,2+ years,High School,₹34502 per month,Government,Mathisberg,Tamil Nadu,Telugu,https://www.thomas.com/
+119,Mechanic,Sullivan-Esparza,"plumbing, maintenance",0+ years,Master,₹39839 per month,Private,Kaylashire,Maharashtra,Telugu,http://watson.com/
+120,Electrical Technician,Hughes-Ayala,plumbing,1+ years,Master,₹33499 per month,Clerk,Josephland,Kerala,Hindi,http://hall.com/
+121,Mechanic,Brown PLC,"maintenance, wiring",2+ years,Master,₹37109 per month,Private,Gatesberg,Tamil Nadu,Malayalam,https://ryan-holmes.org/
+122,Mechanic,"Medina, Torres and Combs",mechanics,3+ years,Diploma,₹42645 per month,Technician,Port Alexaview,Kerala,Tamil,https://gonzales.net/
+123,Plumber,Cole Ltd,mechanics,2+ years,ITI,₹19428 per month,Private,East Jonathanmouth,Maharashtra,Tamil,http://garcia.com/
+124,Accountant,Snyder and Sons,"plumbing, maintenance",3+ years,High School,₹28652 per month,Clerk,South Lynnmouth,Bihar,Tamil,https://johnson.com/
+125,Accountant,Kemp PLC,accounting,1+ years,High School,₹12314 per month,Technician,Port Robert,Uttar Pradesh,Malayalam,http://may.com/
+126,Mechanic,Schroeder-King,"maintenance, electrical",0+ years,High School,₹49484 per month,Technician,New Sandraburgh,Uttar Pradesh,Malayalam,http://smith-holden.com/
+127,Mechanic,Morris Ltd,plumbing,3+ years,High School,₹15445 per month,Operator,Johnsontown,Bihar,Malayalam,https://www.zuniga.com/
+128,Mechanic,"Campbell, Camacho and Berry","computer, mechanics",0+ years,ITI,₹47793 per month,Operator,East Emilychester,Bihar,Malayalam,http://barr.info/
+129,Computer Operator,Price LLC,"mechanics, electrical",1+ years,Master,₹15976 per month,Government,Barronbury,Uttar Pradesh,Telugu,https://www.garza.com/
+130,Computer Operator,"Fischer, Chase and Moreno",wiring,1+ years,ITI,₹17112 per month,Technician,Taylorfort,Bihar,English,https://reese.org/
+131,Electrical Technician,Petersen LLC,"electrical, wiring",3+ years,Bachelor,₹14275 per month,Clerk,Banksburgh,Kerala,English,http://garcia.info/
+132,Accountant,"Goodwin, Terrell and Torres","electrical, wiring, accounting",3+ years,Master,₹38409 per month,Clerk,Lake Mercedes,Tamil Nadu,Malayalam,http://hunter.com/
+133,Electrical Technician,"Higgins, Kelly and Patel","accounting, maintenance",3+ years,Bachelor,₹13304 per month,Government,South Williamhaven,Tamil Nadu,Hindi,http://www.campos.com/
+134,Computer Operator,"Carter, Le and Roberson","maintenance, wiring, electrical",1+ years,ITI,₹48644 per month,Operator,New Samanthaville,Bihar,Tamil,https://www.cox.com/
+135,Accountant,"Melton, Greer and Carr","mechanics, wiring",1+ years,Master,₹22502 per month,Operator,Duranbury,Uttar Pradesh,English,http://www.nelson.com/
+136,Accountant,Conway-Doyle,"wiring, computer, electrical",0+ years,ITI,₹15946 per month,Clerk,Amystad,Bihar,English,http://www.mccormick-dunn.com/
+137,Accountant,"Jennings, Fernandez and Berry","electrical, wiring, plumbing",3+ years,ITI,₹47926 per month,Private,Danielside,Tamil Nadu,Telugu,https://www.garcia-hunter.com/
+138,Mechanic,Harvey-Graham,computer,0+ years,Master,₹47484 per month,Clerk,Thompsonchester,Tamil Nadu,Tamil,https://anderson.com/
+139,Mechanic,"Villegas, Hoffman and Bryant","wiring, mechanics",3+ years,Diploma,₹45010 per month,Clerk,Christopherstad,Uttar Pradesh,Malayalam,https://ortega.com/
+140,Electrical Technician,Fernandez Inc,"maintenance, electrical, wiring",0+ years,Master,₹44659 per month,Operator,New Brianfort,Kerala,Hindi,http://mcbride-cortez.net/
+141,Mechanic,Lewis-Davis,"computer, mechanics, electrical",0+ years,ITI,₹44638 per month,Operator,Montoyaburgh,Bihar,English,https://www.savage.org/
+142,Electrical Technician,Burke Ltd,"computer, mechanics",2+ years,Diploma,₹28472 per month,Clerk,Bradleyfurt,Bihar,Telugu,https://mccann.net/
+143,Electrical Technician,Gordon-Butler,"maintenance, accounting, computer",1+ years,Master,₹26660 per month,Government,Wilsonmouth,Maharashtra,Hindi,http://www.bush-lee.com/
+144,Electrical Technician,Rivera-Martin,"wiring, plumbing",3+ years,Diploma,₹29588 per month,Private,North Sergiofurt,Maharashtra,Malayalam,https://www.webb.com/
+145,Electrical Technician,"Perry, Payne and Hicks","plumbing, mechanics",3+ years,ITI,₹36083 per month,Government,Port Joshuaburgh,Kerala,Tamil,https://www.glass.org/
+146,Mechanic,"Garcia, Scott and Taylor","plumbing, mechanics, electrical",3+ years,ITI,₹24079 per month,Private,Toddfort,Tamil Nadu,Tamil,http://nguyen-robinson.com/
+147,Plumber,Brown Group,"accounting, mechanics",3+ years,Master,₹44526 per month,Private,Lake Christophermouth,Kerala,Tamil,http://www.smith.info/
+148,Computer Operator,Sims and Sons,"wiring, maintenance",2+ years,Bachelor,₹26363 per month,Operator,New Brandonton,Tamil Nadu,Malayalam,http://www.riggs.com/
+149,Mechanic,Howard Ltd,"accounting, computer, wiring",3+ years,Diploma,₹13931 per month,Government,Whitehaven,Tamil Nadu,Telugu,https://www.lin.net/
+150,Mechanic,"Vaughan, Decker and Doyle",electrical,2+ years,Master,₹45659 per month,Private,Leonardfurt,Tamil Nadu,Telugu,http://www.davis.com/
+151,Accountant,Sanchez-Burke,"mechanics, electrical",2+ years,High School,₹39100 per month,Clerk,Youngton,Uttar Pradesh,English,https://www.james-mack.net/
+152,Mechanic,Cain-Bailey,"maintenance, plumbing",2+ years,ITI,₹42764 per month,Technician,Barbershire,Kerala,Tamil,https://cole-tanner.com/
+153,Plumber,Sanchez-Moore,"plumbing, wiring",3+ years,High School,₹40545 per month,Government,Jasonchester,Bihar,Malayalam,https://byrd-bennett.com/
+154,Plumber,"Cruz, Ruiz and Lawrence","maintenance, plumbing",1+ years,Diploma,₹19145 per month,Operator,South Austin,Tamil Nadu,Tamil,https://www.mayo-moreno.com/
+155,Mechanic,"Poole, Fisher and Bradley","maintenance, wiring",1+ years,Diploma,₹45606 per month,Private,Ryanside,Bihar,Hindi,http://adams-adams.net/
+156,Electrical Technician,Hogan-Buchanan,electrical,0+ years,Diploma,₹13807 per month,Operator,Drewton,Maharashtra,English,https://garcia.info/
+157,Electrical Technician,Kirk-Rogers,"mechanics, computer, accounting",3+ years,Bachelor,₹34184 per month,Private,Lake Tanya,Tamil Nadu,Telugu,https://miller-rivera.com/
+158,Electrical Technician,"Ward, Anderson and Bauer",computer,1+ years,Bachelor,₹34448 per month,Operator,Grahamhaven,Bihar,Malayalam,http://www.erickson.org/
+159,Accountant,Thomas-Odom,wiring,0+ years,High School,₹11447 per month,Government,Nicholasmouth,Maharashtra,English,http://brown.com/
+160,Computer Operator,"Calhoun, Garner and Schmitt","computer, accounting",1+ years,High School,₹30528 per month,Clerk,Davidberg,Tamil Nadu,Telugu,https://wallace-martinez.info/
+161,Electrical Technician,"Johnston, Morris and Simmons","mechanics, plumbing",2+ years,High School,₹15771 per month,Clerk,North Lisaburgh,Kerala,Hindi,https://www.waters.com/
+162,Plumber,"Moore, Adams and Carter",plumbing,1+ years,Master,₹42642 per month,Clerk,New Loganport,Uttar Pradesh,Telugu,http://cross.info/
+163,Mechanic,"West, Lloyd and Juarez",plumbing,2+ years,Diploma,₹16349 per month,Operator,Nataliechester,Tamil Nadu,English,https://hernandez.com/
+164,Accountant,Evans-Pearson,wiring,0+ years,High School,₹11708 per month,Operator,Johnathanborough,Uttar Pradesh,Hindi,https://www.stewart.com/
+165,Computer Operator,Hall-Bennett,"mechanics, computer, electrical",0+ years,Diploma,₹39413 per month,Operator,East Ericshire,Uttar Pradesh,Malayalam,http://www.montes.com/
+166,Plumber,Carpenter PLC,"wiring, electrical",2+ years,Bachelor,₹39146 per month,Operator,Danielview,Bihar,Tamil,https://www.howard.biz/
+167,Mechanic,West-Mcmillan,"maintenance, computer, electrical",1+ years,Diploma,₹28034 per month,Government,Waltonside,Bihar,English,https://barry.com/
+168,Accountant,Terry and Sons,"accounting, computer",0+ years,Master,₹41300 per month,Government,Lake Heather,Uttar Pradesh,English,http://rios.org/
+169,Plumber,Carson-Levine,"mechanics, plumbing",3+ years,High School,₹45807 per month,Government,New Jenna,Maharashtra,Hindi,http://rose.net/
+170,Accountant,"Hobbs, Oneill and Ferguson","mechanics, plumbing, computer",0+ years,ITI,₹45667 per month,Clerk,North Michael,Maharashtra,English,https://sanchez.biz/
+171,Mechanic,"Kaufman, Alexander and Cruz","plumbing, electrical",3+ years,Bachelor,₹10399 per month,Government,West Taramouth,Bihar,Telugu,https://rodriguez.com/
+172,Accountant,Rodriguez-Lopez,maintenance,3+ years,ITI,₹37482 per month,Operator,West Jamiehaven,Maharashtra,English,http://green.info/
+173,Computer Operator,Leonard-Martinez,"accounting, mechanics, plumbing",0+ years,High School,₹39958 per month,Operator,West Edward,Bihar,Malayalam,https://www.reed.org/
+174,Electrical Technician,"Rodgers, Owens and Ballard","mechanics, accounting",2+ years,ITI,₹35170 per month,Private,Bakerville,Kerala,Telugu,https://gill.com/
+175,Plumber,Reid and Sons,"wiring, maintenance",2+ years,ITI,₹19419 per month,Operator,West Christopherside,Tamil Nadu,English,http://www.barnett.com/
+176,Mechanic,Flores-Craig,maintenance,3+ years,ITI,₹27949 per month,Technician,West Cassieborough,Bihar,Tamil,https://www.fisher.org/
+177,Accountant,Jensen LLC,"accounting, mechanics",0+ years,Bachelor,₹42366 per month,Private,North Lindsey,Uttar Pradesh,Tamil,https://hernandez.com/
+178,Computer Operator,Leonard-Banks,electrical,3+ years,Diploma,₹26304 per month,Clerk,Wardland,Bihar,Hindi,https://joseph-arellano.org/
+179,Mechanic,"Sullivan, Williams and Riley",mechanics,2+ years,Bachelor,₹15267 per month,Private,South Kellytown,Kerala,Telugu,https://www.wolf.org/
+180,Accountant,Lindsey-Young,maintenance,2+ years,Master,₹15811 per month,Private,Lucaschester,Uttar Pradesh,Tamil,https://www.williams.com/
+181,Computer Operator,Cooper-Oneill,"mechanics, wiring",3+ years,Master,₹25791 per month,Clerk,East Wendyview,Bihar,English,https://hawkins.com/
+182,Plumber,"Cook, Taylor and Johnson","accounting, maintenance, electrical",1+ years,Diploma,₹39466 per month,Operator,Lake Andrewport,Tamil Nadu,Tamil,https://www.james.biz/
+183,Mechanic,Holt-Noble,"maintenance, plumbing",1+ years,Master,₹43360 per month,Technician,Port Vickifort,Maharashtra,Malayalam,http://farmer-joseph.info/
+184,Mechanic,Phillips Ltd,"accounting, maintenance",2+ years,High School,₹38028 per month,Technician,East Davidmouth,Bihar,Telugu,http://www.contreras-turner.com/
+185,Electrical Technician,Hill and Sons,"mechanics, plumbing, electrical",3+ years,Diploma,₹24459 per month,Government,Walshfort,Uttar Pradesh,Malayalam,http://jenkins.com/
+186,Computer Operator,"Mason, Mendez and Grant","plumbing, computer",3+ years,ITI,₹16668 per month,Operator,Cynthiastad,Tamil Nadu,Telugu,https://www.evans-oliver.info/
+187,Accountant,Thomas and Sons,"accounting, electrical",3+ years,ITI,₹46778 per month,Government,Mooneyburgh,Kerala,Hindi,https://adams.org/
+188,Mechanic,Richard Ltd,maintenance,3+ years,High School,₹16035 per month,Government,Wallaceton,Uttar Pradesh,English,http://brown.com/
+189,Electrical Technician,Sparks-Harris,"wiring, mechanics, computer",3+ years,Master,₹10311 per month,Clerk,Port Andrewside,Tamil Nadu,Malayalam,https://crawford-wilson.net/
+190,Accountant,"Silva, Brooks and Goodman","electrical, maintenance",2+ years,High School,₹43821 per month,Private,Wendyside,Tamil Nadu,Telugu,https://ford.org/
+191,Plumber,Turner-Jones,electrical,3+ years,ITI,₹37256 per month,Private,Montesmouth,Kerala,English,http://www.murphy.com/
+192,Accountant,Wong-Brooks,"accounting, computer, maintenance",1+ years,ITI,₹31105 per month,Private,Robinbury,Kerala,Tamil,http://www.potts-riley.com/
+193,Computer Operator,"Griffin, Hendricks and Williams","accounting, mechanics",1+ years,Bachelor,₹36297 per month,Operator,Wellschester,Tamil Nadu,Malayalam,https://crawford.net/
+194,Accountant,Webb-Green,"maintenance, plumbing, wiring",2+ years,High School,₹16435 per month,Operator,South Miguel,Maharashtra,Tamil,http://smith.com/
+195,Accountant,"Marquez, Shannon and Chan","maintenance, computer",0+ years,Bachelor,₹45373 per month,Government,Hensleyfort,Uttar Pradesh,Tamil,https://garcia-logan.com/
+196,Mechanic,Camacho-Chase,"accounting, electrical, plumbing",3+ years,Diploma,₹12448 per month,Government,North Anthony,Tamil Nadu,Tamil,http://www.gallegos-boyd.net/
+197,Mechanic,Ayers-Hall,"accounting, mechanics",1+ years,Bachelor,₹34689 per month,Private,North Michellebury,Kerala,Malayalam,https://harvey.biz/
+198,Computer Operator,"Rangel, Anderson and Chavez","plumbing, mechanics, wiring",0+ years,Bachelor,₹20131 per month,Private,Carolhaven,Uttar Pradesh,Tamil,https://bell.info/
+199,Mechanic,"Walls, Dixon and Ryan","mechanics, accounting",1+ years,Diploma,₹14853 per month,Operator,Lake David,Uttar Pradesh,Telugu,http://www.lewis-cruz.com/
+200,Mechanic,Miller-Dudley,"computer, electrical",2+ years,ITI,₹12294 per month,Private,Ryanbury,Bihar,Hindi,https://oliver.com/
