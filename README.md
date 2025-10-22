@@ -1,8 +1,8 @@
 
 # SkillBridge: AI-Powered Job & Course Recommender
 
-[![Python](https://img.shields.io/badge/python-3.10-blue?logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/streamlit-v1.25-orange?logo=streamlit)](https://streamlit.io/)
+[![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/streamlit-v2.25-orange?logo=streamlit)](https://streamlit.io/)
 
 
 ## 🚀 Project Overview
@@ -25,18 +25,16 @@ Key features include:
 SkillBridge/
 │
 ├─ app/
-│   ├─ recommender.py
-│   ├─ chatbot_ai.py
-│   └─ streamlit_app.py
-│
+│   └─recommender.py
+│   
 ├─ data/
 │   ├─ users.csv
 │   ├─ jobs.csv
 │   └─ courses.csv
-│
-├─ notebooks/
-│   ├─ EDA.ipynb
-│   └─ model_training.ipynb
+│ 
+├─chatbot_ui.py
+│ 
+├─ SkillBridge.ipynb
 │
 ├─ requirements.txt
 └─ README.md
@@ -89,20 +87,17 @@ streamlit run app/chatbot_ui.py
 
 **Job Recommendations Table** and **Course Recommendations Table**
 
-1. Chatbot Input :
+**1. Chatbot Input :**
 
 <img width="1817" height="671" alt="image" src="https://github.com/user-attachments/assets/7b321a07-1890-4cc6-8e93-cee60bfc42db" />
 
-2. Output Recommendation in streamlit :
+**2. Output Recommendation in streamlit :**
 
 <img width="1813" height="766" alt="image" src="https://github.com/user-attachments/assets/4c0bf629-de03-4dd4-bc77-85aaa08218ac" />
 
-3. Output Recommendation in CLI :
+**3. Output Recommendation in CLI :**
    
 <img width="1183" height="700" alt="image" src="https://github.com/user-attachments/assets/ef02eb0f-8a8c-4707-8891-4dfe428a8267" />
-
-
-
 
 
 
