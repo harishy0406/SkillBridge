@@ -3,23 +3,48 @@ import numpy as np
 from faker import Faker
 import random
 
-fake = Faker()
+fake = Faker('en_IN') 
 
 # -----------------------------
 # Parameters
 # -----------------------------
-num_rows = 800  # Number of users
-job_rows = 200  # Number of jobs
-course_rows = 50  # Number of courses
+num_rows = 1200  # Number of users
+job_rows = 500  # Number of jobs
+course_rows = 100  # Number of courses
 
 # -----------------------------
 # 1️⃣ Generate Users Dataset
 # -----------------------------
-education_levels = ['High School', 'ITI', 'Diploma', 'Bachelor', 'Master']
-skills_list = ['electrical', 'wiring', 'maintenance', 'plumbing', 'computer', 'accounting', 'mechanics']
-job_types = ['Government', 'Private', 'Technician', 'Operator', 'Clerk']
-regions = ['Tamil Nadu', 'Kerala', 'Bihar', 'Uttar Pradesh', 'Maharashtra']
-languages = ['English', 'Hindi', 'Tamil', 'Telugu', 'Malayalam']
+education_levels = [
+    'High School', 'ITI', 'Diploma', 'Bachelor', 'Master',
+    'PhD', 'Vocational Training', 'Certificate Course', '10th', '12th',
+    'Undergraduate', 'Postgraduate'
+]
+
+skills_list = [
+    'electrical', 'wiring', 'maintenance', 'plumbing', 'computer',
+    'accounting', 'mechanics', 'carpentry', 'driving', 'teaching',
+    'typing', 'graphic design'
+]
+
+job_types = [
+    'Government', 'Private', 'Technician', 'Operator', 'Clerk',
+    'Manager', 'Assistant', 'Supervisor', 'Engineer', 'Trainer',
+    'Consultant'
+]
+
+regions = [
+    'Tamil Nadu', 'Kerala', 'Bihar', 'Uttar Pradesh', 'Maharashtra',
+    'Karnataka', 'West Bengal', 'Gujarat', 'Rajasthan', 'Punjab',
+    'Odisha'
+]
+
+languages = [
+    'English', 'Hindi', 'Tamil', 'Telugu', 'Malayalam',
+    'Kannada', 'Marathi', 'Bengali', 'Gujarati', 'Odia',
+    'Punjabi'
+]
+
 
 users_data = []
 
@@ -47,7 +72,15 @@ print("Users dataset generated: users.csv")
 # -----------------------------
 # 2️⃣ Generate Jobs Dataset
 # -----------------------------
-job_titles = ['Electrical Technician', 'Plumber', 'Computer Operator', 'Accountant', 'Mechanic']
+job_titles = [
+    'Electrical Technician', 'Plumber', 'Computer Operator', 'Accountant', 'Mechanic',
+    'Data Entry Operator', 'Office Assistant', 'Driver', 'Welder', 'Carpenter',
+    'Electrician', 'Civil Engineer', 'Junior Engineer', 'Machine Operator', 'Store Keeper',
+    'Field Technician', 'Sales Executive', 'Marketing Assistant', 'Teacher', 'Clerk',
+    'Customer Support Executive', 'Security Guard', 'Delivery Boy', 'Tailor', 'Lab Assistant',
+    'Receptionist', 'Healthcare Worker', 'Technician Apprentice', 'Auto Driver', 'Maintenance Supervisor'
+]
+
 
 jobs_data = []
 for i in range(1, job_rows + 1):
@@ -75,7 +108,16 @@ print("Jobs dataset generated: jobs.csv")
 # -----------------------------
 # 3️⃣ Generate Courses Dataset
 # -----------------------------
-course_names = ['Electrician Level 1', 'Computer Basics', 'Plumbing Fundamentals', 'Mechanics Training', 'Accountancy Skills']
+course_names = [
+    'Electrician Level 1', 'Computer Basics', 'Plumbing Fundamentals', 'Mechanics Training', 'Accountancy Skills',
+    'Advanced Electrical Systems', 'Basic Carpentry', 'Welding and Fabrication', 'Refrigeration and AC Mechanic', 'Driving Training',
+    'Data Entry and Office Tools', 'Mobile Repairing', 'Automobile Maintenance', 'Civil Drafting', 'Basic Tailoring',
+    'Customer Service Training', 'English Communication Skills', 'Basic Computer Applications', 'Digital Marketing', 'Solar Panel Installation',
+    'Health and Safety Training', 'Machine Operator Course', 'Field Technician Training', 'Retail Sales Associate', 'House Wiring and Maintenance',
+    'Hospitality Management Basics', 'Bakery and Food Processing', 'Agricultural Equipment Handling', 'Home Appliance Repair', 'Basic Electronics',
+    'Handloom and Textile Skills', 'Construction Site Supervisor', 'CNC Machine Operations', 'Graphic Design Essentials', 'Typing and Data Management'
+]
+
 
 courses_data = []
 for i in range(1, course_rows + 1):

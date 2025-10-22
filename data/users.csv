@@ -1,801 +1,1201 @@
 user_id,name,age,gender,education,skills,experience,preferred_job_type,region,language,interests
-1,Austin,26,M,ITI,electrical,1 years,Operator,Maharashtra,Telugu,Internship
-2,David,27,M,Diploma,maintenance,0 years,Government,Uttar Pradesh,Hindi,Private job
-3,Robert,31,F,Bachelor,mechanics,4 years,Operator,Maharashtra,Telugu,Government job
-4,Charles,22,M,Diploma,"mechanics, electrical",3 years,Government,Maharashtra,Tamil,Government job
-5,Melanie,26,M,Diploma,plumbing,1 years,Technician,Kerala,English,Private job
-6,Michael,18,F,High School,mechanics,2 years,Government,Kerala,English,Private job
-7,George,35,M,Master,maintenance,0 years,Technician,Kerala,Tamil,Government job
-8,Mike,35,F,High School,"computer, plumbing",2 years,Clerk,Bihar,Telugu,Training
-9,Jason,25,M,High School,computer,3 years,Private,Kerala,Malayalam,Private job
-10,Tyler,18,M,Bachelor,"electrical, maintenance",2 years,Clerk,Bihar,Telugu,Internship
-11,Michael,26,F,Master,"wiring, maintenance",4 years,Government,Maharashtra,Telugu,Internship
-12,John,20,M,ITI,"mechanics, computer, plumbing",4 years,Operator,Kerala,Tamil,Internship
-13,Jason,23,F,High School,"accounting, electrical, maintenance",4 years,Private,Uttar Pradesh,Telugu,Government job
-14,Andre,20,F,Diploma,wiring,2 years,Operator,Kerala,English,Training
-15,Rachel,18,M,Bachelor,"plumbing, mechanics, maintenance",1 years,Private,Uttar Pradesh,Telugu,Government job
-16,Juan,32,F,High School,"maintenance, accounting, electrical",5 years,Operator,Uttar Pradesh,Malayalam,Internship
-17,Max,34,M,Master,"maintenance, plumbing",4 years,Government,Bihar,English,Internship
-18,Yolanda,23,M,Master,"wiring, computer, maintenance",5 years,Operator,Maharashtra,Malayalam,Internship
-19,Veronica,23,M,ITI,mechanics,3 years,Private,Kerala,English,Internship
-20,Stacey,24,M,Master,"electrical, accounting",2 years,Operator,Bihar,Telugu,Training
-21,Abigail,18,F,Master,"maintenance, mechanics",5 years,Government,Uttar Pradesh,English,Private job
-22,Stacy,21,M,Diploma,accounting,0 years,Technician,Kerala,Telugu,Private job
-23,Alfred,27,F,High School,wiring,4 years,Operator,Maharashtra,English,Internship
-24,Kristopher,18,F,Master,"computer, wiring",2 years,Operator,Maharashtra,Telugu,Training
-25,Victor,27,F,Bachelor,"maintenance, mechanics",5 years,Private,Bihar,Telugu,Government job
-26,John,31,F,ITI,"mechanics, accounting, electrical",1 years,Technician,Maharashtra,Hindi,Private job
-27,Stephanie,22,M,Master,"accounting, wiring",4 years,Private,Uttar Pradesh,English,Government job
-28,Erika,29,F,ITI,"computer, mechanics",4 years,Clerk,Bihar,English,Government job
-29,Andrew,26,M,High School,"plumbing, accounting, wiring",5 years,Private,Bihar,Hindi,Government job
-30,Joseph,24,M,High School,mechanics,3 years,Technician,Kerala,Malayalam,Private job
-31,John,22,F,Bachelor,"plumbing, maintenance",0 years,Government,Bihar,Malayalam,Government job
-32,Deborah,22,F,Bachelor,"maintenance, plumbing, electrical",4 years,Clerk,Kerala,Hindi,Private job
-33,Diana,32,M,High School,"mechanics, accounting",5 years,Government,Maharashtra,Telugu,Private job
-34,Steven,18,M,Bachelor,"wiring, accounting",3 years,Government,Kerala,Malayalam,Private job
-35,David,22,M,ITI,"accounting, electrical, mechanics",5 years,Operator,Bihar,Hindi,Internship
-36,Tammy,24,M,Diploma,plumbing,0 years,Clerk,Tamil Nadu,Malayalam,Internship
-37,Jeffrey,30,F,High School,"wiring, mechanics, computer",5 years,Clerk,Bihar,Tamil,Training
-38,Robert,18,M,High School,mechanics,1 years,Private,Maharashtra,Hindi,Internship
-39,Eric,27,F,Bachelor,"accounting, plumbing",0 years,Clerk,Kerala,Tamil,Private job
-40,Amanda,20,F,Master,"plumbing, wiring, accounting",0 years,Government,Uttar Pradesh,English,Private job
-41,Cheryl,28,F,ITI,"plumbing, wiring",2 years,Clerk,Maharashtra,Malayalam,Private job
-42,Timothy,22,F,Diploma,computer,0 years,Technician,Kerala,Malayalam,Private job
-43,Daniel,27,F,Diploma,"mechanics, electrical, computer",1 years,Technician,Bihar,Malayalam,Government job
-44,Matthew,32,F,Master,maintenance,5 years,Clerk,Bihar,English,Internship
-45,Maria,34,M,Master,computer,1 years,Private,Tamil Nadu,Hindi,Government job
-46,Johnny,22,F,High School,accounting,3 years,Government,Bihar,Malayalam,Internship
-47,Stacey,20,M,Diploma,"electrical, plumbing",3 years,Operator,Maharashtra,English,Internship
-48,Thomas,26,M,High School,"electrical, accounting",2 years,Private,Maharashtra,Telugu,Internship
-49,Jeffrey,32,M,Master,"accounting, maintenance, wiring",0 years,Clerk,Bihar,Telugu,Internship
-50,Brenda,34,M,Master,wiring,0 years,Private,Tamil Nadu,Tamil,Training
-51,Chelsea,34,M,Master,accounting,3 years,Technician,Uttar Pradesh,English,Internship
-52,Anita,22,M,High School,"accounting, mechanics",0 years,Government,Kerala,English,Training
-53,Aaron,31,F,High School,"mechanics, accounting",3 years,Operator,Tamil Nadu,Hindi,Training
-54,Caroline,28,F,Master,electrical,4 years,Technician,Kerala,Malayalam,Private job
-55,Shannon,19,M,Diploma,"wiring, electrical, maintenance",1 years,Operator,Tamil Nadu,English,Private job
-56,Shawn,18,M,Bachelor,maintenance,4 years,Operator,Tamil Nadu,Tamil,Training
-57,Lance,24,F,Master,accounting,4 years,Operator,Tamil Nadu,English,Training
-58,David,28,F,ITI,maintenance,0 years,Government,Tamil Nadu,Tamil,Internship
-59,Eric,26,F,Master,"accounting, maintenance, electrical",1 years,Operator,Maharashtra,English,Private job
-60,Michael,22,F,Bachelor,wiring,2 years,Operator,Uttar Pradesh,Tamil,Private job
-61,Cole,23,M,Bachelor,accounting,1 years,Technician,Kerala,English,Internship
-62,Julie,26,M,Bachelor,electrical,3 years,Clerk,Tamil Nadu,Hindi,Government job
-63,Reginald,28,F,Master,plumbing,3 years,Government,Bihar,Hindi,Internship
-64,Reginald,31,M,Diploma,maintenance,4 years,Operator,Bihar,Hindi,Government job
-65,Joseph,19,M,Master,"computer, wiring, plumbing",0 years,Clerk,Bihar,Tamil,Private job
-66,Brent,35,F,Diploma,"computer, wiring, plumbing",1 years,Clerk,Kerala,Tamil,Training
-67,Jonathan,34,M,ITI,"maintenance, mechanics",2 years,Technician,Bihar,Hindi,Private job
-68,Bonnie,27,F,Master,electrical,3 years,Private,Tamil Nadu,English,Private job
-69,Eric,29,F,Diploma,maintenance,3 years,Clerk,Maharashtra,Malayalam,Training
-70,Paul,31,M,ITI,"electrical, mechanics",0 years,Government,Maharashtra,Telugu,Internship
-71,Heather,26,F,Master,"mechanics, accounting",0 years,Private,Maharashtra,Malayalam,Private job
-72,Bonnie,33,M,ITI,"mechanics, accounting, electrical",2 years,Technician,Bihar,Hindi,Government job
-73,Brandon,18,M,ITI,electrical,5 years,Operator,Bihar,English,Training
-74,Joseph,31,F,Master,wiring,1 years,Operator,Tamil Nadu,Hindi,Training
-75,Sarah,32,M,Bachelor,"maintenance, mechanics",3 years,Private,Maharashtra,Malayalam,Private job
-76,Kevin,23,F,Bachelor,"maintenance, wiring",0 years,Operator,Kerala,Malayalam,Internship
-77,Joseph,32,M,Diploma,"electrical, accounting",2 years,Clerk,Kerala,Hindi,Government job
-78,Paula,29,F,ITI,"mechanics, plumbing, accounting",0 years,Technician,Bihar,Tamil,Training
-79,Thomas,28,F,ITI,"wiring, computer",3 years,Clerk,Tamil Nadu,Tamil,Government job
-80,Ralph,23,M,High School,"plumbing, accounting",5 years,Private,Uttar Pradesh,Malayalam,Internship
-81,Courtney,34,M,Diploma,"wiring, maintenance",4 years,Operator,Bihar,English,Private job
-82,Ashley,32,M,Bachelor,"computer, mechanics, wiring",1 years,Technician,Uttar Pradesh,Hindi,Private job
-83,Stacie,34,F,High School,"computer, plumbing, maintenance",2 years,Private,Bihar,English,Private job
-84,Daniel,34,M,High School,"mechanics, maintenance",1 years,Operator,Kerala,Malayalam,Internship
-85,Kenneth,23,M,High School,plumbing,4 years,Government,Uttar Pradesh,Malayalam,Private job
-86,Kelly,29,F,Diploma,"electrical, maintenance",3 years,Clerk,Maharashtra,Telugu,Internship
-87,Phillip,25,F,Diploma,mechanics,0 years,Operator,Tamil Nadu,English,Government job
-88,Willie,32,F,Bachelor,"electrical, wiring, maintenance",4 years,Private,Uttar Pradesh,Tamil,Government job
-89,Benjamin,31,F,ITI,"plumbing, wiring",2 years,Technician,Maharashtra,Hindi,Private job
-90,Daniel,34,F,High School,"wiring, computer, electrical",2 years,Government,Uttar Pradesh,Hindi,Private job
-91,Scott,32,F,ITI,"computer, electrical, maintenance",4 years,Clerk,Maharashtra,Malayalam,Private job
-92,Tamara,26,F,High School,"plumbing, electrical",3 years,Technician,Bihar,English,Private job
-93,Wayne,19,F,High School,maintenance,1 years,Technician,Uttar Pradesh,Tamil,Government job
-94,Heidi,33,F,Master,"mechanics, plumbing",5 years,Clerk,Bihar,Telugu,Government job
-95,Ashley,23,M,Diploma,"wiring, electrical, computer",1 years,Operator,Uttar Pradesh,Malayalam,Private job
-96,Patty,23,F,Diploma,electrical,1 years,Clerk,Tamil Nadu,Hindi,Internship
-97,Jennifer,22,F,ITI,computer,3 years,Government,Tamil Nadu,English,Internship
-98,Molly,29,F,Diploma,wiring,5 years,Clerk,Kerala,Telugu,Government job
-99,Isaiah,23,F,High School,"electrical, plumbing",4 years,Technician,Bihar,Tamil,Government job
-100,Elizabeth,27,F,Master,wiring,3 years,Private,Tamil Nadu,Tamil,Private job
-101,Stacey,23,M,High School,mechanics,5 years,Technician,Bihar,Telugu,Training
-102,Jody,28,M,Diploma,mechanics,0 years,Technician,Kerala,Malayalam,Internship
-103,Michelle,29,M,Bachelor,"accounting, computer",3 years,Operator,Maharashtra,Tamil,Training
-104,Billy,32,F,ITI,"electrical, accounting, computer",4 years,Private,Kerala,Telugu,Internship
-105,Nicholas,19,F,High School,"maintenance, mechanics",5 years,Private,Maharashtra,Malayalam,Training
-106,Bill,22,M,High School,"mechanics, plumbing, wiring",2 years,Operator,Kerala,Malayalam,Internship
-107,Michele,33,M,Master,"computer, electrical, mechanics",3 years,Technician,Bihar,Malayalam,Government job
-108,Amy,31,M,Master,"mechanics, wiring, computer",2 years,Government,Kerala,Hindi,Internship
-109,Adrian,26,F,Bachelor,"accounting, wiring",4 years,Technician,Kerala,Telugu,Private job
-110,Mark,18,F,ITI,"accounting, mechanics",4 years,Private,Kerala,English,Internship
-111,Bobby,24,F,ITI,"accounting, computer, maintenance",1 years,Clerk,Uttar Pradesh,Tamil,Internship
-112,Patrick,33,F,Bachelor,"mechanics, electrical",2 years,Clerk,Tamil Nadu,English,Private job
-113,Sarah,34,F,Bachelor,"accounting, computer, plumbing",1 years,Technician,Bihar,English,Government job
-114,Jacob,35,F,Master,"computer, maintenance",5 years,Private,Maharashtra,Hindi,Private job
-115,Daniel,27,M,Diploma,"plumbing, computer, wiring",3 years,Private,Bihar,Malayalam,Internship
-116,Kevin,27,M,ITI,accounting,1 years,Government,Kerala,Tamil,Private job
-117,Brittany,35,M,Master,"accounting, mechanics",5 years,Private,Maharashtra,Hindi,Internship
-118,Adriana,29,M,High School,"plumbing, computer, maintenance",5 years,Government,Kerala,English,Government job
-119,Richard,18,M,Bachelor,"mechanics, maintenance",5 years,Operator,Tamil Nadu,Malayalam,Training
-120,Jennifer,18,M,Bachelor,"mechanics, maintenance",4 years,Government,Uttar Pradesh,Telugu,Training
-121,Daniel,20,M,ITI,"computer, mechanics",0 years,Operator,Maharashtra,Telugu,Internship
-122,Andrea,34,F,ITI,accounting,2 years,Clerk,Tamil Nadu,Malayalam,Private job
-123,Gregory,22,M,Master,"maintenance, computer",5 years,Clerk,Bihar,Hindi,Internship
-124,Madison,26,M,Bachelor,"mechanics, wiring",1 years,Government,Maharashtra,Malayalam,Training
-125,Eric,30,F,High School,"maintenance, computer, plumbing",3 years,Government,Tamil Nadu,Malayalam,Government job
-126,Patrick,32,F,Bachelor,plumbing,1 years,Clerk,Bihar,Telugu,Internship
-127,Charles,32,F,ITI,"maintenance, accounting",2 years,Operator,Tamil Nadu,Tamil,Internship
-128,Jason,32,M,Master,"wiring, electrical, accounting",4 years,Private,Kerala,Telugu,Internship
-129,Betty,25,M,Bachelor,"electrical, plumbing",0 years,Private,Uttar Pradesh,Malayalam,Government job
-130,John,23,F,High School,mechanics,1 years,Government,Uttar Pradesh,Telugu,Private job
-131,Chad,29,F,Bachelor,"mechanics, maintenance, computer",1 years,Government,Uttar Pradesh,Malayalam,Private job
-132,Regina,25,M,Diploma,electrical,5 years,Technician,Bihar,English,Training
-133,Michael,27,F,ITI,"plumbing, mechanics, wiring",4 years,Private,Maharashtra,Tamil,Private job
-134,Kelly,31,F,ITI,"accounting, computer",3 years,Technician,Bihar,Tamil,Government job
-135,Thomas,34,M,Master,plumbing,4 years,Technician,Maharashtra,Hindi,Training
-136,Haley,34,M,Master,"electrical, wiring",5 years,Operator,Maharashtra,Tamil,Government job
-137,Richard,34,F,Diploma,"accounting, computer",2 years,Operator,Tamil Nadu,Malayalam,Training
-138,Shannon,30,F,High School,"computer, electrical, wiring",1 years,Technician,Bihar,Telugu,Private job
-139,Brenda,30,F,Diploma,"mechanics, computer",3 years,Government,Uttar Pradesh,Hindi,Private job
-140,Suzanne,32,F,Master,"accounting, maintenance, computer",5 years,Technician,Kerala,Telugu,Private job
-141,Ashley,20,F,Bachelor,"computer, plumbing, electrical",3 years,Government,Maharashtra,Malayalam,Government job
-142,James,28,M,Bachelor,"mechanics, electrical, computer",4 years,Clerk,Bihar,Hindi,Private job
-143,Jared,29,M,Bachelor,"computer, plumbing, wiring",0 years,Private,Kerala,Malayalam,Private job
-144,Patricia,24,M,Master,"maintenance, plumbing, mechanics",1 years,Government,Tamil Nadu,English,Government job
-145,Stephanie,27,M,Bachelor,"computer, electrical",0 years,Private,Uttar Pradesh,Malayalam,Training
-146,Kristina,28,M,Diploma,"wiring, computer, mechanics",0 years,Operator,Tamil Nadu,Telugu,Government job
-147,Beverly,25,M,Bachelor,"computer, accounting, mechanics",4 years,Clerk,Uttar Pradesh,English,Internship
-148,Tracy,19,M,High School,accounting,4 years,Technician,Kerala,Telugu,Government job
-149,Wendy,24,M,ITI,"computer, plumbing",3 years,Private,Uttar Pradesh,English,Private job
-150,Maxwell,35,F,High School,"accounting, wiring",3 years,Technician,Uttar Pradesh,Malayalam,Internship
-151,Kathleen,21,F,High School,wiring,3 years,Private,Tamil Nadu,English,Private job
-152,Michael,24,F,Master,plumbing,0 years,Government,Maharashtra,Telugu,Private job
-153,Jessica,28,M,Master,"computer, plumbing, electrical",0 years,Private,Uttar Pradesh,Hindi,Training
-154,Randy,35,M,High School,mechanics,4 years,Operator,Uttar Pradesh,English,Training
-155,Marissa,30,M,Bachelor,"electrical, wiring",1 years,Technician,Kerala,English,Training
-156,Christopher,18,F,Diploma,"wiring, plumbing",5 years,Government,Bihar,Telugu,Internship
-157,Amanda,35,M,ITI,computer,0 years,Clerk,Maharashtra,Malayalam,Government job
-158,Michael,23,M,High School,"maintenance, accounting",0 years,Technician,Bihar,English,Government job
-159,Ivan,21,F,ITI,maintenance,2 years,Private,Tamil Nadu,Tamil,Private job
-160,Christopher,30,F,High School,"maintenance, wiring",1 years,Operator,Maharashtra,English,Internship
-161,Regina,35,F,Master,"maintenance, plumbing, computer",4 years,Private,Uttar Pradesh,English,Government job
-162,Adam,24,M,ITI,"plumbing, wiring",4 years,Private,Tamil Nadu,English,Private job
-163,Karen,30,F,High School,"accounting, mechanics, computer",2 years,Private,Tamil Nadu,Malayalam,Private job
-164,Peter,30,M,High School,"computer, accounting",2 years,Operator,Kerala,English,Government job
-165,Nicholas,27,M,ITI,"maintenance, plumbing",4 years,Private,Uttar Pradesh,Malayalam,Private job
-166,Teresa,18,M,Bachelor,accounting,5 years,Technician,Maharashtra,Telugu,Internship
-167,Kelli,23,F,Master,computer,4 years,Private,Uttar Pradesh,Malayalam,Government job
-168,Justin,19,F,High School,"maintenance, wiring, computer",2 years,Operator,Bihar,English,Internship
-169,Maria,20,M,Master,"electrical, maintenance, wiring",2 years,Technician,Tamil Nadu,English,Internship
-170,Brian,31,F,Master,maintenance,4 years,Government,Tamil Nadu,Telugu,Government job
-171,Benjamin,31,F,Bachelor,mechanics,1 years,Private,Tamil Nadu,English,Private job
-172,Kelly,34,M,High School,"maintenance, computer",5 years,Government,Bihar,Telugu,Internship
-173,Colleen,33,M,ITI,"plumbing, electrical, wiring",2 years,Operator,Kerala,Malayalam,Training
-174,Krystal,31,F,Master,"electrical, wiring",4 years,Clerk,Bihar,English,Internship
-175,Andrew,27,M,ITI,"computer, wiring",1 years,Operator,Kerala,Telugu,Internship
-176,Holly,35,M,Master,"wiring, mechanics, plumbing",5 years,Operator,Maharashtra,Tamil,Government job
-177,Kevin,34,F,Diploma,mechanics,2 years,Technician,Uttar Pradesh,Tamil,Government job
-178,Jason,19,F,Bachelor,"maintenance, wiring",2 years,Technician,Uttar Pradesh,Tamil,Training
-179,Jessica,29,M,Diploma,maintenance,1 years,Clerk,Maharashtra,Malayalam,Private job
-180,Mary,18,F,High School,maintenance,2 years,Private,Kerala,Telugu,Government job
-181,Karen,21,F,Master,"plumbing, electrical",2 years,Technician,Maharashtra,English,Private job
-182,Katherine,26,M,High School,"maintenance, mechanics, accounting",3 years,Operator,Uttar Pradesh,Hindi,Private job
-183,Justin,22,M,Diploma,"electrical, accounting",3 years,Government,Bihar,English,Government job
-184,Mitchell,19,M,High School,"electrical, mechanics",3 years,Private,Tamil Nadu,English,Private job
-185,Abigail,24,M,ITI,"computer, accounting, wiring",1 years,Government,Bihar,English,Private job
-186,Alyssa,21,M,ITI,wiring,1 years,Government,Uttar Pradesh,Malayalam,Private job
-187,Jennifer,25,F,High School,plumbing,0 years,Operator,Tamil Nadu,Malayalam,Internship
-188,Dorothy,33,M,High School,"plumbing, accounting",5 years,Technician,Bihar,Malayalam,Private job
-189,Amy,20,F,High School,maintenance,0 years,Operator,Bihar,Tamil,Private job
-190,Roger,24,M,Bachelor,"accounting, computer",2 years,Government,Uttar Pradesh,Malayalam,Training
-191,Joseph,29,F,Bachelor,"computer, accounting",0 years,Clerk,Tamil Nadu,Hindi,Private job
-192,Jerry,20,F,Diploma,"accounting, plumbing",2 years,Clerk,Tamil Nadu,Malayalam,Internship
-193,Morgan,31,M,ITI,computer,3 years,Government,Uttar Pradesh,English,Internship
-194,Cynthia,23,F,Master,"computer, wiring, electrical",3 years,Clerk,Kerala,Hindi,Internship
-195,Travis,33,F,Bachelor,"wiring, computer",1 years,Operator,Uttar Pradesh,Malayalam,Government job
-196,Katie,19,M,Bachelor,accounting,4 years,Private,Uttar Pradesh,Tamil,Government job
-197,Rebecca,22,F,Bachelor,wiring,1 years,Technician,Tamil Nadu,Tamil,Training
-198,Thomas,29,F,Bachelor,"plumbing, electrical",4 years,Clerk,Tamil Nadu,Tamil,Internship
-199,Alicia,20,F,ITI,"accounting, computer",2 years,Government,Tamil Nadu,Tamil,Training
-200,Elizabeth,29,M,Master,maintenance,1 years,Government,Kerala,Telugu,Government job
-201,Jennifer,34,M,Bachelor,"wiring, accounting",4 years,Technician,Uttar Pradesh,Tamil,Internship
-202,Brian,34,M,ITI,mechanics,3 years,Clerk,Bihar,Telugu,Government job
-203,Joseph,25,M,Master,"electrical, accounting",1 years,Clerk,Bihar,Hindi,Government job
-204,Sandra,27,F,Bachelor,maintenance,0 years,Technician,Maharashtra,English,Training
-205,Katie,29,M,High School,"computer, plumbing, wiring",1 years,Clerk,Uttar Pradesh,Hindi,Internship
-206,Samantha,31,F,High School,maintenance,5 years,Operator,Tamil Nadu,Telugu,Training
-207,Stacey,25,M,ITI,maintenance,1 years,Private,Tamil Nadu,English,Training
-208,Courtney,32,M,Bachelor,"mechanics, maintenance",1 years,Clerk,Kerala,Telugu,Private job
-209,Trevor,35,F,Master,"mechanics, electrical, plumbing",2 years,Clerk,Kerala,Malayalam,Private job
-210,Gregory,30,F,ITI,"computer, maintenance",5 years,Clerk,Maharashtra,Tamil,Government job
-211,Anthony,23,F,Master,"mechanics, computer, plumbing",1 years,Government,Maharashtra,Malayalam,Private job
-212,William,21,M,Bachelor,mechanics,0 years,Technician,Uttar Pradesh,Hindi,Private job
-213,Michael,22,M,High School,mechanics,4 years,Government,Maharashtra,Telugu,Internship
-214,Melissa,20,M,High School,"plumbing, computer, electrical",1 years,Operator,Maharashtra,Telugu,Private job
-215,Alison,24,M,Bachelor,"wiring, maintenance",2 years,Private,Tamil Nadu,English,Government job
-216,Erin,28,F,High School,computer,3 years,Technician,Uttar Pradesh,Hindi,Training
-217,Katie,24,M,Bachelor,accounting,4 years,Clerk,Maharashtra,Hindi,Government job
-218,Daniel,20,F,Master,electrical,1 years,Government,Maharashtra,English,Government job
-219,Mary,34,F,Master,accounting,3 years,Government,Uttar Pradesh,Hindi,Internship
-220,Cynthia,29,M,ITI,"plumbing, maintenance, electrical",3 years,Government,Maharashtra,Telugu,Private job
-221,Anthony,20,F,Diploma,"mechanics, electrical",1 years,Private,Maharashtra,English,Internship
-222,Natalie,19,M,ITI,"computer, electrical, accounting",1 years,Clerk,Tamil Nadu,Tamil,Government job
-223,Mathew,33,F,High School,"plumbing, mechanics, electrical",1 years,Private,Tamil Nadu,Tamil,Internship
-224,James,34,M,Bachelor,"accounting, wiring",5 years,Clerk,Tamil Nadu,Telugu,Internship
-225,Eric,24,F,Bachelor,mechanics,1 years,Operator,Maharashtra,Hindi,Government job
-226,Manuel,23,M,High School,"accounting, plumbing",1 years,Clerk,Bihar,Tamil,Internship
-227,Dana,35,F,Master,maintenance,2 years,Operator,Uttar Pradesh,Tamil,Internship
-228,Jennifer,22,F,ITI,"computer, maintenance",1 years,Operator,Tamil Nadu,Telugu,Internship
-229,Todd,27,M,Diploma,"maintenance, electrical",1 years,Operator,Maharashtra,Tamil,Private job
-230,Seth,27,M,Diploma,computer,3 years,Operator,Tamil Nadu,Malayalam,Private job
-231,Michelle,34,F,Bachelor,maintenance,1 years,Government,Kerala,Hindi,Internship
-232,Mary,35,F,Master,"plumbing, electrical, maintenance",3 years,Operator,Uttar Pradesh,Hindi,Training
-233,Mark,21,F,Diploma,plumbing,5 years,Private,Uttar Pradesh,Malayalam,Government job
-234,Nicole,19,M,Diploma,"plumbing, accounting, maintenance",1 years,Clerk,Bihar,Tamil,Private job
-235,John,21,M,Bachelor,"mechanics, maintenance, plumbing",0 years,Clerk,Uttar Pradesh,Tamil,Internship
-236,Gary,19,F,Master,"mechanics, computer, electrical",0 years,Technician,Bihar,Hindi,Training
-237,Ronnie,35,F,ITI,"computer, electrical, wiring",3 years,Private,Uttar Pradesh,Hindi,Training
-238,Stephen,18,M,Master,wiring,0 years,Technician,Tamil Nadu,Telugu,Government job
-239,Nina,20,M,High School,maintenance,1 years,Private,Bihar,Malayalam,Training
-240,Erica,22,F,High School,"maintenance, wiring, mechanics",4 years,Private,Uttar Pradesh,Tamil,Government job
-241,Darlene,25,M,ITI,"mechanics, plumbing",0 years,Operator,Tamil Nadu,Malayalam,Private job
-242,Nicholas,19,F,Diploma,computer,2 years,Operator,Kerala,Hindi,Training
-243,Linda,32,F,High School,"maintenance, computer, wiring",5 years,Private,Uttar Pradesh,English,Government job
-244,Samuel,19,F,Master,"electrical, wiring, mechanics",5 years,Operator,Bihar,Telugu,Private job
-245,Rebecca,32,F,Diploma,"wiring, plumbing",1 years,Private,Maharashtra,Malayalam,Internship
-246,Michael,18,F,Bachelor,"maintenance, wiring, plumbing",5 years,Operator,Maharashtra,Malayalam,Government job
-247,Jennifer,22,F,High School,wiring,1 years,Operator,Kerala,Hindi,Internship
-248,Pamela,20,M,High School,"computer, plumbing, accounting",2 years,Technician,Kerala,Hindi,Training
-249,Michael,24,M,Bachelor,"accounting, maintenance, computer",1 years,Technician,Tamil Nadu,Tamil,Private job
-250,Kevin,21,M,High School,computer,3 years,Government,Kerala,Tamil,Internship
-251,Angela,23,F,Bachelor,"maintenance, electrical",2 years,Technician,Maharashtra,Malayalam,Private job
-252,Jimmy,29,F,High School,"maintenance, electrical",2 years,Operator,Tamil Nadu,Tamil,Government job
-253,Jeremy,21,F,High School,"plumbing, maintenance, mechanics",0 years,Operator,Kerala,English,Private job
-254,Danny,29,F,Bachelor,wiring,0 years,Clerk,Uttar Pradesh,Hindi,Training
-255,Christopher,30,M,Diploma,wiring,5 years,Clerk,Uttar Pradesh,Telugu,Internship
-256,Miranda,34,M,Master,wiring,3 years,Clerk,Maharashtra,Hindi,Training
-257,Ashley,26,F,Master,plumbing,2 years,Government,Bihar,English,Private job
-258,Samantha,23,M,Diploma,"mechanics, electrical",0 years,Clerk,Kerala,English,Internship
-259,Brad,29,F,Diploma,"computer, accounting",1 years,Operator,Uttar Pradesh,Tamil,Training
-260,Donald,35,F,Bachelor,"maintenance, mechanics, wiring",4 years,Private,Bihar,Hindi,Government job
-261,Thomas,19,F,Bachelor,plumbing,0 years,Technician,Tamil Nadu,Telugu,Training
-262,Joseph,29,F,Master,"accounting, wiring",5 years,Technician,Maharashtra,Tamil,Training
-263,Lauren,31,F,ITI,"electrical, accounting, plumbing",4 years,Private,Tamil Nadu,Tamil,Government job
-264,Tony,32,F,Bachelor,"wiring, accounting, computer",2 years,Government,Uttar Pradesh,Malayalam,Internship
-265,Linda,31,M,High School,plumbing,1 years,Clerk,Kerala,Hindi,Government job
-266,Alan,20,F,ITI,"accounting, maintenance, wiring",0 years,Private,Kerala,Telugu,Private job
-267,Debra,24,M,Diploma,electrical,3 years,Technician,Maharashtra,Malayalam,Private job
-268,Belinda,21,M,High School,computer,1 years,Government,Tamil Nadu,Malayalam,Internship
-269,Lindsay,34,F,Diploma,"plumbing, wiring",5 years,Technician,Kerala,English,Training
-270,Teresa,28,M,Bachelor,"accounting, computer",4 years,Clerk,Bihar,Malayalam,Internship
-271,Travis,31,M,High School,accounting,3 years,Clerk,Tamil Nadu,Tamil,Government job
-272,Eric,31,M,Diploma,"computer, maintenance, wiring",2 years,Operator,Maharashtra,Hindi,Private job
-273,Savannah,33,F,Master,"wiring, plumbing, computer",1 years,Clerk,Kerala,Malayalam,Internship
-274,Barry,18,F,Diploma,"computer, wiring, electrical",3 years,Private,Kerala,Malayalam,Private job
-275,Valerie,29,M,High School,"plumbing, maintenance, accounting",4 years,Government,Maharashtra,Tamil,Training
-276,Elizabeth,30,F,High School,computer,3 years,Clerk,Kerala,Tamil,Internship
-277,Teresa,28,F,Bachelor,"maintenance, accounting, computer",5 years,Clerk,Uttar Pradesh,English,Government job
-278,Mathew,23,M,Diploma,"accounting, plumbing",4 years,Private,Bihar,Tamil,Internship
-279,Michelle,21,M,ITI,"mechanics, computer, accounting",3 years,Government,Maharashtra,English,Private job
-280,Linda,35,M,ITI,"computer, accounting, mechanics",4 years,Operator,Kerala,Hindi,Training
-281,Robert,27,M,ITI,electrical,4 years,Operator,Bihar,Tamil,Training
-282,Sarah,24,M,Master,"wiring, maintenance, accounting",5 years,Technician,Bihar,Tamil,Internship
-283,Taylor,28,M,Bachelor,"maintenance, electrical",3 years,Technician,Kerala,Malayalam,Internship
-284,Jim,19,M,High School,plumbing,3 years,Operator,Maharashtra,Tamil,Government job
-285,Frederick,24,F,Master,"plumbing, accounting, computer",2 years,Clerk,Bihar,Telugu,Internship
-286,John,29,M,ITI,"computer, maintenance, wiring",4 years,Government,Tamil Nadu,Malayalam,Internship
-287,Jeremy,33,F,Diploma,mechanics,5 years,Technician,Tamil Nadu,Malayalam,Internship
-288,Theresa,26,M,Bachelor,"mechanics, plumbing",3 years,Private,Maharashtra,English,Government job
-289,Elizabeth,19,F,Bachelor,"electrical, wiring",4 years,Clerk,Tamil Nadu,Malayalam,Private job
-290,Vanessa,31,F,Master,"maintenance, computer, accounting",3 years,Government,Bihar,Telugu,Internship
-291,William,19,M,Master,"mechanics, wiring, electrical",1 years,Clerk,Kerala,English,Training
-292,Tiffany,19,M,Diploma,computer,1 years,Clerk,Tamil Nadu,Tamil,Government job
-293,Matthew,27,F,High School,"computer, maintenance, wiring",5 years,Clerk,Bihar,Malayalam,Internship
-294,Nicole,33,M,Bachelor,"maintenance, mechanics",2 years,Government,Tamil Nadu,Hindi,Training
-295,Laura,24,M,High School,"accounting, wiring",3 years,Private,Kerala,English,Training
-296,Carl,34,F,Diploma,"mechanics, plumbing, maintenance",3 years,Technician,Kerala,Telugu,Internship
-297,Samuel,22,M,Diploma,"accounting, computer, electrical",4 years,Private,Kerala,Malayalam,Training
-298,Michael,28,F,ITI,"plumbing, mechanics, accounting",1 years,Clerk,Kerala,Malayalam,Training
-299,Cheryl,19,F,High School,accounting,4 years,Government,Uttar Pradesh,Tamil,Private job
-300,Michelle,34,M,Diploma,"plumbing, mechanics",2 years,Clerk,Maharashtra,Tamil,Internship
-301,Jeffrey,21,M,High School,"accounting, computer",3 years,Government,Uttar Pradesh,Malayalam,Government job
-302,Teresa,29,M,Diploma,maintenance,1 years,Private,Kerala,Telugu,Government job
-303,Anna,20,F,Diploma,"computer, wiring, maintenance",1 years,Technician,Bihar,English,Private job
-304,Juan,24,M,Master,"plumbing, electrical, accounting",0 years,Government,Tamil Nadu,Tamil,Private job
-305,Michael,28,F,Diploma,"maintenance, computer",1 years,Private,Uttar Pradesh,Hindi,Training
-306,Matthew,29,F,Bachelor,plumbing,2 years,Operator,Uttar Pradesh,Hindi,Internship
-307,Donald,24,F,Bachelor,"mechanics, maintenance, wiring",0 years,Private,Bihar,Tamil,Internship
-308,Charles,33,M,High School,"plumbing, mechanics, wiring",2 years,Private,Maharashtra,Malayalam,Internship
-309,Jason,31,F,High School,"plumbing, accounting",0 years,Clerk,Uttar Pradesh,Hindi,Government job
-310,Daniel,29,F,High School,computer,4 years,Operator,Tamil Nadu,Malayalam,Internship
-311,Linda,34,M,Master,"maintenance, mechanics, computer",0 years,Clerk,Maharashtra,Hindi,Private job
-312,Stephanie,19,F,Diploma,"electrical, computer",3 years,Private,Kerala,Malayalam,Training
-313,Rachel,23,F,Diploma,electrical,0 years,Private,Maharashtra,Telugu,Training
-314,Sean,33,M,ITI,"wiring, accounting, computer",2 years,Private,Uttar Pradesh,Malayalam,Government job
-315,Steven,24,M,High School,maintenance,2 years,Government,Uttar Pradesh,Tamil,Government job
-316,James,27,F,Bachelor,"mechanics, plumbing, accounting",4 years,Operator,Bihar,Telugu,Government job
-317,David,18,F,Master,accounting,2 years,Operator,Kerala,Hindi,Training
-318,Greg,21,M,Bachelor,"computer, electrical",4 years,Clerk,Kerala,Hindi,Internship
-319,Mary,32,M,Bachelor,"electrical, wiring, computer",3 years,Clerk,Tamil Nadu,Tamil,Training
-320,Arthur,27,F,ITI,"computer, electrical",4 years,Private,Uttar Pradesh,Telugu,Private job
-321,Brianna,18,M,Bachelor,"maintenance, mechanics",5 years,Government,Bihar,English,Internship
-322,Annette,27,M,Bachelor,"plumbing, electrical, mechanics",1 years,Private,Maharashtra,Telugu,Internship
-323,Richard,27,M,Diploma,"maintenance, mechanics",1 years,Private,Uttar Pradesh,Hindi,Training
-324,Sarah,28,F,ITI,"electrical, accounting, mechanics",2 years,Technician,Tamil Nadu,English,Government job
-325,Joshua,32,M,ITI,"computer, electrical",2 years,Private,Maharashtra,Malayalam,Training
-326,Sandra,33,F,ITI,maintenance,2 years,Technician,Bihar,Tamil,Private job
-327,Janice,24,M,Master,"plumbing, accounting, maintenance",0 years,Operator,Tamil Nadu,English,Government job
-328,Cole,24,F,Bachelor,"accounting, electrical, wiring",5 years,Clerk,Uttar Pradesh,Malayalam,Training
-329,Mario,27,F,ITI,plumbing,5 years,Technician,Maharashtra,Tamil,Training
-330,Brooke,20,F,High School,electrical,5 years,Technician,Kerala,Telugu,Training
-331,Kimberly,18,F,High School,"accounting, plumbing, wiring",5 years,Private,Tamil Nadu,English,Private job
-332,Julia,35,F,Bachelor,computer,5 years,Technician,Tamil Nadu,Tamil,Private job
-333,Dean,22,M,Master,plumbing,0 years,Operator,Uttar Pradesh,Tamil,Private job
-334,Levi,28,M,Master,maintenance,0 years,Operator,Uttar Pradesh,Malayalam,Private job
-335,Corey,28,M,ITI,mechanics,5 years,Clerk,Uttar Pradesh,Telugu,Government job
-336,Joshua,18,M,Diploma,mechanics,1 years,Operator,Kerala,Hindi,Private job
-337,Elizabeth,35,F,ITI,"electrical, wiring, plumbing",4 years,Clerk,Bihar,English,Training
-338,Kim,35,M,Master,"computer, accounting",3 years,Private,Tamil Nadu,English,Private job
-339,Robin,29,F,High School,"accounting, electrical",0 years,Technician,Uttar Pradesh,English,Private job
-340,Cynthia,32,F,ITI,wiring,2 years,Private,Uttar Pradesh,Tamil,Internship
-341,Samuel,25,F,Diploma,"mechanics, plumbing, accounting",2 years,Clerk,Maharashtra,Tamil,Internship
-342,James,25,M,High School,plumbing,0 years,Operator,Bihar,Hindi,Government job
-343,Jennifer,23,M,Master,"computer, wiring, electrical",4 years,Government,Bihar,Tamil,Training
-344,Sylvia,27,F,Bachelor,accounting,0 years,Technician,Uttar Pradesh,Hindi,Internship
-345,Sharon,22,F,ITI,electrical,1 years,Clerk,Bihar,Malayalam,Internship
-346,Joseph,25,F,ITI,electrical,4 years,Clerk,Bihar,Tamil,Government job
-347,Jacqueline,34,F,ITI,"plumbing, accounting, electrical",2 years,Technician,Bihar,Malayalam,Internship
-348,David,20,F,Master,"computer, wiring, mechanics",3 years,Private,Maharashtra,Telugu,Internship
-349,Charles,30,M,ITI,"accounting, electrical",5 years,Clerk,Tamil Nadu,Malayalam,Training
-350,James,24,F,High School,"maintenance, plumbing",5 years,Private,Uttar Pradesh,Telugu,Training
-351,Zachary,23,F,Diploma,accounting,2 years,Operator,Bihar,English,Private job
-352,Anthony,30,M,ITI,"wiring, computer",5 years,Government,Uttar Pradesh,Hindi,Training
-353,Shannon,28,M,Diploma,electrical,3 years,Government,Tamil Nadu,Malayalam,Government job
-354,Christine,21,M,Diploma,accounting,0 years,Clerk,Tamil Nadu,Hindi,Government job
-355,Larry,33,M,Bachelor,"plumbing, accounting, electrical",2 years,Private,Maharashtra,Tamil,Private job
-356,Felicia,30,F,Bachelor,"mechanics, wiring",4 years,Private,Uttar Pradesh,English,Internship
-357,Laura,20,F,Bachelor,"computer, maintenance",3 years,Clerk,Uttar Pradesh,Tamil,Private job
-358,Robin,26,M,Bachelor,maintenance,2 years,Operator,Maharashtra,Tamil,Internship
-359,Richard,35,M,ITI,"wiring, electrical",0 years,Clerk,Kerala,English,Government job
-360,Claudia,26,F,Diploma,"electrical, mechanics",2 years,Private,Kerala,Malayalam,Internship
-361,Kathy,26,M,Master,"accounting, maintenance",2 years,Clerk,Tamil Nadu,Telugu,Government job
-362,William,32,M,Diploma,electrical,4 years,Operator,Bihar,Telugu,Training
-363,Jack,33,F,Master,"maintenance, accounting",0 years,Private,Uttar Pradesh,English,Training
-364,Dawn,31,M,ITI,plumbing,3 years,Government,Kerala,Malayalam,Government job
-365,Megan,31,F,High School,"accounting, computer",5 years,Technician,Bihar,Tamil,Private job
-366,Amy,31,F,Master,"mechanics, accounting",5 years,Government,Maharashtra,Tamil,Training
-367,Eddie,34,M,Master,"wiring, mechanics",0 years,Operator,Maharashtra,Hindi,Internship
-368,Ashley,24,F,High School,"maintenance, wiring",3 years,Private,Kerala,Tamil,Government job
-369,Tracie,26,F,High School,"accounting, plumbing, mechanics",2 years,Operator,Kerala,English,Private job
-370,Jennifer,19,F,Diploma,accounting,5 years,Clerk,Tamil Nadu,Malayalam,Government job
-371,Michelle,32,M,Master,"wiring, mechanics",5 years,Clerk,Tamil Nadu,Hindi,Private job
-372,James,23,M,ITI,"plumbing, electrical, maintenance",0 years,Clerk,Tamil Nadu,Malayalam,Training
-373,Daniel,28,M,Master,accounting,5 years,Clerk,Kerala,Tamil,Government job
-374,Valerie,18,F,Bachelor,electrical,1 years,Technician,Uttar Pradesh,Malayalam,Government job
-375,Ashley,19,F,High School,"accounting, plumbing",4 years,Operator,Bihar,English,Government job
-376,Brooke,19,F,Bachelor,computer,5 years,Government,Bihar,Tamil,Training
-377,Frank,18,M,Master,computer,2 years,Government,Maharashtra,Telugu,Government job
-378,Roy,22,F,High School,"wiring, mechanics",5 years,Clerk,Uttar Pradesh,English,Training
-379,Sean,19,F,ITI,"electrical, accounting, plumbing",3 years,Clerk,Tamil Nadu,Tamil,Training
-380,Joshua,35,F,Diploma,accounting,5 years,Clerk,Tamil Nadu,Malayalam,Training
-381,Kimberly,28,F,Bachelor,"mechanics, wiring",4 years,Government,Uttar Pradesh,Tamil,Internship
-382,Robert,24,M,High School,"computer, plumbing, mechanics",3 years,Operator,Maharashtra,Hindi,Training
-383,Timothy,26,F,Master,accounting,5 years,Clerk,Uttar Pradesh,Telugu,Government job
-384,Michael,26,F,Diploma,"plumbing, computer, wiring",0 years,Operator,Bihar,Tamil,Training
-385,Brendan,26,M,High School,accounting,0 years,Operator,Kerala,Tamil,Government job
-386,Ryan,29,M,High School,"maintenance, electrical, accounting",5 years,Private,Maharashtra,Hindi,Training
-387,Jeremy,20,F,Bachelor,plumbing,3 years,Private,Uttar Pradesh,Malayalam,Training
-388,Michael,28,M,Diploma,"electrical, plumbing, wiring",0 years,Clerk,Maharashtra,Hindi,Training
-389,Jesse,18,M,High School,maintenance,3 years,Technician,Tamil Nadu,Tamil,Training
-390,Peggy,22,M,ITI,"computer, maintenance, wiring",1 years,Private,Uttar Pradesh,Malayalam,Government job
-391,Edward,21,F,Diploma,"mechanics, plumbing",3 years,Private,Kerala,Tamil,Private job
-392,Kristi,33,M,High School,"electrical, mechanics, computer",0 years,Government,Kerala,Tamil,Internship
-393,Gavin,30,F,ITI,wiring,2 years,Clerk,Maharashtra,Tamil,Internship
-394,Steven,35,F,Master,"mechanics, accounting",1 years,Government,Bihar,Tamil,Internship
-395,Dennis,25,F,High School,"mechanics, wiring, computer",4 years,Clerk,Kerala,English,Training
-396,Juan,30,F,ITI,"computer, mechanics, maintenance",1 years,Clerk,Maharashtra,Telugu,Government job
-397,Michael,22,M,Master,"mechanics, plumbing",2 years,Operator,Bihar,Hindi,Internship
-398,Michael,31,F,High School,wiring,4 years,Clerk,Maharashtra,English,Training
-399,Brenda,19,M,ITI,"mechanics, accounting, computer",4 years,Technician,Kerala,Telugu,Training
-400,Catherine,18,F,High School,"plumbing, computer",5 years,Private,Tamil Nadu,Tamil,Internship
-401,Debbie,19,M,Master,"accounting, electrical, plumbing",3 years,Government,Tamil Nadu,Malayalam,Government job
-402,Mark,24,M,Master,plumbing,0 years,Clerk,Tamil Nadu,English,Training
-403,Michelle,29,M,Diploma,"computer, wiring",0 years,Private,Kerala,Malayalam,Training
-404,Jeffrey,32,M,Diploma,"computer, wiring, maintenance",2 years,Government,Maharashtra,Telugu,Private job
-405,Jade,29,M,ITI,wiring,3 years,Operator,Maharashtra,Hindi,Internship
-406,Robin,34,F,ITI,"wiring, accounting",3 years,Government,Kerala,Hindi,Internship
-407,Erica,32,M,Diploma,"accounting, mechanics, computer",0 years,Operator,Kerala,Hindi,Government job
-408,Jason,23,F,Diploma,"accounting, electrical",1 years,Technician,Uttar Pradesh,Telugu,Private job
-409,Justin,19,M,ITI,"plumbing, electrical, accounting",5 years,Technician,Uttar Pradesh,Hindi,Training
-410,Deborah,26,M,Bachelor,"wiring, maintenance",4 years,Clerk,Kerala,Tamil,Internship
-411,Brian,30,F,Diploma,electrical,4 years,Technician,Uttar Pradesh,Malayalam,Internship
-412,Stanley,32,F,Diploma,"plumbing, electrical, computer",4 years,Private,Bihar,Hindi,Internship
-413,Kevin,25,F,High School,electrical,1 years,Technician,Uttar Pradesh,Malayalam,Government job
-414,Chad,31,F,ITI,wiring,3 years,Operator,Kerala,Tamil,Internship
-415,Austin,31,M,Master,"electrical, maintenance, mechanics",3 years,Government,Maharashtra,Malayalam,Training
-416,Daniel,21,M,Master,accounting,3 years,Private,Uttar Pradesh,Malayalam,Training
-417,Robert,18,F,Master,"maintenance, mechanics",3 years,Private,Kerala,Malayalam,Training
-418,Connie,24,M,Master,mechanics,5 years,Clerk,Maharashtra,English,Government job
-419,Michael,27,F,Master,"electrical, mechanics, maintenance",2 years,Clerk,Uttar Pradesh,English,Government job
-420,Matthew,27,F,Bachelor,maintenance,4 years,Government,Maharashtra,English,Internship
-421,Carlos,22,M,Bachelor,"mechanics, maintenance, electrical",3 years,Technician,Uttar Pradesh,Malayalam,Training
-422,Jeffrey,32,F,Master,"wiring, plumbing, mechanics",0 years,Operator,Bihar,Telugu,Government job
-423,Ian,18,F,Bachelor,"wiring, mechanics",4 years,Private,Tamil Nadu,English,Training
-424,Elizabeth,19,F,Bachelor,"accounting, wiring, electrical",4 years,Technician,Maharashtra,English,Internship
-425,Cynthia,27,M,Bachelor,"computer, electrical",1 years,Government,Maharashtra,Tamil,Internship
-426,Gregory,35,F,Master,"electrical, accounting, wiring",0 years,Operator,Maharashtra,Tamil,Private job
-427,Dwayne,32,M,ITI,"accounting, electrical",2 years,Clerk,Uttar Pradesh,Hindi,Private job
-428,Robert,29,M,Bachelor,"maintenance, mechanics",5 years,Operator,Maharashtra,Hindi,Private job
-429,Brent,31,F,High School,"mechanics, maintenance",5 years,Technician,Bihar,Telugu,Government job
-430,Brendan,34,M,High School,wiring,0 years,Private,Uttar Pradesh,Telugu,Training
-431,Cory,22,M,Bachelor,electrical,5 years,Technician,Tamil Nadu,Telugu,Private job
-432,Elizabeth,22,M,ITI,"wiring, computer, mechanics",2 years,Clerk,Kerala,Telugu,Government job
-433,Sara,32,F,Master,mechanics,3 years,Operator,Uttar Pradesh,English,Training
-434,Dawn,33,F,Diploma,maintenance,4 years,Operator,Tamil Nadu,Telugu,Government job
-435,Nicole,26,M,ITI,"computer, maintenance",5 years,Government,Tamil Nadu,Malayalam,Private job
-436,Joseph,31,M,ITI,maintenance,4 years,Technician,Maharashtra,English,Internship
-437,Brendan,26,F,High School,"plumbing, wiring",3 years,Operator,Uttar Pradesh,Hindi,Private job
-438,Cindy,23,M,High School,electrical,3 years,Private,Bihar,Malayalam,Private job
-439,Maria,32,F,High School,"computer, electrical",5 years,Technician,Maharashtra,Hindi,Private job
-440,Marcia,23,M,Diploma,"computer, accounting",2 years,Technician,Maharashtra,Tamil,Internship
-441,Michael,35,M,Diploma,maintenance,1 years,Technician,Uttar Pradesh,Telugu,Training
-442,Sheila,29,M,Master,maintenance,5 years,Private,Maharashtra,Tamil,Training
-443,Andrew,19,F,Master,plumbing,0 years,Technician,Tamil Nadu,Hindi,Internship
-444,Robert,27,F,Master,"accounting, plumbing",4 years,Government,Uttar Pradesh,English,Private job
-445,Stacy,30,F,Diploma,"wiring, mechanics, maintenance",2 years,Clerk,Maharashtra,Malayalam,Training
-446,Travis,35,M,Master,"plumbing, maintenance",5 years,Technician,Bihar,Hindi,Training
-447,Sarah,27,M,Bachelor,"plumbing, electrical",1 years,Private,Maharashtra,Tamil,Internship
-448,Vanessa,26,M,Master,electrical,3 years,Technician,Kerala,Malayalam,Training
-449,Victoria,33,M,Diploma,computer,0 years,Clerk,Tamil Nadu,English,Training
-450,Joshua,23,F,High School,"electrical, mechanics",0 years,Government,Kerala,Tamil,Internship
-451,Whitney,23,M,Diploma,"plumbing, mechanics",0 years,Operator,Bihar,Telugu,Government job
-452,Sara,25,M,Diploma,"accounting, computer, maintenance",0 years,Clerk,Bihar,English,Government job
-453,Christopher,32,F,ITI,wiring,5 years,Government,Kerala,Telugu,Internship
-454,Autumn,34,F,High School,maintenance,2 years,Government,Maharashtra,English,Government job
-455,Ian,19,F,Master,"electrical, computer, plumbing",1 years,Operator,Bihar,Malayalam,Training
-456,Jennifer,34,M,Bachelor,mechanics,4 years,Clerk,Bihar,Hindi,Internship
-457,Samantha,35,F,Master,plumbing,0 years,Technician,Maharashtra,English,Training
-458,Andrea,33,M,Diploma,"accounting, computer, wiring",0 years,Private,Maharashtra,Tamil,Internship
-459,Brianna,22,M,Bachelor,computer,4 years,Technician,Tamil Nadu,Telugu,Internship
-460,Steve,30,M,Bachelor,"accounting, plumbing, wiring",2 years,Technician,Maharashtra,Malayalam,Private job
-461,Kyle,30,F,Master,"wiring, plumbing, accounting",5 years,Government,Uttar Pradesh,Malayalam,Private job
-462,Kurt,31,F,Bachelor,wiring,5 years,Clerk,Bihar,Hindi,Internship
-463,Anita,20,F,Master,"computer, accounting",1 years,Operator,Uttar Pradesh,Hindi,Internship
-464,Elizabeth,34,M,ITI,"electrical, accounting",3 years,Technician,Maharashtra,English,Internship
-465,Tracey,27,F,Diploma,"wiring, electrical, maintenance",4 years,Technician,Tamil Nadu,Telugu,Government job
-466,Donald,31,M,High School,"computer, mechanics, maintenance",1 years,Government,Kerala,Telugu,Government job
-467,Elizabeth,32,F,Bachelor,computer,2 years,Technician,Kerala,Telugu,Training
-468,Jennifer,27,M,Master,plumbing,0 years,Private,Uttar Pradesh,Malayalam,Internship
-469,Jeffrey,29,M,High School,"maintenance, computer, wiring",3 years,Clerk,Maharashtra,Telugu,Private job
-470,Kathy,30,M,Bachelor,accounting,5 years,Clerk,Maharashtra,English,Private job
-471,Melinda,35,F,Bachelor,"computer, plumbing",0 years,Operator,Kerala,English,Government job
-472,Isaiah,32,F,Diploma,"accounting, wiring",2 years,Clerk,Uttar Pradesh,Telugu,Internship
-473,Alexis,19,F,Diploma,"mechanics, computer, maintenance",2 years,Technician,Bihar,Telugu,Internship
-474,Tracy,26,M,Master,"maintenance, computer, mechanics",4 years,Clerk,Uttar Pradesh,Tamil,Government job
-475,Destiny,28,F,ITI,"computer, mechanics, plumbing",0 years,Technician,Maharashtra,Tamil,Private job
-476,Veronica,22,M,Diploma,"mechanics, accounting, computer",0 years,Technician,Uttar Pradesh,English,Government job
-477,Paul,34,M,Bachelor,computer,1 years,Government,Kerala,Telugu,Government job
-478,Kayla,25,F,High School,electrical,2 years,Clerk,Uttar Pradesh,Telugu,Government job
-479,Kenneth,27,F,Master,"plumbing, wiring, mechanics",5 years,Clerk,Maharashtra,Tamil,Training
-480,Tiffany,30,F,Bachelor,"accounting, mechanics, maintenance",3 years,Technician,Uttar Pradesh,Tamil,Private job
-481,Sandra,33,F,Master,computer,1 years,Clerk,Bihar,English,Training
-482,Stephen,19,F,Master,computer,0 years,Private,Bihar,English,Training
-483,Charles,35,F,Diploma,"accounting, plumbing",3 years,Private,Kerala,English,Internship
-484,Kylie,33,F,ITI,mechanics,1 years,Government,Kerala,Tamil,Internship
-485,Christian,31,M,ITI,"wiring, mechanics, maintenance",4 years,Private,Tamil Nadu,English,Internship
-486,Allen,25,F,ITI,"electrical, computer",5 years,Private,Kerala,Hindi,Training
-487,Lisa,30,F,Diploma,"wiring, maintenance",2 years,Operator,Uttar Pradesh,Malayalam,Training
-488,Brooke,20,M,High School,"computer, wiring",0 years,Clerk,Kerala,Malayalam,Government job
-489,William,25,M,ITI,"electrical, maintenance, computer",4 years,Operator,Uttar Pradesh,Hindi,Training
-490,Emily,32,F,ITI,"wiring, computer, accounting",0 years,Government,Maharashtra,Malayalam,Private job
-491,John,23,F,High School,wiring,5 years,Operator,Kerala,English,Training
-492,Lauren,21,F,ITI,computer,5 years,Private,Uttar Pradesh,Telugu,Training
-493,Tammy,20,M,Bachelor,maintenance,4 years,Operator,Kerala,Tamil,Private job
-494,Michael,28,M,ITI,"mechanics, electrical",3 years,Technician,Tamil Nadu,Tamil,Internship
-495,John,30,M,Diploma,electrical,3 years,Operator,Kerala,Tamil,Private job
-496,Ruben,31,M,ITI,computer,5 years,Private,Uttar Pradesh,Telugu,Training
-497,Debra,32,M,Diploma,wiring,2 years,Operator,Uttar Pradesh,Telugu,Government job
-498,Gabriela,29,F,High School,"maintenance, electrical",3 years,Government,Bihar,Tamil,Private job
-499,Isaac,31,M,Diploma,"plumbing, computer",3 years,Operator,Maharashtra,English,Private job
-500,Danielle,24,F,Bachelor,"accounting, electrical, plumbing",5 years,Private,Uttar Pradesh,English,Private job
-501,Kimberly,31,F,ITI,maintenance,0 years,Government,Tamil Nadu,Telugu,Government job
-502,Timothy,26,F,Master,"maintenance, wiring",5 years,Government,Maharashtra,English,Private job
-503,Diane,27,M,Master,"mechanics, accounting",0 years,Government,Uttar Pradesh,Malayalam,Training
-504,Michele,34,F,Master,"computer, plumbing, accounting",2 years,Operator,Tamil Nadu,Malayalam,Government job
-505,Christopher,21,M,High School,"maintenance, wiring",0 years,Government,Tamil Nadu,English,Government job
-506,Jamie,30,F,Master,"accounting, mechanics, computer",3 years,Government,Tamil Nadu,Telugu,Training
-507,Jason,21,M,ITI,"computer, plumbing",5 years,Operator,Maharashtra,English,Private job
-508,Henry,18,F,ITI,"maintenance, accounting",4 years,Government,Bihar,English,Government job
-509,Rachel,25,M,Bachelor,"computer, electrical, wiring",0 years,Government,Bihar,Tamil,Internship
-510,Kayla,20,F,Diploma,computer,4 years,Private,Tamil Nadu,Malayalam,Private job
-511,Anthony,29,F,Master,"maintenance, mechanics",5 years,Operator,Uttar Pradesh,Malayalam,Private job
-512,Danielle,19,M,Diploma,"electrical, maintenance, plumbing",5 years,Technician,Bihar,Hindi,Training
-513,Michael,19,F,Master,mechanics,0 years,Private,Kerala,Tamil,Training
-514,William,19,F,Bachelor,"wiring, electrical",0 years,Government,Tamil Nadu,Telugu,Government job
-515,Jeffrey,18,M,ITI,"wiring, maintenance",1 years,Clerk,Kerala,Telugu,Government job
-516,Andrea,32,M,ITI,"mechanics, wiring, maintenance",4 years,Private,Bihar,English,Private job
-517,Dean,23,M,ITI,"computer, wiring, electrical",1 years,Private,Maharashtra,Hindi,Private job
-518,Michelle,23,F,High School,"electrical, accounting, plumbing",5 years,Government,Maharashtra,Hindi,Training
-519,David,26,F,Bachelor,computer,1 years,Government,Maharashtra,English,Internship
-520,Kimberly,33,M,Bachelor,electrical,4 years,Private,Bihar,English,Internship
-521,Carol,32,M,Diploma,"accounting, maintenance, mechanics",2 years,Clerk,Kerala,Malayalam,Internship
-522,Rachel,31,M,ITI,"electrical, wiring",3 years,Private,Bihar,English,Government job
-523,Shawn,21,F,High School,"wiring, maintenance",0 years,Private,Uttar Pradesh,Hindi,Private job
-524,Jamie,27,M,Bachelor,"computer, wiring",0 years,Private,Tamil Nadu,English,Training
-525,John,29,M,Diploma,"mechanics, wiring, electrical",5 years,Private,Tamil Nadu,Hindi,Internship
-526,James,18,M,Bachelor,wiring,0 years,Technician,Tamil Nadu,Malayalam,Government job
-527,Judith,25,F,ITI,maintenance,3 years,Clerk,Uttar Pradesh,Malayalam,Private job
-528,Jonathan,24,M,Diploma,accounting,3 years,Technician,Maharashtra,Malayalam,Government job
-529,Tonya,26,M,Diploma,"maintenance, wiring, accounting",0 years,Government,Maharashtra,Telugu,Internship
-530,Richard,22,F,Diploma,"maintenance, plumbing, accounting",4 years,Technician,Tamil Nadu,English,Training
-531,Diana,18,F,Bachelor,wiring,2 years,Private,Maharashtra,Telugu,Training
-532,Timothy,25,M,Master,"electrical, accounting, maintenance",5 years,Private,Uttar Pradesh,English,Private job
-533,Kim,31,M,ITI,mechanics,5 years,Private,Tamil Nadu,Malayalam,Private job
-534,Shannon,20,M,High School,maintenance,3 years,Technician,Kerala,Tamil,Government job
-535,Alicia,18,F,High School,"wiring, computer",2 years,Private,Kerala,Tamil,Private job
-536,John,21,M,High School,"mechanics, maintenance",4 years,Operator,Kerala,Hindi,Internship
-537,Ariana,31,M,Master,"electrical, wiring, maintenance",3 years,Technician,Tamil Nadu,Tamil,Internship
-538,Lisa,18,F,Bachelor,"wiring, computer, maintenance",0 years,Clerk,Tamil Nadu,Tamil,Training
-539,Ashley,19,M,High School,"plumbing, maintenance",4 years,Government,Maharashtra,English,Training
-540,David,28,F,High School,"accounting, electrical",5 years,Operator,Kerala,Tamil,Government job
-541,Christopher,21,M,Master,"wiring, maintenance, computer",0 years,Clerk,Bihar,Tamil,Government job
-542,Scott,32,F,Master,"mechanics, maintenance",2 years,Private,Maharashtra,Telugu,Internship
-543,Marisa,29,F,Bachelor,accounting,4 years,Clerk,Maharashtra,Tamil,Internship
-544,William,31,M,High School,"mechanics, electrical",4 years,Technician,Kerala,English,Training
-545,Brittany,23,F,ITI,"wiring, accounting, computer",5 years,Clerk,Uttar Pradesh,Malayalam,Government job
-546,Krista,28,F,High School,"plumbing, mechanics, electrical",1 years,Operator,Tamil Nadu,English,Internship
-547,David,29,F,High School,"computer, mechanics",5 years,Government,Tamil Nadu,Malayalam,Internship
-548,James,19,M,High School,"maintenance, mechanics, plumbing",5 years,Operator,Kerala,Hindi,Private job
-549,Heather,24,F,High School,"computer, maintenance, wiring",2 years,Government,Uttar Pradesh,Hindi,Government job
-550,David,27,M,Master,computer,4 years,Private,Bihar,Malayalam,Government job
-551,Monica,35,M,Master,"computer, plumbing",4 years,Government,Tamil Nadu,Malayalam,Training
-552,Billy,28,F,Diploma,plumbing,5 years,Operator,Tamil Nadu,Telugu,Internship
-553,Luke,28,F,Master,"maintenance, computer",2 years,Operator,Tamil Nadu,Tamil,Training
-554,Victoria,23,M,Diploma,"maintenance, computer",0 years,Private,Bihar,Malayalam,Government job
-555,Dana,20,F,Bachelor,wiring,2 years,Clerk,Maharashtra,Malayalam,Private job
-556,Kevin,32,M,Bachelor,"accounting, maintenance",2 years,Operator,Tamil Nadu,Telugu,Training
-557,Virginia,34,M,Master,mechanics,3 years,Clerk,Uttar Pradesh,Tamil,Internship
-558,Mathew,24,F,ITI,"maintenance, computer",5 years,Operator,Tamil Nadu,Hindi,Private job
-559,David,30,M,Master,"plumbing, accounting",0 years,Private,Tamil Nadu,Telugu,Private job
-560,Krista,22,M,High School,plumbing,0 years,Operator,Kerala,Malayalam,Internship
-561,Ashley,28,F,ITI,"plumbing, accounting, maintenance",1 years,Clerk,Kerala,Tamil,Internship
-562,Sarah,24,F,Bachelor,"plumbing, accounting",4 years,Private,Bihar,Telugu,Private job
-563,Marissa,27,F,Bachelor,plumbing,3 years,Clerk,Kerala,Tamil,Private job
-564,Jonathon,34,F,Bachelor,"wiring, plumbing, mechanics",3 years,Operator,Maharashtra,English,Private job
-565,Marie,18,M,ITI,computer,5 years,Technician,Kerala,Malayalam,Private job
-566,Shaun,34,F,ITI,mechanics,0 years,Private,Maharashtra,Tamil,Internship
-567,Suzanne,20,F,Master,"accounting, electrical, wiring",3 years,Government,Kerala,Telugu,Training
-568,Alyssa,26,M,Master,"mechanics, maintenance, plumbing",4 years,Clerk,Maharashtra,Hindi,Government job
-569,John,25,M,ITI,accounting,1 years,Private,Kerala,Tamil,Private job
-570,Steven,20,M,High School,"plumbing, accounting",5 years,Technician,Uttar Pradesh,English,Government job
-571,Raven,24,M,Bachelor,computer,0 years,Clerk,Bihar,Telugu,Internship
-572,James,28,M,Master,"accounting, electrical, plumbing",4 years,Operator,Maharashtra,English,Government job
-573,Anthony,29,F,Diploma,"mechanics, maintenance",0 years,Clerk,Maharashtra,Malayalam,Government job
-574,Daniel,24,M,High School,"maintenance, accounting",3 years,Clerk,Maharashtra,English,Internship
-575,Sara,31,F,ITI,wiring,3 years,Clerk,Bihar,Tamil,Training
-576,Michael,29,F,Diploma,"computer, electrical, accounting",4 years,Private,Uttar Pradesh,Tamil,Internship
-577,David,33,M,Bachelor,wiring,5 years,Operator,Maharashtra,Tamil,Government job
-578,Rachel,32,M,High School,plumbing,4 years,Private,Kerala,Tamil,Government job
-579,Jennifer,19,F,Diploma,"accounting, plumbing",3 years,Clerk,Maharashtra,Tamil,Internship
-580,Patrick,25,F,ITI,accounting,1 years,Technician,Maharashtra,Telugu,Government job
-581,Julia,31,M,Diploma,"plumbing, wiring, maintenance",5 years,Private,Tamil Nadu,Malayalam,Private job
-582,Manuel,35,M,Master,"wiring, maintenance, electrical",4 years,Private,Maharashtra,Tamil,Private job
-583,James,27,F,Master,mechanics,2 years,Operator,Maharashtra,Telugu,Government job
-584,Randy,19,M,ITI,"accounting, maintenance, wiring",5 years,Clerk,Kerala,Tamil,Government job
-585,Jamie,22,F,ITI,"plumbing, computer, electrical",0 years,Operator,Maharashtra,Tamil,Government job
-586,Patricia,26,F,Diploma,"wiring, plumbing",5 years,Private,Kerala,Malayalam,Government job
-587,Dan,29,M,Master,"wiring, plumbing, maintenance",5 years,Clerk,Uttar Pradesh,Malayalam,Training
-588,Samantha,20,M,Diploma,plumbing,0 years,Operator,Bihar,English,Government job
-589,Clifford,30,F,High School,"maintenance, wiring",1 years,Clerk,Tamil Nadu,English,Training
-590,Deanna,24,M,High School,"maintenance, wiring, accounting",5 years,Technician,Uttar Pradesh,Tamil,Internship
-591,Lori,19,F,High School,electrical,5 years,Government,Uttar Pradesh,Tamil,Training
-592,Ashley,22,F,Diploma,"accounting, maintenance",0 years,Operator,Kerala,Tamil,Training
-593,Megan,21,F,Diploma,electrical,1 years,Operator,Uttar Pradesh,Malayalam,Internship
-594,David,21,F,Diploma,"computer, mechanics, accounting",3 years,Government,Uttar Pradesh,Malayalam,Training
-595,Christina,26,F,Master,"electrical, maintenance",1 years,Clerk,Maharashtra,Tamil,Private job
-596,Crystal,32,F,Master,mechanics,5 years,Operator,Maharashtra,English,Training
-597,Jonathan,29,M,High School,wiring,4 years,Government,Bihar,English,Internship
-598,Kimberly,19,F,High School,accounting,0 years,Clerk,Uttar Pradesh,Tamil,Internship
-599,Benjamin,23,F,High School,"accounting, computer, wiring",1 years,Private,Bihar,English,Training
-600,Candice,27,M,High School,"mechanics, accounting",2 years,Government,Kerala,Malayalam,Internship
-601,James,27,M,Bachelor,computer,4 years,Technician,Bihar,Telugu,Training
-602,Glenn,29,F,Bachelor,"accounting, wiring, electrical",4 years,Private,Tamil Nadu,Telugu,Private job
-603,Kevin,35,M,Bachelor,maintenance,5 years,Private,Bihar,English,Private job
-604,Angela,29,F,ITI,"electrical, plumbing",3 years,Technician,Tamil Nadu,Malayalam,Internship
-605,Nicholas,26,F,High School,electrical,0 years,Technician,Uttar Pradesh,Malayalam,Training
-606,Susan,19,M,High School,"computer, mechanics",0 years,Operator,Kerala,Telugu,Private job
-607,Haley,18,M,ITI,"maintenance, plumbing, accounting",3 years,Government,Tamil Nadu,Tamil,Government job
-608,Brittany,34,M,Bachelor,"accounting, mechanics, computer",4 years,Technician,Kerala,Tamil,Government job
-609,Jennifer,35,F,Diploma,"accounting, maintenance",5 years,Clerk,Uttar Pradesh,English,Government job
-610,Angelica,27,M,Bachelor,computer,0 years,Operator,Tamil Nadu,Hindi,Internship
-611,Martin,31,M,Bachelor,"wiring, maintenance",4 years,Operator,Kerala,Tamil,Private job
-612,Dakota,35,F,High School,computer,4 years,Technician,Tamil Nadu,Tamil,Training
-613,Patricia,33,F,High School,"accounting, wiring, plumbing",1 years,Private,Maharashtra,Malayalam,Training
-614,Michelle,23,F,High School,wiring,0 years,Operator,Uttar Pradesh,English,Training
-615,Janet,35,M,Diploma,"wiring, mechanics",2 years,Private,Uttar Pradesh,English,Government job
-616,Eric,25,F,Master,"plumbing, wiring",3 years,Government,Uttar Pradesh,Hindi,Government job
-617,James,29,F,Master,"plumbing, computer",4 years,Operator,Tamil Nadu,English,Private job
-618,Adam,21,M,Master,"wiring, electrical",4 years,Clerk,Maharashtra,Telugu,Private job
-619,Robert,30,F,Master,plumbing,4 years,Clerk,Uttar Pradesh,Hindi,Internship
-620,Robert,24,M,ITI,"accounting, maintenance, mechanics",5 years,Technician,Kerala,English,Government job
-621,Christopher,31,M,High School,"wiring, computer, accounting",2 years,Technician,Maharashtra,Malayalam,Government job
-622,Daniel,22,M,Master,wiring,4 years,Technician,Maharashtra,Hindi,Government job
-623,Joseph,32,M,Bachelor,"accounting, mechanics",3 years,Clerk,Bihar,Malayalam,Private job
-624,Jonathon,29,F,ITI,"accounting, electrical",4 years,Clerk,Maharashtra,Tamil,Training
-625,Rachel,24,F,Diploma,plumbing,3 years,Operator,Maharashtra,Hindi,Training
-626,Lisa,23,F,Master,"mechanics, wiring, computer",1 years,Clerk,Bihar,English,Training
-627,Antonio,28,M,Bachelor,"mechanics, accounting",3 years,Operator,Kerala,Malayalam,Internship
-628,Peter,34,F,Bachelor,"mechanics, maintenance",3 years,Government,Tamil Nadu,Hindi,Internship
-629,Joshua,33,M,ITI,"computer, plumbing, electrical",5 years,Private,Kerala,Telugu,Training
-630,Joshua,22,F,Master,plumbing,1 years,Government,Uttar Pradesh,Hindi,Private job
-631,Taylor,34,F,Diploma,"maintenance, plumbing",3 years,Technician,Uttar Pradesh,Malayalam,Private job
-632,Catherine,25,M,Master,"accounting, wiring",0 years,Government,Bihar,Hindi,Private job
-633,Lance,34,M,Diploma,computer,3 years,Technician,Tamil Nadu,Telugu,Government job
-634,Donna,31,M,Master,"accounting, computer, electrical",2 years,Technician,Bihar,Malayalam,Training
-635,Joseph,27,F,ITI,"wiring, mechanics, computer",3 years,Clerk,Tamil Nadu,Malayalam,Internship
-636,Jenny,18,F,Bachelor,computer,4 years,Government,Maharashtra,English,Internship
-637,Eric,22,M,High School,"plumbing, accounting, wiring",3 years,Operator,Bihar,English,Training
-638,Jesus,19,F,High School,wiring,1 years,Technician,Tamil Nadu,Telugu,Private job
-639,Pamela,29,M,High School,"plumbing, computer, accounting",5 years,Private,Uttar Pradesh,English,Training
-640,Michele,34,M,High School,"wiring, maintenance",2 years,Government,Maharashtra,Hindi,Internship
-641,Alex,25,F,Master,"wiring, mechanics, computer",0 years,Operator,Tamil Nadu,Malayalam,Government job
-642,Evan,30,F,Master,plumbing,5 years,Technician,Uttar Pradesh,Telugu,Private job
-643,Robert,23,M,Master,"maintenance, accounting",1 years,Operator,Uttar Pradesh,English,Training
-644,Shawn,34,F,Bachelor,plumbing,1 years,Technician,Maharashtra,English,Private job
-645,Marcus,23,M,Bachelor,"maintenance, accounting, plumbing",0 years,Operator,Tamil Nadu,Hindi,Training
-646,Derek,35,F,High School,accounting,5 years,Private,Maharashtra,English,Government job
-647,Deborah,20,M,Diploma,"computer, mechanics",2 years,Technician,Maharashtra,Telugu,Private job
-648,John,35,M,High School,"plumbing, maintenance",3 years,Technician,Tamil Nadu,English,Private job
-649,Matthew,23,M,High School,mechanics,3 years,Private,Maharashtra,Hindi,Internship
-650,Emily,29,F,Bachelor,"computer, electrical, mechanics",4 years,Private,Kerala,Hindi,Internship
-651,Olivia,24,M,Diploma,"plumbing, accounting",4 years,Clerk,Bihar,Malayalam,Internship
-652,Jacob,31,F,Master,"accounting, electrical, computer",4 years,Technician,Tamil Nadu,Telugu,Government job
-653,Brenda,24,M,High School,"mechanics, computer, electrical",1 years,Private,Maharashtra,Malayalam,Private job
-654,Stephen,19,F,ITI,mechanics,4 years,Operator,Uttar Pradesh,Telugu,Private job
-655,Matthew,29,F,ITI,"plumbing, computer, accounting",3 years,Clerk,Maharashtra,Hindi,Government job
-656,James,20,M,Bachelor,"accounting, wiring",3 years,Clerk,Maharashtra,Tamil,Private job
-657,Justin,32,M,ITI,accounting,4 years,Clerk,Maharashtra,Telugu,Private job
-658,Adam,24,M,High School,"plumbing, electrical",0 years,Government,Maharashtra,Telugu,Government job
-659,Leslie,22,F,ITI,"computer, plumbing, maintenance",4 years,Operator,Bihar,Hindi,Internship
-660,Pamela,29,F,Diploma,plumbing,3 years,Government,Uttar Pradesh,Tamil,Private job
-661,Ashley,23,M,ITI,"maintenance, wiring",2 years,Government,Uttar Pradesh,Tamil,Training
-662,Matthew,25,F,ITI,"computer, mechanics",0 years,Government,Uttar Pradesh,Telugu,Training
-663,Rhonda,29,F,Bachelor,"computer, plumbing, wiring",2 years,Government,Kerala,Hindi,Government job
-664,Laura,23,F,Bachelor,computer,3 years,Technician,Bihar,Hindi,Private job
-665,Chelsea,19,M,Bachelor,"computer, mechanics",4 years,Operator,Tamil Nadu,Hindi,Training
-666,Charles,26,F,Master,"maintenance, electrical, plumbing",1 years,Private,Maharashtra,Telugu,Private job
-667,Anna,33,M,Diploma,maintenance,5 years,Private,Tamil Nadu,English,Training
-668,Kristopher,34,M,Bachelor,"mechanics, electrical",5 years,Government,Bihar,English,Government job
-669,Ryan,20,M,Diploma,"electrical, maintenance, computer",5 years,Private,Bihar,Telugu,Training
-670,Lance,29,M,Bachelor,"accounting, electrical",2 years,Technician,Maharashtra,English,Government job
-671,Aaron,25,M,ITI,"accounting, electrical",1 years,Operator,Kerala,Tamil,Internship
-672,James,24,M,Bachelor,"electrical, wiring",2 years,Government,Bihar,Malayalam,Private job
-673,Samuel,22,F,Master,wiring,0 years,Clerk,Uttar Pradesh,Hindi,Government job
-674,Teresa,29,F,Diploma,electrical,5 years,Operator,Bihar,Malayalam,Training
-675,Thomas,35,F,Master,"electrical, accounting, plumbing",2 years,Operator,Maharashtra,Hindi,Private job
-676,Emily,19,F,Bachelor,"wiring, mechanics, computer",3 years,Technician,Tamil Nadu,English,Private job
-677,Scott,22,M,Master,wiring,3 years,Technician,Tamil Nadu,Malayalam,Government job
-678,Kristopher,24,M,Master,"mechanics, accounting, plumbing",4 years,Clerk,Maharashtra,Telugu,Internship
-679,Brenda,23,F,Diploma,electrical,2 years,Clerk,Kerala,Telugu,Private job
-680,Jessica,30,M,High School,"wiring, electrical",4 years,Government,Tamil Nadu,Tamil,Private job
-681,Lisa,18,F,High School,"maintenance, accounting",5 years,Government,Tamil Nadu,Telugu,Private job
-682,Gary,35,F,Master,"plumbing, accounting, mechanics",2 years,Government,Kerala,Telugu,Private job
-683,Amanda,28,F,Diploma,mechanics,2 years,Private,Maharashtra,Tamil,Government job
-684,Samuel,26,M,ITI,"maintenance, wiring",3 years,Clerk,Tamil Nadu,Malayalam,Internship
-685,Steven,23,M,High School,computer,5 years,Government,Kerala,English,Government job
-686,Kristen,18,F,Bachelor,"maintenance, wiring, electrical",3 years,Operator,Kerala,Hindi,Internship
-687,Christine,29,M,Master,plumbing,0 years,Technician,Kerala,Tamil,Private job
-688,Victoria,30,F,Master,accounting,3 years,Technician,Tamil Nadu,English,Internship
-689,Paul,26,M,Diploma,"computer, mechanics",3 years,Government,Kerala,Malayalam,Training
-690,Alvin,20,F,Diploma,computer,5 years,Government,Uttar Pradesh,Tamil,Training
-691,Andrea,25,F,Master,"maintenance, accounting",3 years,Clerk,Uttar Pradesh,Malayalam,Government job
-692,James,32,F,ITI,"maintenance, mechanics, wiring",5 years,Government,Kerala,Hindi,Government job
-693,Rebecca,19,M,Master,computer,3 years,Clerk,Uttar Pradesh,Tamil,Private job
-694,Austin,33,F,High School,"accounting, plumbing, mechanics",1 years,Technician,Maharashtra,Malayalam,Government job
-695,Hannah,27,F,Bachelor,mechanics,4 years,Private,Kerala,Telugu,Private job
-696,Alicia,33,F,Bachelor,"electrical, accounting",5 years,Clerk,Bihar,English,Internship
-697,Curtis,30,M,Diploma,wiring,0 years,Government,Kerala,Malayalam,Private job
-698,Katrina,35,F,Bachelor,"mechanics, computer",0 years,Operator,Maharashtra,English,Training
-699,Susan,29,F,ITI,"mechanics, wiring",0 years,Government,Tamil Nadu,Hindi,Private job
-700,Heather,22,M,High School,"accounting, mechanics",5 years,Private,Kerala,Malayalam,Private job
-701,Vanessa,22,F,Bachelor,"accounting, wiring",1 years,Operator,Kerala,Tamil,Private job
-702,Brian,25,F,Master,"wiring, computer, plumbing",2 years,Operator,Maharashtra,Malayalam,Training
-703,Jacob,30,F,ITI,"wiring, mechanics, maintenance",4 years,Private,Uttar Pradesh,Telugu,Government job
-704,Luis,35,F,ITI,computer,0 years,Technician,Maharashtra,Telugu,Private job
-705,Kimberly,18,F,ITI,accounting,2 years,Operator,Kerala,Hindi,Private job
-706,Jeffrey,26,M,Master,"wiring, plumbing",4 years,Government,Uttar Pradesh,Malayalam,Training
-707,Crystal,19,F,Diploma,"computer, accounting, wiring",2 years,Technician,Maharashtra,Telugu,Internship
-708,Justin,32,F,High School,"computer, accounting, mechanics",3 years,Private,Bihar,Malayalam,Internship
-709,Michael,30,F,Master,"electrical, computer, accounting",4 years,Government,Kerala,Hindi,Government job
-710,Adrian,26,F,Bachelor,"mechanics, plumbing, computer",1 years,Government,Kerala,Hindi,Training
-711,Karen,27,M,Bachelor,"mechanics, accounting",5 years,Government,Bihar,Hindi,Training
-712,Victoria,24,M,Bachelor,"computer, maintenance",5 years,Technician,Bihar,Hindi,Private job
-713,Gabrielle,24,M,ITI,"wiring, computer, mechanics",1 years,Clerk,Maharashtra,Malayalam,Private job
-714,Jeffrey,23,M,Master,"electrical, mechanics",5 years,Technician,Kerala,Telugu,Private job
-715,Shelby,21,F,ITI,"wiring, plumbing, computer",2 years,Technician,Tamil Nadu,Telugu,Government job
-716,Walter,31,F,Diploma,"mechanics, computer",4 years,Operator,Tamil Nadu,Hindi,Internship
-717,Jacob,22,M,ITI,maintenance,3 years,Technician,Maharashtra,English,Training
-718,Stacey,34,M,High School,"plumbing, electrical, maintenance",0 years,Clerk,Tamil Nadu,Malayalam,Private job
-719,Deanna,28,M,High School,"wiring, maintenance",3 years,Government,Tamil Nadu,Malayalam,Government job
-720,Julie,28,F,Bachelor,computer,2 years,Operator,Kerala,Telugu,Private job
-721,Pamela,20,F,Diploma,"plumbing, mechanics, wiring",1 years,Clerk,Maharashtra,Malayalam,Training
-722,Michael,22,F,Bachelor,"maintenance, electrical, plumbing",3 years,Government,Maharashtra,English,Training
-723,Roger,34,F,Diploma,"plumbing, mechanics, computer",2 years,Government,Maharashtra,Hindi,Government job
-724,Patrick,35,M,Bachelor,"electrical, maintenance, mechanics",3 years,Operator,Bihar,Tamil,Private job
-725,Joyce,31,F,ITI,mechanics,1 years,Operator,Tamil Nadu,English,Training
-726,Nicholas,34,M,Bachelor,"wiring, maintenance, accounting",1 years,Operator,Bihar,English,Government job
-727,Jessica,26,M,Diploma,plumbing,5 years,Government,Bihar,Malayalam,Government job
-728,Darren,23,M,Diploma,mechanics,5 years,Government,Kerala,Hindi,Internship
-729,Sarah,30,M,ITI,wiring,2 years,Technician,Kerala,English,Private job
-730,Diana,35,M,ITI,"mechanics, electrical",1 years,Clerk,Maharashtra,Hindi,Private job
-731,Jennifer,23,F,Bachelor,"accounting, wiring",3 years,Government,Uttar Pradesh,Tamil,Private job
-732,Shannon,19,F,High School,"wiring, accounting",1 years,Private,Kerala,Malayalam,Government job
-733,Mark,29,M,Diploma,"plumbing, wiring",1 years,Technician,Maharashtra,Telugu,Private job
-734,Rita,28,M,Master,wiring,4 years,Clerk,Maharashtra,Hindi,Internship
-735,Jennifer,18,M,Bachelor,"computer, electrical",4 years,Government,Uttar Pradesh,English,Private job
-736,Michael,27,F,Master,"wiring, electrical, maintenance",1 years,Technician,Kerala,Hindi,Training
-737,Jeffrey,29,F,Diploma,wiring,0 years,Operator,Tamil Nadu,Hindi,Private job
-738,Alicia,19,M,ITI,computer,5 years,Private,Tamil Nadu,Telugu,Training
-739,Karen,19,F,ITI,"computer, mechanics",2 years,Technician,Maharashtra,Tamil,Training
-740,Brian,18,F,Diploma,"wiring, computer, accounting",5 years,Technician,Tamil Nadu,Telugu,Training
-741,Tyler,18,M,Diploma,maintenance,2 years,Operator,Uttar Pradesh,Tamil,Training
-742,Raymond,20,M,Master,"computer, wiring",0 years,Operator,Maharashtra,Tamil,Internship
-743,Andrew,21,M,Bachelor,electrical,0 years,Operator,Maharashtra,Malayalam,Private job
-744,Tina,32,M,Diploma,"computer, maintenance",2 years,Clerk,Kerala,Hindi,Government job
-745,Veronica,18,M,High School,"maintenance, electrical, plumbing",0 years,Technician,Uttar Pradesh,Hindi,Private job
-746,Chad,35,F,ITI,mechanics,2 years,Technician,Tamil Nadu,Malayalam,Government job
-747,Nathan,27,F,Master,"wiring, mechanics",0 years,Private,Maharashtra,Malayalam,Internship
-748,Anthony,31,F,Master,"accounting, electrical",5 years,Operator,Tamil Nadu,English,Training
-749,Angela,18,F,ITI,"wiring, plumbing, accounting",3 years,Private,Maharashtra,Malayalam,Training
-750,Krista,23,F,Bachelor,"computer, wiring",4 years,Clerk,Kerala,Malayalam,Private job
-751,Tracy,21,F,High School,"accounting, plumbing",5 years,Government,Uttar Pradesh,Telugu,Government job
-752,Adam,21,F,Bachelor,"mechanics, electrical, wiring",2 years,Government,Bihar,Malayalam,Training
-753,Eric,26,M,High School,accounting,2 years,Technician,Bihar,Hindi,Internship
-754,Elizabeth,21,M,Diploma,"electrical, wiring, maintenance",3 years,Clerk,Bihar,English,Private job
-755,Angela,32,M,Bachelor,"computer, electrical, maintenance",5 years,Clerk,Bihar,Hindi,Training
-756,Erik,26,F,Bachelor,plumbing,2 years,Private,Bihar,Tamil,Government job
-757,Alison,19,M,Diploma,"mechanics, maintenance, electrical",5 years,Private,Tamil Nadu,Hindi,Government job
-758,Megan,24,M,Bachelor,"maintenance, mechanics, accounting",2 years,Technician,Uttar Pradesh,English,Government job
-759,Donald,19,M,Diploma,"accounting, computer",5 years,Clerk,Bihar,Telugu,Government job
-760,Richard,34,M,Diploma,"maintenance, plumbing",1 years,Operator,Kerala,Malayalam,Internship
-761,Thomas,35,F,Bachelor,wiring,2 years,Technician,Kerala,Tamil,Training
-762,Joshua,34,M,Bachelor,"mechanics, computer, maintenance",4 years,Technician,Uttar Pradesh,Tamil,Training
-763,Jacob,25,M,Master,"maintenance, accounting",1 years,Private,Maharashtra,Hindi,Private job
-764,Julie,19,F,Diploma,electrical,2 years,Operator,Tamil Nadu,Malayalam,Private job
-765,Rachel,29,F,Diploma,"electrical, maintenance, computer",2 years,Technician,Maharashtra,Hindi,Government job
-766,Brian,22,M,Bachelor,accounting,0 years,Operator,Uttar Pradesh,Malayalam,Government job
-767,Monica,24,F,Diploma,"electrical, mechanics",3 years,Operator,Uttar Pradesh,Hindi,Government job
-768,Kyle,27,M,High School,accounting,1 years,Private,Tamil Nadu,Telugu,Government job
-769,Ralph,18,M,Diploma,maintenance,2 years,Technician,Uttar Pradesh,Telugu,Internship
-770,Michael,23,M,Master,"mechanics, electrical, maintenance",0 years,Operator,Tamil Nadu,Hindi,Training
-771,Shelby,31,F,Diploma,"plumbing, electrical",1 years,Clerk,Uttar Pradesh,Tamil,Internship
-772,Kenneth,32,M,High School,"plumbing, maintenance",2 years,Clerk,Maharashtra,Tamil,Training
-773,Dana,21,M,High School,"wiring, computer",1 years,Government,Tamil Nadu,Tamil,Training
-774,Brian,31,M,ITI,maintenance,4 years,Technician,Tamil Nadu,Hindi,Private job
-775,Laura,18,F,Master,"plumbing, wiring, electrical",2 years,Private,Uttar Pradesh,Tamil,Government job
-776,Kathleen,35,F,Master,computer,5 years,Private,Tamil Nadu,English,Internship
-777,Rebekah,28,F,Diploma,"mechanics, maintenance, plumbing",5 years,Clerk,Kerala,Hindi,Training
-778,Leonard,27,F,Diploma,electrical,5 years,Private,Kerala,Tamil,Internship
-779,Joshua,23,F,ITI,electrical,3 years,Technician,Tamil Nadu,Tamil,Private job
-780,Amanda,22,M,ITI,accounting,3 years,Clerk,Uttar Pradesh,Hindi,Private job
-781,Carol,30,F,Master,"computer, wiring",3 years,Government,Kerala,English,Private job
-782,Shannon,35,M,Bachelor,"plumbing, electrical",1 years,Technician,Bihar,Tamil,Internship
-783,Ronald,33,F,Bachelor,"plumbing, electrical, mechanics",5 years,Technician,Uttar Pradesh,Telugu,Private job
-784,Mallory,29,F,ITI,mechanics,1 years,Private,Tamil Nadu,Tamil,Private job
-785,Scott,20,F,Master,"wiring, mechanics",2 years,Technician,Uttar Pradesh,Hindi,Internship
-786,Jennifer,20,M,High School,"accounting, mechanics, electrical",0 years,Private,Bihar,English,Private job
-787,Nicole,35,M,ITI,plumbing,3 years,Private,Uttar Pradesh,English,Training
-788,Erin,33,M,Master,"maintenance, plumbing, wiring",0 years,Private,Uttar Pradesh,Hindi,Internship
-789,Brittany,27,M,Bachelor,"wiring, plumbing, electrical",2 years,Technician,Kerala,English,Training
-790,James,18,M,ITI,"computer, electrical, wiring",4 years,Clerk,Bihar,English,Internship
-791,Vanessa,31,F,ITI,"wiring, plumbing, mechanics",5 years,Government,Kerala,Telugu,Internship
-792,Wendy,33,M,Master,computer,0 years,Government,Bihar,Tamil,Internship
-793,Amy,25,M,ITI,"wiring, maintenance, mechanics",1 years,Operator,Maharashtra,Telugu,Government job
-794,Patricia,28,F,High School,computer,5 years,Operator,Uttar Pradesh,Hindi,Internship
-795,Robin,27,M,Master,"computer, accounting, electrical",1 years,Clerk,Uttar Pradesh,Tamil,Training
-796,Javier,29,M,Diploma,"electrical, maintenance, accounting",0 years,Technician,Bihar,Hindi,Government job
-797,William,32,M,High School,maintenance,0 years,Operator,Bihar,English,Training
-798,Matthew,18,F,High School,computer,1 years,Clerk,Uttar Pradesh,English,Government job
-799,Eric,30,F,High School,"accounting, computer",4 years,Technician,Kerala,Tamil,Internship
-800,Michael,35,F,Diploma,electrical,4 years,Private,Maharashtra,Malayalam,Private job
+1,Oviya,29,F,12th,"accounting, electrical",2 years,Trainer,Kerala,Telugu,Training
+2,Samaksh,30,F,10th,"mechanics, driving, computer",3 years,Operator,Gujarat,Kannada,Training
+3,Lakshmi,28,F,PhD,"computer, typing",0 years,Trainer,Punjab,Tamil,Private job
+4,Harita,27,M,Bachelor,"graphic design, plumbing",0 years,Government,Kerala,Tamil,Training
+5,Ojasvi,29,M,Vocational Training,"plumbing, driving",2 years,Government,Uttar Pradesh,Odia,Government job
+6,Sai,21,M,10th,"electrical, graphic design",0 years,Manager,Maharashtra,Tamil,Private job
+7,Qasim,27,F,Bachelor,"graphic design, typing",0 years,Government,Gujarat,Marathi,Training
+8,Yadavi,32,F,PhD,"computer, mechanics, electrical",5 years,Manager,Maharashtra,Odia,Internship
+9,Ranbir,20,M,ITI,electrical,0 years,Engineer,Uttar Pradesh,English,Private job
+10,Lekha,33,M,12th,"computer, maintenance, plumbing",0 years,Consultant,Bihar,Telugu,Training
+11,Vivaan,22,M,Undergraduate,computer,5 years,Technician,Odisha,Malayalam,Government job
+12,Zansi,28,M,Certificate Course,"wiring, electrical",3 years,Assistant,Bihar,Gujarati,Internship
+13,Bina,26,M,10th,typing,4 years,Engineer,West Bengal,Telugu,Government job
+14,Kevin,20,F,Postgraduate,"maintenance, typing, driving",4 years,Assistant,Karnataka,Gujarati,Internship
+15,Manthan,33,F,High School,"graphic design, driving, carpentry",5 years,Operator,Bihar,Bengali,Government job
+16,Arin,18,F,12th,"carpentry, driving, typing",0 years,Trainer,Uttar Pradesh,Hindi,Government job
+17,Yashica,29,M,12th,"computer, mechanics",2 years,Consultant,Gujarat,Kannada,Government job
+18,Janya,33,F,Vocational Training,"carpentry, maintenance, graphic design",5 years,Government,Uttar Pradesh,Gujarati,Government job
+19,Krish,35,F,Diploma,graphic design,1 years,Assistant,Rajasthan,Malayalam,Internship
+20,Advaith,26,F,Bachelor,"accounting, plumbing, mechanics",3 years,Assistant,Uttar Pradesh,Marathi,Training
+21,Daniel,22,F,Master,wiring,0 years,Government,Rajasthan,Bengali,Training
+22,Xiti,31,F,Diploma,"electrical, accounting, typing",1 years,Operator,Rajasthan,Punjabi,Government job
+23,Raghav,29,M,10th,teaching,3 years,Private,Bihar,Hindi,Private job
+24,Xiti,34,F,Postgraduate,plumbing,2 years,Assistant,Karnataka,Gujarati,Private job
+25,Radha,24,M,12th,electrical,5 years,Consultant,Maharashtra,Telugu,Training
+26,Yashica,32,F,PhD,graphic design,3 years,Consultant,Gujarat,Marathi,Government job
+27,Ucchal,25,F,Undergraduate,accounting,1 years,Operator,Uttar Pradesh,Gujarati,Training
+28,Jai,19,M,12th,"wiring, electrical",1 years,Engineer,Tamil Nadu,Odia,Training
+29,Ganga,19,M,Postgraduate,"carpentry, plumbing",5 years,Consultant,West Bengal,English,Training
+30,Ayush,35,F,ITI,"mechanics, driving",3 years,Clerk,Bihar,English,Internship
+31,Falak,33,M,High School,"typing, maintenance, driving",5 years,Operator,Gujarat,Gujarati,Internship
+32,Triveni,26,M,High School,"plumbing, electrical, graphic design",1 years,Manager,Karnataka,Malayalam,Government job
+33,Tanmayi,27,M,Bachelor,"accounting, wiring, graphic design",0 years,Supervisor,Bihar,Hindi,Private job
+34,Yashasvi,19,F,Postgraduate,maintenance,2 years,Private,Rajasthan,Punjabi,Private job
+35,Hema,20,F,Bachelor,"typing, accounting, computer",3 years,Consultant,Maharashtra,Hindi,Internship
+36,Netra,34,F,ITI,"typing, computer",0 years,Engineer,Gujarat,Marathi,Internship
+37,Mason,25,F,10th,maintenance,3 years,Operator,West Bengal,Telugu,Private job
+38,Rayaan,33,M,High School,"driving, carpentry, graphic design",1 years,Technician,Karnataka,English,Training
+39,Darsh,24,F,ITI,"typing, graphic design, accounting",4 years,Operator,Odisha,Tamil,Private job
+40,Liam,35,F,10th,"plumbing, wiring, driving",1 years,Assistant,West Bengal,English,Training
+41,Zehaan,25,M,PhD,"teaching, maintenance, mechanics",5 years,Clerk,Odisha,English,Internship
+42,Jagat,30,F,PhD,maintenance,3 years,Assistant,Odisha,Odia,Government job
+43,Libni,20,F,Vocational Training,"wiring, graphic design",2 years,Manager,Uttar Pradesh,Odia,Private job
+44,Megha,19,M,High School,typing,1 years,Engineer,Karnataka,Telugu,Internship
+45,Orinder,29,M,Diploma,"computer, mechanics",3 years,Technician,Karnataka,Telugu,Government job
+46,Jeet,28,F,Vocational Training,"driving, computer",5 years,Technician,Kerala,Tamil,Training
+47,Ishaan,28,M,12th,teaching,3 years,Operator,Tamil Nadu,English,Internship
+48,Mekhala,33,M,12th,"carpentry, wiring",1 years,Consultant,Punjab,Bengali,Training
+49,Balveer,23,F,PhD,"accounting, wiring, teaching",2 years,Clerk,Kerala,English,Internship
+50,Yamini,19,M,10th,"accounting, plumbing",1 years,Private,Bihar,Malayalam,Training
+51,Imaran,28,M,Vocational Training,plumbing,0 years,Government,Kerala,Punjabi,Training
+52,Amol,28,F,Undergraduate,"electrical, carpentry",1 years,Operator,West Bengal,Hindi,Training
+53,Aditya,19,F,Master,typing,5 years,Technician,Rajasthan,Odia,Private job
+54,Vansha,30,F,12th,carpentry,0 years,Trainer,Tamil Nadu,Odia,Training
+55,Harita,18,F,Diploma,"graphic design, mechanics, carpentry",1 years,Technician,Tamil Nadu,Kannada,Training
+56,Shaurya,26,F,ITI,"electrical, plumbing",0 years,Operator,Bihar,Bengali,Internship
+57,Nakul,19,F,Diploma,maintenance,5 years,Private,Punjab,Kannada,Internship
+58,Nachiket,24,F,ITI,"plumbing, electrical, typing",5 years,Private,Maharashtra,Telugu,Government job
+59,Mohammed,31,M,Master,electrical,2 years,Clerk,Tamil Nadu,Bengali,Training
+60,Zinal,29,F,Diploma,computer,5 years,Government,Punjab,Telugu,Government job
+61,Gaurav,31,M,Master,"electrical, wiring",4 years,Consultant,Tamil Nadu,Malayalam,Government job
+62,Vedhika,18,F,Certificate Course,computer,2 years,Trainer,Rajasthan,Gujarati,Internship
+63,Charita,25,F,Undergraduate,"driving, mechanics, graphic design",1 years,Manager,Tamil Nadu,English,Private job
+64,Lucky,22,F,PhD,wiring,1 years,Private,West Bengal,Tamil,Government job
+65,Abhiram,19,M,ITI,"graphic design, typing, driving",5 years,Clerk,Bihar,Tamil,Training
+66,Darika,19,F,Diploma,"computer, wiring",0 years,Supervisor,Uttar Pradesh,Telugu,Training
+67,Jack,33,F,Vocational Training,typing,0 years,Supervisor,Maharashtra,Telugu,Internship
+68,Nidhi,24,M,Diploma,"mechanics, electrical",0 years,Supervisor,Kerala,Malayalam,Private job
+69,Manan,22,M,Postgraduate,"plumbing, teaching, typing",0 years,Manager,Rajasthan,Gujarati,Private job
+70,Watika,28,M,Vocational Training,"mechanics, plumbing",5 years,Assistant,West Bengal,Hindi,Private job
+71,Samar,30,F,12th,"maintenance, driving",1 years,Trainer,Odisha,Kannada,Government job
+72,Anika,28,F,High School,"driving, teaching, wiring",4 years,Trainer,Rajasthan,Kannada,Private job
+73,Neha,30,F,Master,"electrical, computer",3 years,Private,Bihar,Marathi,Internship
+74,David,21,M,High School,graphic design,5 years,Manager,Karnataka,Tamil,Internship
+75,Kavya,21,F,Postgraduate,"graphic design, teaching, plumbing",3 years,Assistant,Kerala,Kannada,Internship
+76,Advik,29,M,Undergraduate,accounting,3 years,Operator,Kerala,Malayalam,Government job
+77,Charan,24,F,Master,carpentry,1 years,Supervisor,Gujarat,Bengali,Internship
+78,Yuvraj,25,F,High School,driving,4 years,Clerk,Tamil Nadu,Odia,Government job
+79,Yash,22,M,Certificate Course,"carpentry, typing, wiring",2 years,Government,Uttar Pradesh,Hindi,Government job
+80,Logan,21,M,Vocational Training,"driving, computer",3 years,Consultant,Maharashtra,Bengali,Internship
+81,Neel,26,M,Bachelor,"carpentry, driving",3 years,Consultant,Maharashtra,English,Government job
+82,Mason,35,M,High School,"accounting, wiring",0 years,Government,West Bengal,Gujarati,Training
+83,Finn,18,F,Certificate Course,driving,1 years,Trainer,West Bengal,Gujarati,Government job
+84,Anthony,35,F,Postgraduate,"carpentry, typing",2 years,Private,Tamil Nadu,Telugu,Internship
+85,Riya,24,F,Postgraduate,"computer, teaching, typing",1 years,Operator,Karnataka,Telugu,Government job
+86,Yadavi,34,F,Bachelor,mechanics,1 years,Technician,Tamil Nadu,Hindi,Internship
+87,Zayyan,21,M,Bachelor,"carpentry, driving, maintenance",4 years,Technician,Bihar,Kannada,Training
+88,Jackson,31,M,High School,graphic design,2 years,Manager,Uttar Pradesh,Hindi,Government job
+89,Chavvi,21,F,PhD,"carpentry, graphic design",1 years,Engineer,Punjab,Bengali,Internship
+90,Jacob,25,M,ITI,"wiring, computer, accounting",5 years,Clerk,Kerala,English,Training
+91,Tristan,25,M,Certificate Course,mechanics,0 years,Technician,Tamil Nadu,English,Government job
+92,Watika,32,F,10th,"carpentry, mechanics",3 years,Supervisor,Punjab,Marathi,Training
+93,Falan,19,F,PhD,"maintenance, typing, accounting",1 years,Consultant,Punjab,Marathi,Private job
+94,Dev,26,M,PhD,mechanics,5 years,Government,West Bengal,English,Government job
+95,Hemangini,33,F,PhD,plumbing,1 years,Engineer,Odisha,Marathi,Training
+96,Eiravati,30,M,Bachelor,"wiring, teaching, maintenance",3 years,Engineer,Bihar,Odia,Training
+97,Nicholas,35,F,10th,"carpentry, driving",1 years,Supervisor,West Bengal,Marathi,Training
+98,Chameli,28,F,Diploma,typing,5 years,Technician,Bihar,Tamil,Training
+99,Kavya,24,F,Bachelor,"accounting, plumbing, electrical",0 years,Engineer,Tamil Nadu,Kannada,Internship
+100,Chaman,20,F,Vocational Training,"wiring, mechanics",3 years,Consultant,Gujarat,Hindi,Training
+101,Ekta,24,F,Master,"typing, mechanics",1 years,Trainer,Kerala,Marathi,Training
+102,Sneha,27,M,Postgraduate,"mechanics, typing, electrical",4 years,Supervisor,Maharashtra,Malayalam,Training
+103,Jyoti,33,M,Undergraduate,"graphic design, plumbing, typing",1 years,Assistant,Kerala,English,Internship
+104,Avni,32,M,Vocational Training,"mechanics, carpentry, maintenance",4 years,Manager,Punjab,Marathi,Training
+105,Laban,33,F,Vocational Training,"wiring, carpentry",0 years,Private,Odisha,Gujarati,Government job
+106,Gabriel,29,F,Certificate Course,computer,3 years,Manager,Maharashtra,Odia,Private job
+107,Saanvi,33,M,Diploma,"computer, maintenance, wiring",4 years,Engineer,Maharashtra,Odia,Government job
+108,Jagvi,18,M,Certificate Course,electrical,3 years,Manager,Karnataka,Kannada,Internship
+109,Sarthak,31,M,Master,maintenance,5 years,Manager,Gujarat,Odia,Training
+110,Harsh,29,M,Vocational Training,graphic design,5 years,Trainer,Kerala,Odia,Training
+111,Barkha,22,M,Undergraduate,"electrical, computer, driving",4 years,Assistant,Bihar,Marathi,Internship
+112,Darpan,19,F,Diploma,accounting,1 years,Engineer,Punjab,Gujarati,Government job
+113,Ekiya,28,M,Diploma,"typing, mechanics, driving",1 years,Clerk,Tamil Nadu,Hindi,Government job
+114,Matthew,34,M,PhD,"graphic design, maintenance, electrical",2 years,Engineer,Karnataka,English,Internship
+115,Sai,22,F,Postgraduate,driving,5 years,Operator,Tamil Nadu,Marathi,Internship
+116,Hitesh,18,M,Undergraduate,"maintenance, electrical, accounting",1 years,Consultant,Odisha,English,Private job
+117,Unni,30,F,Master,"wiring, driving",1 years,Private,Punjab,Tamil,Training
+118,Orinder,23,F,10th,mechanics,1 years,Operator,Bihar,Malayalam,Private job
+119,Amrita,24,F,Vocational Training,"plumbing, accounting, typing",0 years,Consultant,Kerala,English,Training
+120,Inaya,18,M,12th,"teaching, driving",2 years,Operator,Punjab,Malayalam,Training
+121,Ikbal,22,F,PhD,"driving, plumbing, typing",3 years,Engineer,Kerala,Hindi,Private job
+122,Indrajit,23,F,Postgraduate,"electrical, computer, plumbing",4 years,Technician,Maharashtra,Tamil,Internship
+123,Frado,30,M,Diploma,computer,2 years,Engineer,West Bengal,Kannada,Private job
+124,Vrinda,21,M,PhD,"plumbing, carpentry",3 years,Government,West Bengal,Odia,Training
+125,Ojas,31,F,Certificate Course,"teaching, plumbing, carpentry",5 years,Private,West Bengal,Punjabi,Private job
+126,Urishilla,20,M,Master,"electrical, mechanics, graphic design",4 years,Technician,Tamil Nadu,Telugu,Internship
+127,Tamanna,30,F,Master,"typing, maintenance",3 years,Technician,Kerala,Telugu,Government job
+128,Riya,27,F,Certificate Course,accounting,3 years,Manager,Karnataka,Malayalam,Internship
+129,Mahika,20,F,Master,"plumbing, graphic design, maintenance",1 years,Trainer,Kerala,English,Government job
+130,Sudiksha,35,F,Diploma,"driving, plumbing",3 years,Technician,West Bengal,Telugu,Training
+131,Mason,20,M,12th,"computer, accounting, driving",5 years,Engineer,Karnataka,Malayalam,Private job
+132,Chandresh,20,M,10th,"plumbing, typing, wiring",3 years,Engineer,Maharashtra,Telugu,Government job
+133,Vedhika,32,M,ITI,teaching,2 years,Consultant,Uttar Pradesh,Kannada,Internship
+134,Theodore,22,M,10th,"driving, teaching",3 years,Clerk,Punjab,Marathi,Internship
+135,Aahana,22,F,Undergraduate,"electrical, carpentry",3 years,Technician,Rajasthan,Odia,Government job
+136,Wriddhish,34,F,Vocational Training,"graphic design, driving",5 years,Private,Karnataka,Gujarati,Training
+137,Ishwar,20,M,High School,computer,0 years,Technician,Gujarat,Odia,Private job
+138,Yutika,25,F,High School,maintenance,0 years,Private,Bihar,Gujarati,Government job
+139,Yadavi,21,M,Diploma,"electrical, teaching, carpentry",4 years,Technician,West Bengal,Bengali,Training
+140,Baghyawati,24,F,Vocational Training,"accounting, computer, plumbing",4 years,Private,West Bengal,Malayalam,Government job
+141,Yachana,30,F,PhD,mechanics,1 years,Government,Karnataka,Odia,Training
+142,Widisha,30,M,High School,"plumbing, wiring",1 years,Manager,Rajasthan,Hindi,Government job
+143,Zilmil,22,M,ITI,"carpentry, electrical, teaching",5 years,Manager,Gujarat,Marathi,Training
+144,Libni,33,M,Undergraduate,"graphic design, computer",3 years,Engineer,Odisha,Malayalam,Government job
+145,Tristan,24,M,Certificate Course,"graphic design, typing, plumbing",4 years,Manager,Maharashtra,Odia,Private job
+146,Yatin,22,M,Postgraduate,"maintenance, driving",4 years,Supervisor,Bihar,English,Internship
+147,Ansh,25,M,10th,"accounting, typing",4 years,Technician,Tamil Nadu,Gujarati,Government job
+148,Damini,35,M,Vocational Training,"maintenance, computer, typing",2 years,Consultant,Rajasthan,Marathi,Private job
+149,Chavvi,24,M,Bachelor,"wiring, electrical, plumbing",2 years,Assistant,Kerala,Telugu,Internship
+150,Krishna,18,M,Postgraduate,"accounting, computer, wiring",0 years,Manager,Karnataka,Malayalam,Internship
+151,Hardik,21,M,Certificate Course,"typing, graphic design, maintenance",2 years,Trainer,Bihar,Punjabi,Training
+152,Jairaj,25,F,10th,driving,4 years,Supervisor,Odisha,Tamil,Internship
+153,Panini,33,M,Bachelor,mechanics,5 years,Engineer,Bihar,Malayalam,Internship
+154,Alka,23,F,12th,wiring,2 years,Consultant,Odisha,Punjabi,Internship
+155,Fitan,29,F,Undergraduate,"mechanics, wiring",4 years,Supervisor,West Bengal,Punjabi,Private job
+156,Jyoti,33,M,Master,"electrical, driving",4 years,Consultant,West Bengal,English,Private job
+157,Jeet,32,M,Postgraduate,"accounting, computer, graphic design",4 years,Government,Punjab,Marathi,Internship
+158,Sai,18,F,PhD,"accounting, graphic design",0 years,Operator,Rajasthan,Punjabi,Government job
+159,Hitesh,27,M,PhD,"wiring, accounting, mechanics",3 years,Trainer,Bihar,Kannada,Government job
+160,Vrishti,24,F,ITI,"mechanics, graphic design, computer",4 years,Clerk,Gujarat,Kannada,Government job
+161,Nicholas,20,F,Master,accounting,3 years,Engineer,Tamil Nadu,Hindi,Private job
+162,Neelima,21,F,Vocational Training,"computer, electrical, driving",1 years,Technician,Odisha,Telugu,Government job
+163,Eesha,30,M,Certificate Course,"teaching, electrical, typing",3 years,Clerk,Bihar,Hindi,Private job
+164,Ojas,24,M,Postgraduate,"driving, wiring, typing",0 years,Engineer,Gujarat,Tamil,Government job
+165,Vamakshi,31,F,PhD,"plumbing, accounting, electrical",5 years,Operator,Uttar Pradesh,English,Government job
+166,Nakul,25,M,High School,"mechanics, teaching, accounting",4 years,Supervisor,Punjab,Kannada,Training
+167,Gagan,18,F,Master,"driving, wiring, carpentry",1 years,Government,Maharashtra,Telugu,Government job
+168,Gautami,34,M,Vocational Training,"wiring, mechanics",3 years,Clerk,Punjab,Telugu,Internship
+169,Victor,25,F,Master,driving,5 years,Clerk,West Bengal,Odia,Government job
+170,Lucky,31,F,Master,"carpentry, teaching, mechanics",5 years,Operator,Odisha,Gujarati,Internship
+171,Urvi,29,F,Undergraduate,"typing, carpentry",4 years,Government,Bihar,Hindi,Training
+172,Bhavika,19,F,Vocational Training,electrical,0 years,Trainer,Bihar,Bengali,Government job
+173,Siddharth,31,M,Vocational Training,"typing, carpentry, maintenance",2 years,Manager,Uttar Pradesh,Hindi,Private job
+174,Ladli,29,M,Master,plumbing,1 years,Clerk,Odisha,Tamil,Training
+175,Isha,22,F,12th,"plumbing, carpentry, electrical",5 years,Supervisor,Rajasthan,Bengali,Training
+176,Hiral,30,M,High School,"teaching, plumbing, mechanics",1 years,Private,West Bengal,Gujarati,Training
+177,Balveer,30,M,Diploma,"plumbing, graphic design, carpentry",1 years,Clerk,Maharashtra,Hindi,Training
+178,Ria,34,F,ITI,"mechanics, maintenance, graphic design",4 years,Clerk,Punjab,Tamil,Government job
+179,Vritti,24,M,Bachelor,"driving, maintenance",2 years,Trainer,Maharashtra,Kannada,Training
+180,Wazir,35,F,Bachelor,"carpentry, computer",2 years,Private,Tamil Nadu,Tamil,Internship
+181,Tejas,35,M,Master,"wiring, electrical, teaching",2 years,Trainer,Odisha,Punjabi,Internship
+182,Prisha,34,M,Certificate Course,graphic design,5 years,Manager,Uttar Pradesh,Hindi,Training
+183,Urishilla,29,F,12th,"carpentry, accounting",2 years,Government,Karnataka,English,Training
+184,Kashvi,35,M,Certificate Course,wiring,2 years,Private,Karnataka,Gujarati,Training
+185,Reyansh,29,M,Vocational Training,"electrical, typing, graphic design",2 years,Trainer,Odisha,Gujarati,Private job
+186,Rachit,33,F,PhD,"teaching, typing",2 years,Consultant,Gujarat,Bengali,Private job
+187,Noah,20,F,Postgraduate,"computer, plumbing, driving",0 years,Private,Kerala,Hindi,Private job
+188,Anika,22,M,Postgraduate,graphic design,4 years,Technician,Rajasthan,Hindi,Training
+189,Harrison,35,M,12th,mechanics,0 years,Engineer,Uttar Pradesh,English,Training
+190,Gauri,27,M,Master,"maintenance, graphic design",4 years,Manager,Odisha,Punjabi,Training
+191,Vyanjana,32,F,12th,mechanics,4 years,Engineer,Odisha,Telugu,Internship
+192,Rohan,27,M,ITI,"computer, graphic design, plumbing",0 years,Trainer,West Bengal,Kannada,Private job
+193,Devansh,27,M,PhD,"mechanics, typing, accounting",4 years,Engineer,Uttar Pradesh,Telugu,Private job
+194,Naveen,35,M,12th,computer,0 years,Assistant,Gujarat,Punjabi,Training
+195,Jagdish,22,M,12th,"graphic design, teaching",4 years,Government,Kerala,Kannada,Government job
+196,Keya,30,M,10th,"accounting, electrical",0 years,Engineer,Odisha,English,Private job
+197,Jeremiah,23,M,Certificate Course,accounting,4 years,Consultant,Kerala,Bengali,Government job
+198,Girindra,22,M,10th,"graphic design, electrical, accounting",4 years,Consultant,Punjab,Odia,Training
+199,Kabir,26,F,12th,"teaching, computer, driving",2 years,Government,Gujarat,Marathi,Training
+200,Adya,24,M,PhD,"computer, driving",5 years,Engineer,Bihar,Bengali,Government job
+201,Veer,24,F,Postgraduate,wiring,0 years,Assistant,Rajasthan,Gujarati,Government job
+202,Mohammed,27,M,High School,"accounting, teaching, computer",0 years,Technician,Tamil Nadu,Tamil,Private job
+203,Anmol,27,M,12th,typing,1 years,Technician,Karnataka,Odia,Private job
+204,Oliver,31,F,Certificate Course,"mechanics, wiring, typing",5 years,Manager,Gujarat,Kannada,Government job
+205,Farhan,34,F,High School,"teaching, computer, maintenance",1 years,Private,Gujarat,Kannada,Internship
+206,Dakshesh,32,M,Certificate Course,computer,3 years,Manager,West Bengal,Kannada,Private job
+207,Brijesh,28,M,Vocational Training,"plumbing, wiring",1 years,Engineer,Karnataka,Gujarati,Private job
+208,Karan,31,M,10th,"computer, driving, carpentry",1 years,Private,Punjab,Punjabi,Internship
+209,Xalak,24,M,PhD,accounting,5 years,Technician,West Bengal,Telugu,Internship
+210,Anika,23,M,PhD,"teaching, mechanics, accounting",4 years,Government,Uttar Pradesh,Punjabi,Private job
+211,Jeremiah,31,F,High School,"mechanics, plumbing, electrical",0 years,Supervisor,Tamil Nadu,Kannada,Government job
+212,Oeshi,30,M,High School,"driving, graphic design, maintenance",4 years,Supervisor,Odisha,Hindi,Internship
+213,Girindra,34,M,Diploma,driving,3 years,Assistant,Kerala,Tamil,Training
+214,Sneha,22,F,Undergraduate,"electrical, graphic design, carpentry",2 years,Trainer,Tamil Nadu,English,Training
+215,Hema,24,F,ITI,"driving, wiring, typing",0 years,Trainer,Rajasthan,Bengali,Government job
+216,Farhan,28,M,PhD,"typing, maintenance",1 years,Government,Kerala,English,Government job
+217,Orinder,23,M,Vocational Training,"mechanics, electrical",3 years,Trainer,Tamil Nadu,Marathi,Private job
+218,Gabriel,29,F,Master,"wiring, plumbing, computer",2 years,Engineer,Karnataka,Hindi,Government job
+219,Jagvi,19,F,ITI,"driving, typing, teaching",5 years,Supervisor,Gujarat,English,Private job
+220,Mugdha,23,M,12th,"electrical, computer",0 years,Consultant,Maharashtra,Tamil,Government job
+221,Bhavani,35,M,Undergraduate,"graphic design, teaching",0 years,Operator,Rajasthan,English,Government job
+222,Meghana,22,M,10th,teaching,5 years,Engineer,Maharashtra,Telugu,Private job
+223,Lucky,26,M,Vocational Training,carpentry,1 years,Manager,West Bengal,Kannada,Internship
+224,Qasim,27,M,Bachelor,carpentry,4 years,Supervisor,Tamil Nadu,Hindi,Training
+225,Suhani,18,M,10th,maintenance,4 years,Operator,Kerala,Kannada,Training
+226,Naveen,18,M,Diploma,electrical,5 years,Consultant,Kerala,Punjabi,Internship
+227,Sachi,20,M,10th,carpentry,3 years,Operator,Punjab,Tamil,Training
+228,Jagvi,24,M,Bachelor,"plumbing, typing",1 years,Private,Gujarat,Bengali,Internship
+229,Aahana,35,M,Diploma,accounting,1 years,Government,Maharashtra,Telugu,Government job
+230,Urmi,20,M,ITI,accounting,5 years,Manager,Rajasthan,Kannada,Internship
+231,Arin,20,M,Bachelor,teaching,2 years,Engineer,Tamil Nadu,Hindi,Training
+232,Vrinda,30,F,Bachelor,"plumbing, computer",1 years,Trainer,Karnataka,Kannada,Training
+233,Chaman,31,M,Vocational Training,"driving, plumbing",3 years,Technician,Rajasthan,Hindi,Government job
+234,Aashi,24,F,Vocational Training,"accounting, graphic design, electrical",2 years,Private,Odisha,Bengali,Government job
+235,Maanav,24,M,High School,driving,0 years,Supervisor,West Bengal,Telugu,Government job
+236,Sarthak,31,M,ITI,graphic design,1 years,Operator,Bihar,Telugu,Government job
+237,Mekhala,33,M,Certificate Course,"mechanics, graphic design, typing",1 years,Government,Tamil Nadu,English,Training
+238,Keya,34,F,ITI,"typing, mechanics",0 years,Assistant,Kerala,Marathi,Internship
+239,Priya,18,F,Certificate Course,"teaching, wiring, electrical",4 years,Trainer,Gujarat,Malayalam,Internship
+240,Fariq,32,F,Diploma,"wiring, accounting, mechanics",4 years,Private,Bihar,Tamil,Internship
+241,Fitan,35,M,12th,"maintenance, mechanics, driving",2 years,Operator,Odisha,Tamil,Government job
+242,Sanya,18,M,Bachelor,"carpentry, accounting, typing",2 years,Manager,Bihar,Hindi,Training
+243,Yasti,26,M,Vocational Training,teaching,2 years,Supervisor,Kerala,Marathi,Internship
+244,Chaitanya,18,F,Postgraduate,computer,0 years,Technician,Odisha,English,Training
+245,Deepa,30,F,10th,"driving, mechanics, computer",3 years,Private,Maharashtra,Bengali,Training
+246,Ira,28,F,Undergraduate,accounting,3 years,Consultant,Karnataka,Gujarati,Private job
+247,Onkar,21,F,Certificate Course,"carpentry, maintenance",1 years,Technician,Bihar,English,Private job
+248,Nidhi,31,F,10th,"accounting, wiring",3 years,Manager,Punjab,Punjabi,Training
+249,Tanveer,19,F,Vocational Training,"driving, teaching",0 years,Operator,Odisha,Marathi,Training
+250,Frado,35,F,12th,"carpentry, typing",5 years,Technician,Odisha,Odia,Internship
+251,Hemani,29,M,Vocational Training,"wiring, accounting, carpentry",2 years,Technician,Kerala,Odia,Government job
+252,Vihaan,25,M,Undergraduate,"driving, graphic design",5 years,Engineer,Kerala,Punjabi,Government job
+253,Anita,28,F,Vocational Training,"graphic design, carpentry, maintenance",2 years,Supervisor,Rajasthan,Hindi,Private job
+254,Bakhshi,23,F,Vocational Training,"accounting, computer",3 years,Operator,Kerala,Tamil,Internship
+255,Ridhi,33,F,Master,"computer, electrical, mechanics",5 years,Assistant,Punjab,Bengali,Private job
+256,Hemal,21,F,Diploma,"teaching, carpentry, maintenance",1 years,Consultant,Kerala,Hindi,Internship
+257,Charles,33,F,Bachelor,"wiring, plumbing, maintenance",2 years,Trainer,Rajasthan,English,Government job
+258,Parth,31,F,10th,"maintenance, teaching",1 years,Trainer,Odisha,Marathi,Internship
+259,Zinal,19,F,Master,"graphic design, electrical, carpentry",4 years,Clerk,Tamil Nadu,Punjabi,Government job
+260,Shivani,18,F,High School,"plumbing, driving",1 years,Private,Odisha,Malayalam,Private job
+261,Falguni,35,M,Diploma,"electrical, computer, graphic design",5 years,Consultant,Odisha,Gujarati,Private job
+262,Matthew,28,M,Diploma,mechanics,0 years,Government,West Bengal,Marathi,Internship
+263,Bachittar,32,M,10th,computer,1 years,Supervisor,Punjab,Malayalam,Government job
+264,Owen,31,M,ITI,"typing, mechanics, computer",1 years,Technician,Gujarat,Tamil,Government job
+265,Rachit,35,M,PhD,"driving, carpentry, accounting",4 years,Trainer,Karnataka,English,Training
+266,Deepa,21,M,10th,"driving, computer",1 years,Operator,Karnataka,Telugu,Government job
+267,Chakrika,25,M,ITI,computer,1 years,Operator,Rajasthan,Punjabi,Government job
+268,Eshana,19,F,High School,"accounting, computer",2 years,Consultant,Kerala,Gujarati,Private job
+269,Warinder,29,F,Undergraduate,typing,0 years,Engineer,Bihar,Malayalam,Government job
+270,Ati,28,M,12th,"wiring, electrical, driving",5 years,Consultant,Tamil Nadu,Bengali,Government job
+271,Charles,33,M,Undergraduate,"plumbing, accounting, wiring",1 years,Government,Rajasthan,Hindi,Private job
+272,Max,24,F,12th,"teaching, typing, accounting",4 years,Government,Punjab,Gujarati,Internship
+273,Chandresh,23,M,Diploma,typing,1 years,Technician,Maharashtra,Kannada,Private job
+274,Yatin,27,M,Undergraduate,accounting,0 years,Government,Tamil Nadu,Telugu,Training
+275,Chandran,34,M,Certificate Course,"accounting, electrical, maintenance",5 years,Consultant,Bihar,Telugu,Training
+276,Jasmit,34,F,Vocational Training,"electrical, mechanics, typing",4 years,Manager,Gujarat,Marathi,Private job
+277,Faris,34,F,Undergraduate,"graphic design, driving, accounting",5 years,Government,West Bengal,Malayalam,Government job
+278,Ladli,28,M,Diploma,teaching,2 years,Trainer,Kerala,Hindi,Private job
+279,Abeer,22,F,12th,"mechanics, accounting",0 years,Trainer,Rajasthan,Bengali,Internship
+280,Yochana,35,M,10th,graphic design,3 years,Government,West Bengal,Malayalam,Private job
+281,Vamakshi,22,F,Bachelor,"teaching, driving",0 years,Consultant,Tamil Nadu,Tamil,Training
+282,Chanchal,21,M,ITI,"wiring, mechanics",3 years,Consultant,Kerala,Malayalam,Training
+283,Bakhshi,23,M,Master,"maintenance, plumbing",1 years,Consultant,Bihar,Malayalam,Government job
+284,Sathvik,31,M,ITI,"mechanics, accounting, computer",4 years,Manager,Maharashtra,Bengali,Government job
+285,Adya,22,F,Bachelor,wiring,4 years,Manager,Tamil Nadu,Punjabi,Government job
+286,Bimala,32,M,Certificate Course,"accounting, plumbing, typing",1 years,Engineer,Gujarat,Odia,Training
+287,Odika,32,M,Master,"computer, electrical, carpentry",5 years,Government,Punjab,Hindi,Internship
+288,Ekta,35,M,Undergraduate,"teaching, electrical, maintenance",3 years,Assistant,Karnataka,Tamil,Internship
+289,Yashica,34,M,Postgraduate,"electrical, teaching",0 years,Clerk,Maharashtra,English,Training
+290,Meera,33,F,Diploma,"graphic design, carpentry",2 years,Assistant,Odisha,Telugu,Private job
+291,Kashvi,19,F,12th,"carpentry, mechanics",2 years,Manager,West Bengal,Gujarati,Private job
+292,Jalsa,30,F,10th,carpentry,2 years,Clerk,Maharashtra,Kannada,Government job
+293,Hemani,35,F,Bachelor,"mechanics, carpentry, teaching",3 years,Technician,Uttar Pradesh,Bengali,Government job
+294,Jeet,22,F,PhD,"electrical, graphic design, maintenance",4 years,Supervisor,Gujarat,Odia,Private job
+295,Ethan,26,F,12th,"maintenance, mechanics, accounting",2 years,Engineer,Uttar Pradesh,English,Government job
+296,Omkaar,29,M,Master,"computer, accounting, mechanics",3 years,Trainer,Gujarat,Gujarati,Government job
+297,Baljiwan,24,F,ITI,teaching,4 years,Technician,Maharashtra,Odia,Internship
+298,Panini,34,M,12th,"computer, graphic design",3 years,Assistant,Maharashtra,Gujarati,Training
+299,Shaurya,25,F,High School,driving,2 years,Manager,Tamil Nadu,English,Private job
+300,Nihal,29,F,Undergraduate,"graphic design, mechanics, carpentry",1 years,Operator,Tamil Nadu,Gujarati,Government job
+301,Anamika,20,M,Master,computer,2 years,Manager,Odisha,Tamil,Private job
+302,Gauri,23,M,Bachelor,typing,1 years,Clerk,Tamil Nadu,Malayalam,Training
+303,Hamsini,33,F,Diploma,mechanics,3 years,Clerk,Punjab,Telugu,Internship
+304,Amaira,34,F,PhD,graphic design,5 years,Government,Punjab,Bengali,Training
+305,Samesh,20,F,Bachelor,plumbing,1 years,Government,Punjab,Gujarati,Private job
+306,Eshana,24,M,ITI,"carpentry, typing, maintenance",1 years,Trainer,Uttar Pradesh,Punjabi,Private job
+307,Christopher,24,M,Master,"graphic design, mechanics, driving",3 years,Private,Maharashtra,Tamil,Government job
+308,Janya,33,F,12th,"mechanics, carpentry",0 years,Assistant,Bihar,Marathi,Government job
+309,Zayyan,28,F,High School,"teaching, graphic design",4 years,Government,Maharashtra,Bengali,Training
+310,Bhavya,32,F,10th,"accounting, plumbing, wiring",5 years,Trainer,Punjab,Malayalam,Private job
+311,Jeremiah,21,F,PhD,"driving, carpentry, maintenance",0 years,Trainer,Odisha,Hindi,Private job
+312,Aditya,24,F,Undergraduate,accounting,0 years,Engineer,West Bengal,Marathi,Internship
+313,Ridhi,30,F,Master,"carpentry, computer, electrical",1 years,Manager,West Bengal,Kannada,Training
+314,Nachiket,21,F,High School,"plumbing, typing, electrical",2 years,Manager,Kerala,Punjabi,Training
+315,Abhiram,27,F,Bachelor,wiring,3 years,Supervisor,Karnataka,Telugu,Private job
+316,Dhriti,34,F,PhD,typing,5 years,Manager,West Bengal,Punjabi,Private job
+317,Idika,25,F,Master,wiring,1 years,Government,Gujarat,Kannada,Internship
+318,Eshana,23,F,12th,carpentry,1 years,Engineer,Uttar Pradesh,Tamil,Government job
+319,Upma,28,M,High School,mechanics,4 years,Engineer,Karnataka,Punjabi,Internship
+320,Jagvi,23,M,High School,"maintenance, teaching, plumbing",1 years,Operator,Uttar Pradesh,Gujarati,Training
+321,Aarav,20,M,Bachelor,"mechanics, computer",1 years,Manager,Gujarat,Bengali,Training
+322,Tripti,29,F,Undergraduate,"computer, graphic design",4 years,Manager,Tamil Nadu,Malayalam,Training
+323,Dalbir,23,F,PhD,"typing, plumbing, accounting",1 years,Operator,Karnataka,Odia,Private job
+324,Umang,27,F,12th,driving,2 years,Supervisor,Uttar Pradesh,Hindi,Training
+325,Andrew,33,F,Vocational Training,"plumbing, carpentry",1 years,Government,Punjab,Punjabi,Training
+326,Arjun,33,F,Undergraduate,"accounting, maintenance",2 years,Technician,Tamil Nadu,Hindi,Government job
+327,Farhan,19,F,ITI,"mechanics, plumbing",3 years,Clerk,Uttar Pradesh,Tamil,Internship
+328,Yashawini,19,F,Diploma,"typing, graphic design",2 years,Trainer,Gujarat,Odia,Private job
+329,Kalpit,20,M,PhD,"typing, driving",3 years,Trainer,Punjab,Punjabi,Government job
+330,Zaid,18,M,Master,electrical,4 years,Assistant,Odisha,Marathi,Private job
+331,Janaki,26,F,Certificate Course,"graphic design, mechanics, accounting",1 years,Private,Uttar Pradesh,Malayalam,Training
+332,Simon,19,F,High School,"electrical, maintenance, graphic design",5 years,Operator,Gujarat,Bengali,Internship
+333,Yasti,21,F,High School,"typing, carpentry, plumbing",1 years,Manager,Punjab,Odia,Private job
+334,Ekanta,26,F,High School,"typing, teaching",4 years,Engineer,Rajasthan,Hindi,Private job
+335,Ojas,30,M,High School,"typing, graphic design, accounting",4 years,Operator,West Bengal,Malayalam,Training
+336,Zayyan,24,F,Vocational Training,maintenance,4 years,Assistant,Tamil Nadu,Tamil,Internship
+337,Lakshit,22,F,Master,"carpentry, electrical, wiring",3 years,Supervisor,Maharashtra,Kannada,Government job
+338,Dalaja,28,M,10th,"mechanics, electrical",2 years,Engineer,Karnataka,English,Private job
+339,Yachana,22,F,Postgraduate,"teaching, driving",1 years,Technician,Uttar Pradesh,Tamil,Government job
+340,Finn,28,M,Undergraduate,"maintenance, mechanics",3 years,Consultant,Gujarat,Marathi,Internship
+341,Siddharth,31,F,12th,driving,4 years,Operator,Gujarat,Malayalam,Training
+342,Aarini,28,M,Master,"teaching, driving",2 years,Manager,Karnataka,Gujarati,Government job
+343,Fitan,33,M,12th,"mechanics, graphic design",4 years,Government,Tamil Nadu,Kannada,Training
+344,Chasmum,29,F,Undergraduate,"carpentry, computer, driving",4 years,Supervisor,Tamil Nadu,Gujarati,Training
+345,Reyansh,26,F,12th,mechanics,2 years,Operator,Maharashtra,Bengali,Private job
+346,Daksh,35,M,Undergraduate,electrical,3 years,Manager,Punjab,Gujarati,Private job
+347,Bakhshi,28,F,Certificate Course,"accounting, maintenance",4 years,Supervisor,Gujarat,English,Private job
+348,Farhan,34,M,High School,"plumbing, typing, electrical",0 years,Private,Tamil Nadu,Bengali,Internship
+349,Ijaya,22,M,ITI,"carpentry, typing, teaching",5 years,Supervisor,Karnataka,Gujarati,Private job
+350,Agastya,29,M,ITI,"maintenance, accounting",4 years,Consultant,Tamil Nadu,Bengali,Private job
+351,Hemangini,35,F,10th,typing,1 years,Operator,Gujarat,Telugu,Internship
+352,Amaira,28,F,Vocational Training,"computer, electrical, wiring",0 years,Supervisor,Punjab,Malayalam,Internship
+353,Matthew,23,M,Postgraduate,"driving, accounting, carpentry",1 years,Technician,Bihar,Telugu,Internship
+354,Damyanti,25,F,High School,"graphic design, maintenance",2 years,Trainer,West Bengal,Marathi,Government job
+355,Timothy,33,F,Vocational Training,"accounting, mechanics",3 years,Engineer,Odisha,Punjabi,Private job
+356,Ayaan,18,F,ITI,"plumbing, mechanics, electrical",2 years,Government,Odisha,Marathi,Internship
+357,Praneel,27,F,Vocational Training,"wiring, mechanics",2 years,Manager,Bihar,Bengali,Training
+358,Sudiksha,22,F,Undergraduate,"graphic design, computer, mechanics",0 years,Consultant,Maharashtra,Odia,Government job
+359,Matthew,35,M,ITI,plumbing,4 years,Trainer,Karnataka,Malayalam,Internship
+360,Urvashi,28,F,Master,"accounting, driving, mechanics",3 years,Trainer,Rajasthan,Odia,Training
+361,Yasti,35,F,Postgraduate,accounting,0 years,Manager,West Bengal,Tamil,Training
+362,Bhavini,29,F,Undergraduate,"driving, typing",3 years,Technician,Rajasthan,Tamil,Internship
+363,Hemangini,21,F,PhD,computer,5 years,Technician,Kerala,Hindi,Private job
+364,Watika,18,M,12th,mechanics,2 years,Manager,Uttar Pradesh,Tamil,Private job
+365,Megha,32,F,Bachelor,"teaching, plumbing, computer",0 years,Government,West Bengal,Kannada,Internship
+366,Wahab,30,F,PhD,"teaching, wiring",4 years,Clerk,Rajasthan,Kannada,Internship
+367,Farhan,25,F,Bachelor,"driving, graphic design, plumbing",1 years,Supervisor,Gujarat,Punjabi,Government job
+368,Raksha,22,F,Master,"electrical, driving, wiring",2 years,Supervisor,Uttar Pradesh,Gujarati,Government job
+369,Jack,24,F,Vocational Training,maintenance,4 years,Trainer,Karnataka,Telugu,Government job
+370,Vinaya,23,M,Undergraduate,driving,3 years,Trainer,Rajasthan,Odia,Private job
+371,Netra,27,F,High School,graphic design,0 years,Supervisor,Karnataka,Hindi,Internship
+372,Balvan,32,F,ITI,"computer, graphic design, driving",2 years,Private,Rajasthan,Punjabi,Private job
+373,Sachi,29,F,High School,"mechanics, teaching, wiring",3 years,Technician,Kerala,Malayalam,Training
+374,Nidra,22,F,10th,"mechanics, driving, graphic design",3 years,Operator,Punjab,Punjabi,Internship
+375,Rudra,32,M,10th,"typing, maintenance, wiring",5 years,Assistant,Maharashtra,Hindi,Private job
+376,Sai,32,M,Bachelor,"accounting, wiring",5 years,Government,Karnataka,Telugu,Private job
+377,Siya,20,M,Vocational Training,accounting,1 years,Government,Maharashtra,Telugu,Internship
+378,Jeremiah,28,M,ITI,driving,3 years,Trainer,Uttar Pradesh,Odia,Private job
+379,Chavvi,28,M,Diploma,"graphic design, computer",3 years,Manager,Kerala,Telugu,Private job
+380,Panini,24,F,Vocational Training,teaching,1 years,Manager,Rajasthan,Malayalam,Government job
+381,Frederick,21,M,Diploma,teaching,0 years,Engineer,Bihar,Bengali,Internship
+382,Ekiya,34,F,ITI,"driving, graphic design, computer",5 years,Private,Uttar Pradesh,Tamil,Internship
+383,Jhalak,21,M,Certificate Course,"plumbing, maintenance, computer",1 years,Supervisor,Bihar,Telugu,Training
+384,Kashvi,34,M,ITI,"driving, graphic design, mechanics",1 years,Clerk,Maharashtra,Odia,Internship
+385,Aditya,23,F,PhD,"plumbing, carpentry",1 years,Trainer,Karnataka,Telugu,Internship
+386,Janaki,35,M,Undergraduate,"mechanics, maintenance",5 years,Private,Rajasthan,Malayalam,Government job
+387,Xalak,27,M,Diploma,"carpentry, mechanics",3 years,Operator,Punjab,English,Internship
+388,Aayush,26,F,Master,"teaching, maintenance",2 years,Clerk,Kerala,English,Training
+389,Jason,21,F,10th,maintenance,1 years,Private,Karnataka,Bengali,Private job
+390,Neha,32,F,Master,"mechanics, accounting",0 years,Engineer,West Bengal,Kannada,Internship
+391,Ira,30,M,Diploma,"accounting, plumbing, carpentry",3 years,Private,Kerala,Telugu,Private job
+392,Nathaniel,26,F,Master,"accounting, carpentry, mechanics",5 years,Consultant,Rajasthan,English,Training
+393,Jai,27,M,High School,"computer, teaching",1 years,Technician,Odisha,Bengali,Internship
+394,Ekansh,31,M,ITI,wiring,4 years,Clerk,Karnataka,Marathi,Training
+395,Yadavi,24,M,PhD,"carpentry, electrical",3 years,Operator,Bihar,Telugu,Internship
+396,Amrita,25,F,12th,driving,0 years,Engineer,Gujarat,Bengali,Government job
+397,Reva,34,F,Certificate Course,mechanics,3 years,Engineer,Odisha,Gujarati,Private job
+398,Ikbal,19,F,Postgraduate,teaching,2 years,Operator,Rajasthan,English,Training
+399,Amruta,21,M,Bachelor,mechanics,0 years,Consultant,Karnataka,Kannada,Government job
+400,Abeer,24,F,Master,"teaching, typing, graphic design",1 years,Assistant,Karnataka,Tamil,Training
+401,Urvashi,31,M,Bachelor,"carpentry, mechanics, typing",0 years,Trainer,Uttar Pradesh,Marathi,Government job
+402,Chandresh,33,M,Certificate Course,"computer, typing",3 years,Consultant,Punjab,Kannada,Government job
+403,Rishi,28,F,Undergraduate,"typing, electrical",1 years,Manager,Bihar,Gujarati,Training
+404,Laban,35,F,Postgraduate,"computer, teaching",2 years,Engineer,West Bengal,English,Private job
+405,Om,21,M,High School,mechanics,3 years,Clerk,West Bengal,Marathi,Training
+406,Oeshi,34,M,PhD,"wiring, typing, computer",2 years,Manager,Bihar,Malayalam,Internship
+407,Leena,26,F,PhD,accounting,3 years,Assistant,Gujarat,English,Private job
+408,Vincent,30,M,High School,mechanics,4 years,Consultant,Maharashtra,English,Private job
+409,Tarak,21,F,Undergraduate,"wiring, maintenance, graphic design",3 years,Operator,Bihar,Punjabi,Government job
+410,Maanav,23,F,Bachelor,carpentry,1 years,Trainer,Bihar,Malayalam,Government job
+411,Warinder,26,M,Undergraduate,typing,1 years,Consultant,Bihar,Malayalam,Training
+412,Daniel,30,F,12th,plumbing,0 years,Supervisor,Karnataka,Telugu,Private job
+413,Tanish,33,M,PhD,plumbing,3 years,Clerk,Kerala,Malayalam,Government job
+414,Utkarsh,23,F,Postgraduate,wiring,0 years,Consultant,Rajasthan,Tamil,Private job
+415,Kamala,22,F,Diploma,"carpentry, plumbing",5 years,Government,Odisha,Hindi,Private job
+416,Widisha,23,M,10th,carpentry,4 years,Manager,Gujarat,Telugu,Private job
+417,Niharika,27,F,10th,"carpentry, typing",3 years,Trainer,Rajasthan,Hindi,Government job
+418,Rajeshri,35,F,Diploma,maintenance,1 years,Trainer,Tamil Nadu,Bengali,Private job
+419,Dalbir,26,M,Certificate Course,"carpentry, driving, maintenance",0 years,Trainer,Karnataka,Bengali,Government job
+420,Hardik,26,M,Master,"wiring, plumbing, accounting",5 years,Technician,Karnataka,English,Training
+421,Nakul,27,F,Master,"maintenance, computer",0 years,Private,Kerala,Kannada,Private job
+422,Arin,31,M,Postgraduate,"wiring, teaching",5 years,Manager,Gujarat,Hindi,Government job
+423,Libni,30,M,Postgraduate,"wiring, mechanics, carpentry",1 years,Consultant,Rajasthan,Marathi,Internship
+424,Jai,33,M,High School,graphic design,1 years,Private,Bihar,Bengali,Government job
+425,Leela,28,F,12th,wiring,4 years,Assistant,Uttar Pradesh,English,Training
+426,Vidhi,32,M,ITI,"electrical, maintenance, teaching",4 years,Operator,Maharashtra,Hindi,Government job
+427,Rushil,21,F,12th,computer,1 years,Consultant,Bihar,Odia,Internship
+428,Karan,33,M,Undergraduate,computer,3 years,Consultant,West Bengal,Bengali,Government job
+429,Bhavna,29,M,Postgraduate,wiring,4 years,Private,West Bengal,Punjabi,Private job
+430,Zilmil,31,M,10th,carpentry,1 years,Technician,West Bengal,Odia,Private job
+431,Urmi,25,M,Bachelor,"driving, plumbing, typing",4 years,Consultant,Gujarat,Hindi,Internship
+432,Yoshita,23,M,Postgraduate,"driving, graphic design",5 years,Clerk,Gujarat,Marathi,Private job
+433,Farhan,34,F,Undergraduate,carpentry,2 years,Engineer,Bihar,Bengali,Training
+434,Hemal,28,F,Master,"graphic design, plumbing, carpentry",3 years,Consultant,Punjab,Tamil,Private job
+435,Pushti,29,M,Vocational Training,"carpentry, teaching",5 years,Technician,Kerala,Kannada,Private job
+436,Bachittar,19,M,Master,"plumbing, carpentry, typing",5 years,Private,Bihar,Hindi,Training
+437,Utkarsh,35,F,High School,mechanics,4 years,Government,Uttar Pradesh,Tamil,Government job
+438,Dhriti,21,M,Master,"plumbing, electrical, teaching",4 years,Technician,West Bengal,Odia,Government job
+439,Tanay,27,F,Diploma,"electrical, plumbing",5 years,Government,Odisha,Gujarati,Training
+440,Yuvraj,24,F,Undergraduate,"electrical, computer, plumbing",1 years,Supervisor,Tamil Nadu,Malayalam,Internship
+441,Gaurika,20,M,PhD,"teaching, driving",4 years,Engineer,Uttar Pradesh,Gujarati,Internship
+442,Bahadurjit,20,M,Bachelor,maintenance,0 years,Supervisor,Uttar Pradesh,Telugu,Government job
+443,Guneet,24,F,Certificate Course,"plumbing, typing, teaching",2 years,Trainer,Tamil Nadu,Gujarati,Internship
+444,Charvi,34,M,12th,typing,0 years,Government,Tamil Nadu,Tamil,Training
+445,Lopa,19,F,PhD,typing,1 years,Supervisor,Karnataka,Telugu,Internship
+446,Mekhala,27,M,Bachelor,graphic design,1 years,Consultant,Odisha,Bengali,Government job
+447,Raghav,32,M,Vocational Training,"plumbing, maintenance",3 years,Operator,Maharashtra,Bengali,Internship
+448,Mason,27,M,Certificate Course,carpentry,2 years,Manager,Uttar Pradesh,Malayalam,Internship
+449,Inaya,23,M,Vocational Training,"graphic design, driving, maintenance",5 years,Clerk,Rajasthan,Punjabi,Government job
+450,Nidra,25,F,ITI,"graphic design, driving, teaching",5 years,Operator,Maharashtra,Odia,Internship
+451,Kai,25,M,PhD,electrical,4 years,Supervisor,Uttar Pradesh,Kannada,Training
+452,Nicholas,35,M,12th,"accounting, plumbing, graphic design",4 years,Operator,Kerala,Odia,Internship
+453,Eshana,26,F,Master,"electrical, driving",5 years,Trainer,Tamil Nadu,Tamil,Government job
+454,Janya,26,F,PhD,typing,3 years,Private,Karnataka,Odia,Training
+455,Dayita,26,M,12th,"carpentry, mechanics, electrical",3 years,Government,Karnataka,Marathi,Internship
+456,Tanish,32,F,PhD,"carpentry, graphic design",0 years,Clerk,Maharashtra,Kannada,Internship
+457,Januja,24,F,ITI,plumbing,2 years,Manager,Uttar Pradesh,Gujarati,Internship
+458,Raagini,26,M,Vocational Training,"plumbing, wiring, teaching",4 years,Government,Uttar Pradesh,Gujarati,Training
+459,Varsha,21,F,Postgraduate,"electrical, typing, mechanics",4 years,Technician,Karnataka,Kannada,Private job
+460,Chaaya,29,M,High School,driving,2 years,Technician,Rajasthan,Telugu,Private job
+461,Maanas,29,M,10th,"maintenance, typing, graphic design",5 years,Assistant,West Bengal,Odia,Private job
+462,Dominic,24,M,Bachelor,"carpentry, mechanics",4 years,Consultant,Odisha,Tamil,Internship
+463,Matthew,29,F,Bachelor,maintenance,4 years,Technician,Gujarat,Punjabi,Training
+464,Wahab,19,F,Diploma,"wiring, maintenance, carpentry",0 years,Private,Rajasthan,Marathi,Training
+465,Harini,32,M,PhD,"plumbing, accounting, driving",3 years,Government,Kerala,Malayalam,Training
+466,Yuvraj,23,M,10th,teaching,2 years,Clerk,Karnataka,Gujarati,Government job
+467,Hardik,22,F,PhD,"electrical, teaching, maintenance",2 years,Clerk,Uttar Pradesh,Marathi,Government job
+468,Gauri,32,M,Diploma,computer,3 years,Consultant,Uttar Pradesh,Malayalam,Training
+469,Bakhshi,22,F,10th,"graphic design, wiring",0 years,Government,Bihar,English,Internship
+470,Logan,31,F,Vocational Training,"typing, teaching, driving",2 years,Clerk,Karnataka,Hindi,Government job
+471,Wriddhish,28,M,Undergraduate,accounting,4 years,Manager,Karnataka,Hindi,Training
+472,Jhalak,29,F,Diploma,"accounting, wiring, graphic design",5 years,Government,Tamil Nadu,Tamil,Training
+473,Oscar,34,M,Bachelor,"typing, mechanics, driving",5 years,Consultant,Maharashtra,Gujarati,Internship
+474,Bina,28,F,Certificate Course,"mechanics, computer, teaching",2 years,Private,Kerala,Gujarati,Internship
+475,Anya,23,M,Postgraduate,maintenance,0 years,Private,Gujarat,Kannada,Private job
+476,Nitara,22,F,12th,teaching,4 years,Operator,West Bengal,Hindi,Private job
+477,Udyati,24,F,Undergraduate,"plumbing, graphic design, electrical",2 years,Clerk,Maharashtra,Odia,Internship
+478,Harshil,22,F,Vocational Training,"driving, graphic design, maintenance",5 years,Supervisor,Karnataka,Telugu,Internship
+479,Harrison,32,M,Certificate Course,wiring,4 years,Government,Karnataka,Tamil,Internship
+480,Indali,24,F,Undergraduate,"mechanics, wiring, carpentry",4 years,Manager,Gujarat,Odia,Training
+481,Yadavi,29,M,Master,"teaching, electrical, graphic design",1 years,Manager,Rajasthan,Malayalam,Private job
+482,Vincent,27,M,PhD,"electrical, plumbing, accounting",0 years,Trainer,Odisha,Hindi,Private job
+483,Fitan,23,F,PhD,"accounting, mechanics, maintenance",5 years,Clerk,Tamil Nadu,Tamil,Government job
+484,Anjali,21,F,Diploma,"teaching, carpentry, plumbing",3 years,Technician,Tamil Nadu,Hindi,Private job
+485,Kai,20,F,PhD,"computer, electrical",4 years,Engineer,Kerala,Tamil,Internship
+486,Orinder,21,M,Bachelor,"computer, driving",0 years,Government,Punjab,Punjabi,Internship
+487,Nisha,29,M,Certificate Course,"driving, accounting, plumbing",4 years,Engineer,Karnataka,Telugu,Government job
+488,Bhavika,19,F,Bachelor,"wiring, maintenance, graphic design",0 years,Consultant,Gujarat,Marathi,Private job
+489,Damyanti,21,M,Certificate Course,electrical,0 years,Manager,Punjab,Gujarati,Government job
+490,Nikita,18,M,Postgraduate,"driving, graphic design",0 years,Consultant,West Bengal,Gujarati,Internship
+491,Vedika,26,F,ITI,plumbing,1 years,Operator,West Bengal,Hindi,Government job
+492,Benjamin,30,M,Diploma,graphic design,2 years,Trainer,Karnataka,Hindi,Training
+493,Hiral,21,M,Bachelor,accounting,5 years,Operator,Uttar Pradesh,Kannada,Training
+494,Wriddhish,22,F,Vocational Training,computer,0 years,Consultant,Uttar Pradesh,Kannada,Internship
+495,Chanakya,28,M,ITI,"accounting, maintenance, teaching",2 years,Manager,Karnataka,Odia,Government job
+496,Max,19,F,10th,maintenance,3 years,Supervisor,Odisha,Punjabi,Government job
+497,Chandran,27,F,Undergraduate,"typing, mechanics, computer",3 years,Manager,Uttar Pradesh,Telugu,Internship
+498,Advay,29,M,10th,"carpentry, graphic design",2 years,Engineer,Odisha,Telugu,Government job
+499,Dev,28,M,High School,computer,4 years,Supervisor,Rajasthan,Telugu,Training
+500,Gayathri,22,F,ITI,accounting,4 years,Assistant,West Bengal,Punjabi,Private job
+501,Aarnav,23,M,12th,"driving, graphic design, plumbing",3 years,Operator,Gujarat,English,Training
+502,Amara,33,F,10th,teaching,0 years,Trainer,West Bengal,Telugu,Training
+503,Lakshmi,26,M,Bachelor,"teaching, graphic design, typing",0 years,Consultant,Kerala,Malayalam,Training
+504,Dev,32,F,Postgraduate,"maintenance, accounting, carpentry",3 years,Clerk,Maharashtra,Punjabi,Private job
+505,Anthony,31,M,High School,"typing, computer, wiring",5 years,Consultant,Maharashtra,Malayalam,Private job
+506,Akshay,31,F,12th,"accounting, computer",5 years,Trainer,Odisha,Bengali,Government job
+507,Vasana,33,M,Vocational Training,"typing, wiring",1 years,Government,Karnataka,Gujarati,Private job
+508,Azaan,30,M,Master,"carpentry, typing",5 years,Engineer,Gujarat,Tamil,Government job
+509,Warinder,27,F,Postgraduate,"wiring, carpentry, driving",3 years,Government,Odisha,Odia,Internship
+510,Aarna,35,F,High School,driving,0 years,Assistant,Maharashtra,Bengali,Internship
+511,Anya,19,F,Bachelor,"wiring, accounting",3 years,Clerk,Punjab,Marathi,Private job
+512,Devansh,28,M,12th,"carpentry, mechanics, typing",1 years,Clerk,Punjab,Punjabi,Internship
+513,Darpan,24,F,10th,"accounting, carpentry, teaching",5 years,Technician,Kerala,Malayalam,Government job
+514,Madhav,23,M,12th,driving,3 years,Clerk,Kerala,Odia,Government job
+515,Ishwar,28,F,Postgraduate,"mechanics, typing",2 years,Engineer,Odisha,Bengali,Internship
+516,Daniel,26,F,12th,"mechanics, driving, typing",4 years,Operator,Bihar,Marathi,Internship
+517,Raagini,20,F,ITI,"plumbing, graphic design, mechanics",2 years,Technician,Gujarat,Odia,Government job
+518,Ijaya,32,F,Vocational Training,"carpentry, typing, graphic design",3 years,Private,Kerala,Tamil,Private job
+519,Bimala,33,M,10th,"typing, plumbing",0 years,Clerk,Kerala,Telugu,Private job
+520,Ekalinga,32,M,Certificate Course,carpentry,0 years,Engineer,Gujarat,Malayalam,Internship
+521,Chasmum,23,M,ITI,"maintenance, carpentry, wiring",3 years,Private,West Bengal,Odia,Training
+522,Pushti,23,F,12th,"graphic design, plumbing, driving",4 years,Manager,West Bengal,Punjabi,Government job
+523,Neelima,30,M,12th,teaching,5 years,Engineer,Tamil Nadu,Tamil,Private job
+524,Samaksh,19,F,Master,"electrical, typing",1 years,Supervisor,West Bengal,Bengali,Training
+525,Sneha,24,M,Undergraduate,mechanics,5 years,Trainer,Gujarat,Telugu,Private job
+526,Frado,22,F,Undergraduate,"accounting, plumbing, electrical",5 years,Supervisor,Kerala,English,Private job
+527,Upkaar,24,M,Certificate Course,"electrical, carpentry, graphic design",5 years,Manager,Gujarat,Bengali,Internship
+528,Nisha,31,M,10th,accounting,3 years,Government,Rajasthan,Kannada,Government job
+529,Vihaan,29,M,ITI,computer,0 years,Assistant,Karnataka,Bengali,Private job
+530,Warjas,20,M,ITI,typing,5 years,Trainer,West Bengal,Telugu,Internship
+531,Sachi,33,F,Bachelor,"maintenance, carpentry",4 years,Technician,Punjab,Tamil,Internship
+532,Daksha,22,F,Postgraduate,"electrical, wiring",3 years,Technician,Odisha,Punjabi,Private job
+533,Unnati,31,F,PhD,"teaching, mechanics",0 years,Consultant,Rajasthan,English,Training
+534,Waida,27,F,Diploma,"computer, electrical, wiring",1 years,Consultant,Maharashtra,Bengali,Private job
+535,Guneet,22,F,Vocational Training,"typing, computer, mechanics",1 years,Assistant,Odisha,Tamil,Training
+536,Zinal,25,M,PhD,mechanics,0 years,Government,West Bengal,Odia,Private job
+537,Jalsa,31,M,Undergraduate,"mechanics, teaching, carpentry",4 years,Government,Tamil Nadu,Malayalam,Internship
+538,Chameli,30,M,Master,mechanics,2 years,Trainer,Tamil Nadu,English,Private job
+539,Tarak,18,M,High School,"maintenance, plumbing, wiring",5 years,Technician,Bihar,Punjabi,Government job
+540,Urvashi,20,F,12th,"accounting, computer",2 years,Consultant,Kerala,Hindi,Government job
+541,Sachi,19,F,12th,"carpentry, driving, accounting",0 years,Assistant,Punjab,Malayalam,Internship
+542,Wahab,29,M,PhD,"accounting, typing",5 years,Assistant,Kerala,Odia,Internship
+543,Hemang,24,F,Postgraduate,"computer, accounting, carpentry",0 years,Private,Rajasthan,English,Training
+544,Aachal,20,M,Postgraduate,"teaching, carpentry, maintenance",5 years,Consultant,Maharashtra,Kannada,Private job
+545,Sai,23,F,Master,"teaching, mechanics",1 years,Manager,Bihar,Gujarati,Government job
+546,Ishita,25,M,Diploma,"driving, wiring, teaching",2 years,Technician,Gujarat,Marathi,Training
+547,Pahal,31,M,Certificate Course,"computer, driving, maintenance",3 years,Clerk,Rajasthan,Odia,Government job
+548,Harrison,34,M,High School,mechanics,4 years,Trainer,West Bengal,Tamil,Private job
+549,Eiravati,24,M,High School,"teaching, carpentry",3 years,Technician,Maharashtra,Malayalam,Training
+550,Wridesh,29,F,Certificate Course,"electrical, typing",2 years,Operator,Kerala,Tamil,Training
+551,Mason,34,F,10th,"accounting, teaching",2 years,Operator,West Bengal,Kannada,Training
+552,Vincent,18,F,High School,"maintenance, graphic design, computer",0 years,Clerk,West Bengal,Malayalam,Private job
+553,Yoshita,20,M,ITI,"carpentry, typing",5 years,Assistant,Rajasthan,Punjabi,Private job
+554,Yashica,30,M,Postgraduate,electrical,0 years,Engineer,Rajasthan,Punjabi,Government job
+555,Vrishti,20,F,Undergraduate,maintenance,1 years,Manager,Odisha,Kannada,Training
+556,Shravya,28,M,Vocational Training,carpentry,1 years,Clerk,Bihar,Punjabi,Training
+557,Baghyawati,25,F,High School,"mechanics, electrical, graphic design",5 years,Technician,Gujarat,Tamil,Internship
+558,Mohammed,25,F,ITI,"accounting, plumbing, electrical",1 years,Assistant,Karnataka,Gujarati,Training
+559,Mitali,19,M,12th,"teaching, computer, graphic design",0 years,Private,Tamil Nadu,Tamil,Internship
+560,Nitara,31,M,Diploma,"electrical, teaching, plumbing",0 years,Technician,Uttar Pradesh,Tamil,Private job
+561,Priya,21,F,Vocational Training,"electrical, graphic design",4 years,Consultant,Karnataka,Hindi,Government job
+562,Yashasvi,21,F,Diploma,"wiring, driving, teaching",5 years,Consultant,Rajasthan,Gujarati,Training
+563,Yatin,18,F,Vocational Training,"maintenance, graphic design",4 years,Technician,Maharashtra,Malayalam,Training
+564,Aadi,29,F,10th,"teaching, plumbing, electrical",3 years,Private,Gujarat,Telugu,Private job
+565,Ishwar,19,M,Postgraduate,"wiring, typing, accounting",4 years,Manager,Bihar,Hindi,Internship
+566,Sudiksha,29,M,Undergraduate,"electrical, teaching",3 years,Clerk,Rajasthan,Marathi,Internship
+567,Rachana,32,F,Bachelor,"typing, computer",0 years,Clerk,Uttar Pradesh,Gujarati,Government job
+568,Geetika,29,F,ITI,"wiring, driving",5 years,Technician,West Bengal,Gujarati,Internship
+569,Mugdha,24,F,Vocational Training,"graphic design, plumbing, accounting",4 years,Assistant,Rajasthan,Marathi,Private job
+570,Chasmum,19,F,Certificate Course,"typing, teaching",5 years,Consultant,Tamil Nadu,Marathi,Government job
+571,Bhavya,19,F,Vocational Training,typing,4 years,Assistant,Kerala,Marathi,Private job
+572,Samar,27,F,Postgraduate,plumbing,2 years,Trainer,Tamil Nadu,Marathi,Training
+573,Ekaja,28,M,PhD,"graphic design, maintenance, carpentry",4 years,Engineer,Bihar,English,Government job
+574,Fiyaz,34,M,Vocational Training,typing,1 years,Assistant,Punjab,Tamil,Training
+575,Anamika,32,F,Bachelor,"mechanics, graphic design, typing",3 years,Government,Uttar Pradesh,Telugu,Government job
+576,Yashodhara,19,F,Bachelor,accounting,2 years,Assistant,Uttar Pradesh,Tamil,Government job
+577,Pushti,27,F,ITI,"maintenance, mechanics",5 years,Clerk,Odisha,Odia,Private job
+578,Rachit,23,F,High School,"typing, driving",4 years,Assistant,West Bengal,Malayalam,Internship
+579,Rushil,30,F,PhD,"accounting, electrical",4 years,Technician,Punjab,Hindi,Government job
+580,Hamsini,31,M,Bachelor,"graphic design, maintenance, typing",1 years,Manager,Kerala,Tamil,Internship
+581,Arjun,21,F,10th,plumbing,2 years,Technician,Kerala,Kannada,Government job
+582,Samuel,32,F,Master,"mechanics, maintenance",5 years,Trainer,Tamil Nadu,English,Internship
+583,Gauri,28,M,PhD,maintenance,0 years,Technician,Punjab,Hindi,Training
+584,Omya,22,M,Master,"teaching, plumbing",5 years,Consultant,Gujarat,Bengali,Government job
+585,Chameli,19,F,Certificate Course,"wiring, typing, teaching",0 years,Government,Karnataka,Kannada,Private job
+586,Janaki,30,M,Undergraduate,"typing, maintenance",4 years,Supervisor,Tamil Nadu,Marathi,Government job
+587,Lavanya,23,F,12th,"electrical, typing, accounting",5 years,Operator,Maharashtra,Hindi,Internship
+588,Brijesh,25,F,Postgraduate,"mechanics, computer",2 years,Consultant,Tamil Nadu,Telugu,Government job
+589,Damyanti,25,F,PhD,"mechanics, plumbing",1 years,Trainer,Uttar Pradesh,Kannada,Internship
+590,Ranveer,26,M,ITI,"computer, typing, carpentry",5 years,Government,West Bengal,English,Government job
+591,Kamala,31,M,Master,mechanics,3 years,Trainer,Gujarat,Kannada,Internship
+592,Jackson,25,M,ITI,teaching,5 years,Engineer,Uttar Pradesh,Bengali,Internship
+593,Viraj,24,M,Master,wiring,2 years,Trainer,Punjab,Hindi,Private job
+594,Devansh,24,F,Bachelor,"mechanics, typing, wiring",0 years,Consultant,Kerala,Malayalam,Internship
+595,Saumya,24,M,PhD,"accounting, typing",3 years,Assistant,Uttar Pradesh,Punjabi,Government job
+596,Warjas,19,M,10th,"plumbing, wiring",4 years,Engineer,Uttar Pradesh,Kannada,Training
+597,Yashodhara,33,M,Master,accounting,1 years,Engineer,Punjab,Punjabi,Government job
+598,Yug,33,M,Diploma,accounting,4 years,Clerk,Rajasthan,Odia,Training
+599,Abhiram,31,M,ITI,typing,1 years,Engineer,Rajasthan,Gujarati,Internship
+600,Ekiya,28,M,ITI,computer,1 years,Trainer,West Bengal,Kannada,Government job
+601,Harita,18,F,Undergraduate,computer,2 years,Clerk,Bihar,Bengali,Training
+602,Edhitha,24,M,Diploma,"computer, mechanics, carpentry",4 years,Supervisor,Karnataka,Kannada,Internship
+603,Sai,28,F,12th,"teaching, carpentry",5 years,Technician,Punjab,Gujarati,Government job
+604,Hitesh,22,M,10th,"maintenance, teaching",4 years,Assistant,West Bengal,Kannada,Government job
+605,Hredhaan,22,M,10th,"accounting, maintenance, wiring",0 years,Private,Tamil Nadu,Hindi,Training
+606,Kai,29,F,Diploma,wiring,4 years,Engineer,Kerala,Kannada,Training
+607,Tara,18,F,Master,graphic design,2 years,Supervisor,Gujarat,Bengali,Training
+608,Quincy,25,M,10th,"mechanics, electrical, carpentry",4 years,Engineer,West Bengal,Kannada,Internship
+609,Lohit,19,F,ITI,"electrical, computer",4 years,Supervisor,Odisha,Malayalam,Training
+610,Odika,27,F,Diploma,wiring,3 years,Trainer,Tamil Nadu,Telugu,Training
+611,Sanya,30,F,High School,"teaching, graphic design, computer",5 years,Clerk,Punjab,English,Internship
+612,Gunbir,26,M,Undergraduate,"driving, maintenance, graphic design",4 years,Private,West Bengal,Malayalam,Training
+613,Jairaj,28,M,Undergraduate,computer,5 years,Assistant,Rajasthan,Gujarati,Private job
+614,Ishani,25,F,Bachelor,"accounting, graphic design, driving",1 years,Technician,Bihar,English,Internship
+615,Krish,23,F,Certificate Course,"carpentry, computer, wiring",3 years,Operator,Gujarat,Tamil,Internship
+616,Chandani,31,F,Vocational Training,carpentry,1 years,Engineer,Karnataka,Malayalam,Training
+617,Jagdish,22,F,Vocational Training,"typing, computer",2 years,Assistant,Kerala,Gujarati,Internship
+618,Umang,19,M,Bachelor,"mechanics, plumbing, carpentry",4 years,Clerk,Kerala,Odia,Training
+619,Chaaya,21,F,High School,"maintenance, accounting, typing",5 years,Clerk,Tamil Nadu,Tamil,Government job
+620,Nisha,35,F,12th,electrical,5 years,Operator,Kerala,Odia,Internship
+621,Mahika,25,F,Undergraduate,wiring,1 years,Manager,West Bengal,Kannada,Government job
+622,Shivansh,34,F,High School,"computer, typing",1 years,Operator,West Bengal,Bengali,Private job
+623,Qarin,32,F,10th,wiring,3 years,Private,Maharashtra,English,Training
+624,Falguni,22,F,ITI,driving,5 years,Technician,West Bengal,Marathi,Internship
+625,Indira,26,F,Master,"accounting, wiring, graphic design",2 years,Supervisor,Karnataka,Marathi,Training
+626,Damyanti,18,M,PhD,"typing, carpentry",4 years,Supervisor,Karnataka,Punjabi,Internship
+627,Triveni,34,F,Bachelor,"typing, maintenance, teaching",5 years,Manager,Tamil Nadu,Gujarati,Training
+628,Jagvi,26,F,12th,accounting,5 years,Assistant,Odisha,Marathi,Private job
+629,Henry,28,M,High School,typing,0 years,Engineer,Uttar Pradesh,English,Private job
+630,Urishilla,32,F,Postgraduate,"teaching, maintenance, electrical",1 years,Supervisor,Tamil Nadu,Tamil,Training
+631,Elijah,25,F,Undergraduate,"teaching, electrical, carpentry",3 years,Trainer,Kerala,Telugu,Government job
+632,Ekani,22,M,PhD,"mechanics, carpentry, accounting",4 years,Government,West Bengal,Hindi,Government job
+633,Aarini,33,M,Undergraduate,accounting,2 years,Government,Karnataka,Tamil,Internship
+634,Tanvi,20,M,Master,electrical,3 years,Technician,Punjab,Bengali,Training
+635,Advik,20,M,Undergraduate,"mechanics, typing, graphic design",4 years,Manager,Rajasthan,Punjabi,Private job
+636,Ekaja,24,M,10th,carpentry,2 years,Government,Tamil Nadu,Punjabi,Private job
+637,Nilima,23,M,12th,electrical,3 years,Technician,Punjab,Tamil,Government job
+638,Ekani,29,M,ITI,plumbing,3 years,Trainer,Bihar,English,Training
+639,Gautami,25,M,ITI,"teaching, carpentry",3 years,Manager,Gujarat,Odia,Training
+640,Jeremiah,22,F,Master,"mechanics, maintenance",1 years,Trainer,Kerala,Marathi,Internship
+641,Dev,23,M,10th,electrical,5 years,Consultant,Rajasthan,Marathi,Internship
+642,Charles,20,F,High School,"electrical, accounting",1 years,Supervisor,Odisha,Tamil,Training
+643,Vedika,21,F,Certificate Course,typing,3 years,Clerk,Maharashtra,Telugu,Internship
+644,Aarav,33,M,Vocational Training,"wiring, computer",0 years,Private,Maharashtra,English,Government job
+645,Kai,26,M,12th,carpentry,5 years,Private,Bihar,Gujarati,Internship
+646,Ekantika,28,F,Certificate Course,"accounting, electrical, wiring",3 years,Private,Rajasthan,Telugu,Private job
+647,Agastya,33,M,PhD,"maintenance, graphic design",2 years,Consultant,Bihar,English,Private job
+648,Saumya,31,M,ITI,"driving, electrical",3 years,Engineer,Punjab,Bengali,Internship
+649,Yoshita,26,M,High School,"driving, carpentry, teaching",4 years,Government,Tamil Nadu,Bengali,Training
+650,Zaitra,24,F,Bachelor,wiring,3 years,Manager,Kerala,Kannada,Training
+651,Anamika,23,F,10th,plumbing,0 years,Trainer,Punjab,Gujarati,Government job
+652,Rachit,28,F,Diploma,"driving, electrical, teaching",4 years,Assistant,Maharashtra,Punjabi,Training
+653,Shivani,27,M,Certificate Course,"maintenance, accounting, driving",4 years,Manager,Karnataka,Bengali,Government job
+654,Arjun,31,F,10th,carpentry,2 years,Technician,Kerala,Kannada,Private job
+655,Shaurya,19,F,Undergraduate,"graphic design, mechanics",1 years,Technician,Gujarat,Gujarati,Training
+656,Oni,23,M,Bachelor,wiring,3 years,Manager,Karnataka,Tamil,Government job
+657,Kashish,21,F,Vocational Training,"computer, electrical",5 years,Private,Uttar Pradesh,Malayalam,Training
+658,Finn,34,M,Bachelor,maintenance,0 years,Engineer,Gujarat,Punjabi,Government job
+659,Ranbir,32,F,Diploma,"teaching, plumbing",5 years,Trainer,Uttar Pradesh,Punjabi,Internship
+660,Aahana,32,F,PhD,"teaching, electrical",1 years,Clerk,Maharashtra,Malayalam,Private job
+661,Lopa,27,F,Bachelor,"plumbing, carpentry, accounting",0 years,Consultant,Punjab,Marathi,Government job
+662,Oeshi,33,M,ITI,"electrical, graphic design, teaching",1 years,Operator,Uttar Pradesh,Bengali,Private job
+663,Rehaan,23,M,ITI,"mechanics, maintenance",1 years,Consultant,Bihar,English,Internship
+664,Shivani,23,M,Certificate Course,"electrical, wiring",2 years,Operator,Punjab,Gujarati,Private job
+665,Aditya,19,M,Undergraduate,carpentry,3 years,Consultant,Tamil Nadu,English,Internship
+666,Qarin,25,M,Certificate Course,"teaching, maintenance",3 years,Government,Kerala,English,Training
+667,Ranveer,18,M,PhD,driving,5 years,Clerk,Kerala,Bengali,Internship
+668,Bhavini,24,F,PhD,mechanics,5 years,Operator,Gujarat,Kannada,Private job
+669,Kavya,30,F,Diploma,"computer, graphic design, plumbing",2 years,Trainer,Gujarat,Telugu,Private job
+670,Daksh,18,M,High School,"computer, wiring, mechanics",2 years,Government,Odisha,Bengali,Private job
+671,Noah,21,M,Postgraduate,"graphic design, plumbing, maintenance",3 years,Operator,Karnataka,Marathi,Training
+672,Timothy,28,F,High School,"wiring, electrical",1 years,Technician,Kerala,Punjabi,Government job
+673,Maanas,33,F,10th,"graphic design, mechanics, accounting",2 years,Engineer,West Bengal,Malayalam,Internship
+674,Arunima,28,F,Postgraduate,"wiring, accounting, typing",5 years,Consultant,Punjab,Malayalam,Private job
+675,Jai,19,F,12th,typing,0 years,Operator,Gujarat,Telugu,Training
+676,Zayyan,29,M,Undergraduate,"graphic design, maintenance, electrical",1 years,Trainer,Karnataka,Odia,Private job
+677,Bhavini,22,M,Bachelor,wiring,4 years,Operator,Bihar,Kannada,Training
+678,Jyoti,32,M,Certificate Course,"computer, teaching",1 years,Clerk,Maharashtra,Telugu,Internship
+679,Adweta,27,F,High School,"computer, wiring, accounting",1 years,Engineer,Karnataka,Gujarati,Internship
+680,Frederick,35,F,Master,"computer, typing",1 years,Engineer,Gujarat,Bengali,Training
+681,Yashvi,22,M,High School,"mechanics, graphic design, plumbing",3 years,Trainer,Karnataka,Malayalam,Private job
+682,Aahana,18,M,10th,"teaching, mechanics, electrical",2 years,Clerk,Punjab,Bengali,Government job
+683,Samar,19,F,10th,"accounting, mechanics, computer",2 years,Government,Maharashtra,Punjabi,Training
+684,Lila,31,F,Master,"electrical, carpentry, driving",3 years,Private,Odisha,Marathi,Private job
+685,Max,24,M,12th,wiring,1 years,Assistant,Punjab,Tamil,Private job
+686,Vedant,32,M,10th,"accounting, typing",2 years,Operator,Punjab,Odia,Private job
+687,Christopher,28,F,Certificate Course,maintenance,5 years,Assistant,Tamil Nadu,Telugu,Government job
+688,Falak,35,M,Diploma,"plumbing, teaching",1 years,Private,Gujarat,Gujarati,Government job
+689,Darika,23,F,High School,"plumbing, computer, wiring",3 years,Engineer,Bihar,Marathi,Private job
+690,Sanya,26,F,Undergraduate,"carpentry, electrical, mechanics",4 years,Private,Odisha,Odia,Government job
+691,Bhavna,30,M,12th,"typing, driving",0 years,Manager,Maharashtra,Tamil,Private job
+692,Anjali,23,M,10th,"typing, accounting, teaching",3 years,Government,Odisha,Malayalam,Training
+693,Unnati,22,M,Certificate Course,"computer, maintenance, wiring",0 years,Assistant,Tamil Nadu,Odia,Private job
+694,Eesha,35,F,PhD,"mechanics, maintenance",3 years,Assistant,Rajasthan,Kannada,Government job
+695,Gaurang,24,F,Master,"maintenance, wiring",5 years,Consultant,Kerala,Hindi,Government job
+696,Bishakha,25,F,ITI,"mechanics, plumbing",5 years,Manager,Rajasthan,Malayalam,Training
+697,Deepa,22,F,Postgraduate,"driving, plumbing, computer",4 years,Operator,Maharashtra,Odia,Government job
+698,Veda,18,M,Master,"mechanics, plumbing, electrical",1 years,Government,Rajasthan,Punjabi,Internship
+699,Laban,20,F,Diploma,"electrical, typing",3 years,Operator,Uttar Pradesh,English,Training
+700,Nakul,25,M,PhD,accounting,0 years,Manager,Bihar,Bengali,Private job
+701,Luke,27,F,Diploma,wiring,1 years,Operator,Odisha,Hindi,Internship
+702,Ojas,19,M,Bachelor,"maintenance, typing",3 years,Engineer,Kerala,Bengali,Government job
+703,Chavvi,35,M,PhD,"plumbing, graphic design",4 years,Manager,Tamil Nadu,Gujarati,Government job
+704,Diya,25,M,Certificate Course,"typing, computer",4 years,Supervisor,Odisha,Malayalam,Internship
+705,Sai,28,M,Diploma,"driving, graphic design",3 years,Operator,Bihar,Malayalam,Private job
+706,Aayush,31,M,High School,"electrical, typing",2 years,Consultant,Uttar Pradesh,Malayalam,Training
+707,Ekavir,29,F,Postgraduate,"mechanics, teaching",0 years,Assistant,Maharashtra,Tamil,Government job
+708,Ayush,33,M,ITI,driving,5 years,Government,Punjab,Gujarati,Government job
+709,Chavvi,31,F,Master,"driving, maintenance, computer",0 years,Assistant,Maharashtra,Punjabi,Private job
+710,Agastya,23,M,10th,"plumbing, driving, carpentry",4 years,Engineer,Gujarat,Gujarati,Private job
+711,Vyanjana,21,F,12th,accounting,0 years,Operator,Odisha,English,Government job
+712,Andrew,32,M,Master,accounting,0 years,Engineer,Karnataka,Hindi,Training
+713,Dakshesh,26,F,Diploma,"teaching, mechanics, graphic design",2 years,Engineer,Maharashtra,Bengali,Training
+714,Abeer,21,F,Postgraduate,"typing, carpentry, plumbing",1 years,Technician,Bihar,Marathi,Training
+715,Yashvi,23,M,12th,teaching,0 years,Engineer,Punjab,Punjabi,Private job
+716,Jyoti,33,F,Vocational Training,electrical,5 years,Assistant,Punjab,Odia,Internship
+717,Samarth,34,F,ITI,"wiring, accounting, electrical",0 years,Government,Odisha,Kannada,Training
+718,Priya,31,F,High School,"accounting, computer",4 years,Private,Punjab,Bengali,Private job
+719,Urvi,34,M,Undergraduate,"maintenance, carpentry",4 years,Manager,Tamil Nadu,Kannada,Training
+720,Luke,29,M,10th,"accounting, typing, wiring",0 years,Private,Punjab,Malayalam,Training
+721,Anika,31,M,Postgraduate,electrical,4 years,Clerk,Bihar,Odia,Training
+722,Garima,31,M,ITI,"wiring, electrical",1 years,Operator,Tamil Nadu,English,Training
+723,Zilmil,26,F,Bachelor,"driving, typing, maintenance",2 years,Engineer,Odisha,Bengali,Government job
+724,Tanvi,19,F,Diploma,"graphic design, computer",2 years,Technician,Maharashtra,Malayalam,Government job
+725,Pratyush,19,F,High School,"maintenance, wiring",4 years,Consultant,Kerala,Telugu,Private job
+726,Saanvi,26,M,12th,plumbing,5 years,Trainer,Tamil Nadu,Hindi,Internship
+727,Prisha,31,M,High School,"electrical, carpentry",3 years,Government,Tamil Nadu,Hindi,Training
+728,Manan,32,F,12th,plumbing,5 years,Government,Uttar Pradesh,Telugu,Government job
+729,Anay,18,F,PhD,mechanics,3 years,Supervisor,Bihar,Marathi,Training
+730,Aradhana,25,F,Undergraduate,"graphic design, wiring, plumbing",0 years,Operator,Bihar,Marathi,Government job
+731,Robert,21,M,Vocational Training,"wiring, plumbing",4 years,Operator,Bihar,Malayalam,Internship
+732,Jhalak,20,M,12th,"electrical, accounting, wiring",3 years,Operator,Rajasthan,Kannada,Internship
+733,Nathan,26,F,Postgraduate,"typing, wiring, carpentry",4 years,Manager,Odisha,English,Training
+734,Champak,28,F,10th,"graphic design, accounting, maintenance",4 years,Manager,Karnataka,Hindi,Training
+735,Vedhika,22,F,Postgraduate,"graphic design, plumbing",2 years,Private,Kerala,Malayalam,Training
+736,Hemal,28,F,12th,"teaching, maintenance, accounting",5 years,Private,Odisha,Malayalam,Internship
+737,Meera,26,M,High School,accounting,4 years,Manager,Tamil Nadu,Malayalam,Private job
+738,Zehaan,22,F,Vocational Training,"computer, typing",4 years,Private,Odisha,Telugu,Private job
+739,Damini,24,M,Master,"typing, electrical",3 years,Private,Kerala,Telugu,Government job
+740,Rajata,24,M,High School,"wiring, maintenance, typing",2 years,Clerk,Rajasthan,Kannada,Training
+741,Logan,30,M,Diploma,carpentry,5 years,Engineer,Rajasthan,English,Internship
+742,Wishi,33,F,10th,teaching,4 years,Engineer,Bihar,Telugu,Training
+743,Timothy,27,M,ITI,"computer, plumbing",2 years,Private,Kerala,Marathi,Internship
+744,Siya,29,F,Vocational Training,"maintenance, mechanics, driving",2 years,Operator,Rajasthan,English,Internship
+745,Tejas,24,M,Certificate Course,"accounting, computer",1 years,Trainer,Punjab,Odia,Training
+746,Kashvi,23,F,Diploma,"typing, accounting",3 years,Engineer,Gujarat,Malayalam,Training
+747,Oliver,22,F,PhD,"typing, electrical, accounting",1 years,Engineer,Odisha,Odia,Training
+748,Jagvi,32,F,High School,"teaching, carpentry",4 years,Private,Karnataka,Malayalam,Internship
+749,Avni,35,M,Bachelor,"typing, carpentry",4 years,Supervisor,Kerala,Telugu,Private job
+750,Gaurangi,32,M,Master,"teaching, typing",4 years,Supervisor,Punjab,Hindi,Training
+751,Onveer,23,M,Postgraduate,typing,4 years,Supervisor,Karnataka,Marathi,Private job
+752,Advik,33,F,Bachelor,mechanics,4 years,Clerk,Rajasthan,Marathi,Training
+753,Onveer,35,M,10th,graphic design,2 years,Supervisor,Uttar Pradesh,Odia,Private job
+754,Hritik,34,F,Postgraduate,"carpentry, wiring",4 years,Manager,Bihar,Malayalam,Private job
+755,Yashodhara,21,F,Vocational Training,typing,0 years,Supervisor,Maharashtra,Hindi,Training
+756,Gautam,19,F,Undergraduate,computer,4 years,Supervisor,Rajasthan,Gujarati,Government job
+757,Jacob,24,F,12th,"driving, maintenance, teaching",1 years,Technician,Punjab,Malayalam,Internship
+758,Ethan,35,F,Bachelor,"plumbing, teaching, mechanics",2 years,Private,Odisha,Odia,Internship
+759,Rajata,35,M,Master,"teaching, graphic design, computer",0 years,Manager,Tamil Nadu,Hindi,Government job
+760,Jhalak,30,M,Master,driving,3 years,Trainer,Bihar,Telugu,Training
+761,Aahana,25,F,ITI,"driving, wiring, graphic design",2 years,Trainer,Maharashtra,English,Internship
+762,Meghana,26,F,Vocational Training,graphic design,5 years,Supervisor,Maharashtra,Bengali,Government job
+763,Tanvi,25,M,Master,"computer, typing",4 years,Assistant,Tamil Nadu,Telugu,Government job
+764,Gauri,23,M,Certificate Course,"computer, maintenance",4 years,Government,Punjab,Marathi,Private job
+765,Kevin,30,M,Vocational Training,"computer, graphic design, carpentry",4 years,Trainer,Odisha,Tamil,Training
+766,Naksh,26,F,Postgraduate,"electrical, graphic design, mechanics",2 years,Government,Kerala,Hindi,Private job
+767,Jasmit,21,F,Postgraduate,"maintenance, driving",0 years,Government,Rajasthan,Marathi,Government job
+768,Daksh,23,F,10th,accounting,3 years,Technician,Uttar Pradesh,Hindi,Government job
+769,Harsh,28,M,Certificate Course,"maintenance, mechanics, plumbing",1 years,Trainer,Maharashtra,Telugu,Internship
+770,Chaitanya,34,M,ITI,carpentry,2 years,Consultant,Gujarat,Tamil,Internship
+771,Divya,30,F,12th,accounting,2 years,Assistant,West Bengal,Punjabi,Internship
+772,Yashasvi,33,M,High School,driving,2 years,Private,Uttar Pradesh,Hindi,Internship
+773,Wakeeta,27,M,PhD,typing,4 years,Clerk,Kerala,Kannada,Internship
+774,Mahika,25,F,10th,plumbing,5 years,Private,Bihar,Odia,Government job
+775,Maanas,32,M,10th,"wiring, typing, maintenance",2 years,Private,Maharashtra,Telugu,Internship
+776,Mugdha,30,M,Bachelor,"driving, computer",3 years,Operator,Tamil Nadu,Punjabi,Training
+777,Mohammed,22,M,10th,"wiring, typing, carpentry",5 years,Consultant,Punjab,Bengali,Private job
+778,Dhriti,35,F,Undergraduate,"maintenance, wiring, teaching",5 years,Consultant,Punjab,English,Training
+779,Fiyaz,25,M,Undergraduate,"carpentry, typing, computer",3 years,Government,Maharashtra,Kannada,Training
+780,Kabir,34,M,Postgraduate,"accounting, plumbing",3 years,Technician,Gujarat,Marathi,Private job
+781,Aarna,27,F,High School,"accounting, electrical",3 years,Assistant,West Bengal,Bengali,Training
+782,Damini,35,M,Bachelor,"electrical, teaching",0 years,Engineer,Rajasthan,Kannada,Training
+783,Vivaan,20,M,10th,"maintenance, mechanics",2 years,Consultant,Kerala,Gujarati,Internship
+784,Agastya,28,M,Diploma,carpentry,2 years,Government,Gujarat,Hindi,Private job
+785,Edhitha,19,F,Undergraduate,"accounting, typing, computer",5 years,Private,Kerala,Hindi,Training
+786,Hemani,28,F,Postgraduate,"driving, typing",0 years,Government,Uttar Pradesh,Punjabi,Government job
+787,Jagdish,27,M,Certificate Course,plumbing,4 years,Assistant,Punjab,English,Government job
+788,Mugdha,21,F,PhD,"graphic design, teaching, accounting",4 years,Technician,Punjab,Hindi,Training
+789,Elijah,18,F,Bachelor,"electrical, carpentry",1 years,Consultant,Uttar Pradesh,Odia,Private job
+790,Qadim,31,M,12th,computer,5 years,Supervisor,Kerala,Hindi,Training
+791,Mitali,24,M,Undergraduate,"teaching, typing",1 years,Clerk,Gujarat,Odia,Private job
+792,Ikshita,34,M,Bachelor,"plumbing, typing, graphic design",2 years,Technician,Rajasthan,Telugu,Training
+793,Ayaan,26,M,High School,"mechanics, typing",1 years,Trainer,West Bengal,Malayalam,Government job
+794,Luke,20,F,Master,plumbing,1 years,Trainer,Gujarat,Bengali,Training
+795,Gaurang,33,F,10th,"wiring, maintenance",2 years,Manager,Rajasthan,Malayalam,Internship
+796,Balhaar,21,M,Master,mechanics,0 years,Supervisor,Gujarat,Odia,Internship
+797,Eshana,31,F,ITI,"maintenance, typing",0 years,Manager,Karnataka,Bengali,Government job
+798,Chasmum,33,M,12th,driving,2 years,Assistant,Gujarat,Marathi,Training
+799,Matthew,24,F,Diploma,plumbing,2 years,Engineer,Punjab,Punjabi,Internship
+800,Abhimanyu,31,M,Master,"electrical, driving, computer",1 years,Operator,Gujarat,Bengali,Private job
+801,Gaurangi,21,F,Master,"wiring, driving",5 years,Trainer,Gujarat,Malayalam,Training
+802,Forum,35,M,PhD,graphic design,1 years,Consultant,Maharashtra,Telugu,Government job
+803,Upma,28,M,PhD,plumbing,5 years,Private,Uttar Pradesh,Odia,Training
+804,Reyansh,25,F,10th,carpentry,5 years,Engineer,Uttar Pradesh,Hindi,Private job
+805,Zinal,30,M,Certificate Course,teaching,4 years,Supervisor,Karnataka,Odia,Training
+806,Timothy,22,M,Vocational Training,"accounting, plumbing, carpentry",4 years,Supervisor,Kerala,Telugu,Government job
+807,Jyoti,21,M,Certificate Course,typing,1 years,Assistant,Odisha,Marathi,Private job
+808,Banjeet,18,F,Bachelor,accounting,4 years,Trainer,Kerala,Malayalam,Training
+809,Isaiah,31,F,Postgraduate,"graphic design, driving, accounting",2 years,Trainer,Maharashtra,Kannada,Government job
+810,William,27,M,10th,wiring,5 years,Clerk,Uttar Pradesh,Malayalam,Government job
+811,Udyati,19,F,Master,"typing, teaching",4 years,Manager,Rajasthan,Kannada,Internship
+812,Janani,25,F,Postgraduate,"plumbing, mechanics, graphic design",4 years,Manager,Karnataka,Marathi,Training
+813,Yug,23,F,ITI,"driving, electrical, plumbing",3 years,Consultant,Gujarat,Hindi,Government job
+814,Fiyaz,32,M,Master,mechanics,0 years,Assistant,Maharashtra,Telugu,Private job
+815,Bhavini,26,F,12th,"carpentry, wiring",1 years,Supervisor,West Bengal,Kannada,Government job
+816,Vedika,31,M,Certificate Course,"carpentry, typing, graphic design",4 years,Assistant,West Bengal,Hindi,Internship
+817,Christopher,25,M,PhD,"accounting, driving, maintenance",5 years,Government,Gujarat,Malayalam,Government job
+818,Yochana,32,F,Certificate Course,typing,5 years,Assistant,Tamil Nadu,Tamil,Internship
+819,Harsh,22,F,Master,graphic design,0 years,Consultant,Punjab,Gujarati,Training
+820,Ayush,24,F,ITI,"accounting, wiring",4 years,Consultant,West Bengal,Tamil,Government job
+821,Krisha,23,M,Undergraduate,plumbing,1 years,Assistant,West Bengal,Malayalam,Government job
+822,Wishi,34,M,Postgraduate,wiring,5 years,Consultant,Maharashtra,Bengali,Training
+823,Vrishti,26,M,Vocational Training,"typing, accounting",4 years,Government,Uttar Pradesh,English,Internship
+824,Omisha,29,F,Bachelor,"plumbing, accounting",2 years,Technician,West Bengal,Kannada,Private job
+825,Yauvani,29,M,Master,"carpentry, maintenance, computer",3 years,Supervisor,Gujarat,Malayalam,Training
+826,Charvi,32,F,Diploma,"accounting, plumbing, graphic design",5 years,Operator,West Bengal,Punjabi,Internship
+827,Ranbir,18,F,12th,"computer, graphic design",0 years,Manager,Gujarat,Tamil,Training
+828,Gopal,23,M,Bachelor,"electrical, maintenance, carpentry",1 years,Operator,Kerala,Bengali,Training
+829,Nathaniel,28,M,12th,computer,5 years,Assistant,West Bengal,Punjabi,Training
+830,Tripti,18,F,12th,"plumbing, teaching, driving",1 years,Technician,Odisha,Marathi,Training
+831,Darsh,28,F,ITI,"electrical, driving, graphic design",3 years,Manager,Odisha,Kannada,Government job
+832,Aradhana,34,M,Certificate Course,"maintenance, carpentry",5 years,Technician,Uttar Pradesh,English,Internship
+833,Pahal,30,F,PhD,"plumbing, computer",0 years,Supervisor,Punjab,Odia,Training
+834,Aarav,24,F,10th,"carpentry, mechanics",5 years,Consultant,Odisha,Marathi,Training
+835,Bhanumati,23,F,High School,teaching,5 years,Manager,Bihar,Marathi,Private job
+836,Unni,26,F,ITI,"carpentry, driving",3 years,Private,Karnataka,Punjabi,Internship
+837,Kritika,29,F,10th,mechanics,5 years,Supervisor,Uttar Pradesh,Tamil,Private job
+838,Sanaya,22,F,12th,"wiring, maintenance, electrical",4 years,Trainer,Karnataka,Gujarati,Training
+839,Laban,34,M,Diploma,"typing, driving, teaching",5 years,Trainer,West Bengal,Tamil,Training
+840,Ridhi,28,M,Postgraduate,"carpentry, maintenance, computer",3 years,Assistant,Punjab,Marathi,Private job
+841,Zaid,35,M,10th,"computer, driving, plumbing",1 years,Manager,Gujarat,Hindi,Training
+842,Anya,31,M,Postgraduate,"carpentry, accounting, graphic design",5 years,Trainer,Bihar,Bengali,Training
+843,Siddharth,19,F,PhD,"maintenance, carpentry",4 years,Operator,Maharashtra,Bengali,Private job
+844,Gauri,22,F,ITI,mechanics,5 years,Government,Maharashtra,Odia,Private job
+845,Yashica,30,F,Undergraduate,"maintenance, graphic design, accounting",2 years,Engineer,Kerala,Tamil,Training
+846,Zansi,22,F,Bachelor,graphic design,0 years,Engineer,Bihar,Punjabi,Internship
+847,Liam,35,M,Certificate Course,"mechanics, plumbing, typing",3 years,Technician,Gujarat,Hindi,Government job
+848,Shivansh,21,F,Undergraduate,"computer, plumbing, typing",2 years,Engineer,Tamil Nadu,Marathi,Internship
+849,Nandini,24,F,Master,"computer, typing, maintenance",0 years,Trainer,Punjab,English,Internship
+850,Priya,20,M,High School,"carpentry, typing, teaching",5 years,Private,Maharashtra,Hindi,Government job
+851,Zaid,21,M,Undergraduate,"accounting, maintenance",0 years,Technician,Punjab,Hindi,Training
+852,Irya,23,F,Master,"maintenance, electrical",5 years,Private,Rajasthan,Tamil,Private job
+853,Gayathri,22,M,Diploma,"computer, typing, accounting",4 years,Clerk,Gujarat,Odia,Internship
+854,Ishwar,32,F,Bachelor,"teaching, graphic design",1 years,Clerk,West Bengal,Tamil,Training
+855,Frado,23,M,Vocational Training,mechanics,5 years,Manager,Karnataka,Telugu,Training
+856,Eshana,32,F,10th,"maintenance, driving, mechanics",3 years,Engineer,Punjab,Marathi,Training
+857,Harrison,27,M,High School,"electrical, plumbing, accounting",5 years,Manager,Bihar,Odia,Government job
+858,Ojas,33,F,12th,"plumbing, wiring",5 years,Supervisor,Karnataka,Punjabi,Training
+859,Tejas,35,M,Master,"accounting, plumbing, graphic design",4 years,Private,Gujarat,Tamil,Internship
+860,Upadhriti,21,M,Master,"maintenance, driving, wiring",0 years,Trainer,West Bengal,Tamil,Training
+861,Chanakya,35,M,ITI,"plumbing, carpentry",1 years,Private,Maharashtra,Marathi,Training
+862,Matthew,22,M,Undergraduate,"teaching, carpentry",0 years,Consultant,Maharashtra,Tamil,Government job
+863,Devika,26,F,PhD,"wiring, driving",3 years,Manager,Karnataka,English,Government job
+864,Hemani,29,F,High School,"carpentry, teaching",1 years,Assistant,Gujarat,Hindi,Government job
+865,Ikbal,21,F,Certificate Course,typing,4 years,Consultant,Maharashtra,Odia,Government job
+866,Chatresh,24,M,Undergraduate,"graphic design, computer",0 years,Supervisor,Rajasthan,Bengali,Internship
+867,Dipta,27,M,Bachelor,"carpentry, teaching",1 years,Operator,Bihar,Punjabi,Training
+868,Nitesh,32,M,ITI,maintenance,3 years,Operator,Tamil Nadu,Marathi,Private job
+869,Hema,34,F,10th,"driving, mechanics",2 years,Consultant,Maharashtra,Bengali,Training
+870,Nidhi,20,M,Master,"plumbing, driving, graphic design",2 years,Manager,Kerala,Punjabi,Internship
+871,Orinder,23,M,Master,"electrical, accounting, teaching",0 years,Clerk,Maharashtra,Tamil,Government job
+872,Zaitra,25,M,Undergraduate,"plumbing, mechanics",4 years,Assistant,Gujarat,Telugu,Internship
+873,Alexander,30,M,12th,typing,3 years,Consultant,Rajasthan,Malayalam,Training
+874,Anika,32,F,Undergraduate,"graphic design, driving",3 years,Private,Odisha,Punjabi,Government job
+875,Upadhriti,33,M,Postgraduate,"electrical, plumbing, computer",4 years,Assistant,Rajasthan,English,Internship
+876,Nidra,22,M,10th,carpentry,2 years,Technician,Gujarat,Bengali,Private job
+877,Chatura,20,F,Master,"carpentry, teaching",0 years,Manager,Uttar Pradesh,Malayalam,Government job
+878,Aarnav,26,M,Undergraduate,teaching,5 years,Technician,Rajasthan,Gujarati,Training
+879,Wriddhish,32,F,12th,plumbing,5 years,Engineer,Odisha,Hindi,Government job
+880,Shivansh,30,M,Master,"graphic design, maintenance",0 years,Supervisor,Punjab,Bengali,Training
+881,Anirudh,23,F,Certificate Course,"carpentry, graphic design, computer",3 years,Consultant,Rajasthan,Odia,Private job
+882,Frado,31,F,PhD,plumbing,3 years,Consultant,Tamil Nadu,English,Government job
+883,Hema,34,F,Undergraduate,"graphic design, accounting, driving",1 years,Operator,Rajasthan,Marathi,Training
+884,Darsh,20,M,Vocational Training,"wiring, maintenance",2 years,Private,Punjab,Hindi,Training
+885,Onkar,21,M,High School,"maintenance, carpentry",5 years,Private,Punjab,Malayalam,Government job
+886,Panini,26,F,Diploma,"typing, plumbing",2 years,Engineer,Rajasthan,Hindi,Training
+887,Jhalak,20,F,Postgraduate,"plumbing, carpentry",3 years,Clerk,Karnataka,Malayalam,Government job
+888,Chanchal,26,F,Diploma,typing,1 years,Assistant,Punjab,Punjabi,Training
+889,Kala,29,F,Diploma,"driving, carpentry",5 years,Clerk,Maharashtra,Bengali,Private job
+890,Osha,35,M,ITI,"plumbing, typing, computer",4 years,Clerk,Rajasthan,Punjabi,Government job
+891,Isha,22,F,Master,"plumbing, driving",1 years,Consultant,Karnataka,Marathi,Internship
+892,Gavin,30,M,Master,"driving, accounting",1 years,Operator,Maharashtra,English,Government job
+893,Karan,28,M,Postgraduate,"graphic design, wiring, maintenance",0 years,Assistant,Kerala,Bengali,Private job
+894,Umang,27,F,Vocational Training,driving,5 years,Technician,Odisha,Bengali,Government job
+895,Jeet,24,M,High School,"carpentry, graphic design, maintenance",3 years,Technician,Rajasthan,Malayalam,Internship
+896,Adweta,32,F,10th,"computer, teaching, accounting",1 years,Trainer,Punjab,Odia,Training
+897,Nimrat,22,F,Postgraduate,plumbing,5 years,Trainer,West Bengal,Odia,Private job
+898,Yadavi,18,F,12th,electrical,5 years,Operator,Odisha,Malayalam,Training
+899,Faqid,28,M,10th,graphic design,0 years,Assistant,Odisha,Punjabi,Training
+900,Om,31,F,Master,"computer, wiring, accounting",1 years,Technician,Kerala,Gujarati,Training
+901,Gabriel,33,F,Master,"electrical, accounting",3 years,Assistant,Punjab,English,Private job
+902,Bimala,33,M,Diploma,"computer, teaching",2 years,Clerk,Bihar,Bengali,Government job
+903,Tarak,18,M,12th,typing,2 years,Engineer,Punjab,Punjabi,Training
+904,Guneet,22,M,Master,"mechanics, computer",2 years,Manager,Maharashtra,Telugu,Government job
+905,Radha,18,F,Bachelor,"accounting, wiring",2 years,Technician,Bihar,Tamil,Private job
+906,Urvashi,28,F,Undergraduate,computer,5 years,Government,Punjab,English,Government job
+907,Akshay,29,F,High School,computer,2 years,Supervisor,Uttar Pradesh,Bengali,Private job
+908,Yahvi,22,F,Postgraduate,"driving, maintenance, mechanics",5 years,Consultant,West Bengal,Tamil,Internship
+909,Idika,28,F,Diploma,typing,4 years,Trainer,Odisha,Marathi,Government job
+910,Bishakha,21,F,PhD,"plumbing, maintenance, wiring",0 years,Private,Maharashtra,Malayalam,Private job
+911,Wazir,26,M,Certificate Course,"teaching, electrical",2 years,Manager,Bihar,Malayalam,Training
+912,Faras,18,F,Undergraduate,graphic design,0 years,Operator,Maharashtra,Tamil,Internship
+913,Vaishnavi,23,F,Certificate Course,electrical,3 years,Engineer,Maharashtra,Hindi,Training
+914,Amruta,20,F,Postgraduate,maintenance,3 years,Private,Karnataka,Kannada,Government job
+915,Balendra,32,F,Postgraduate,"electrical, teaching",4 years,Private,Gujarat,Telugu,Internship
+916,Watika,32,M,10th,"carpentry, electrical, teaching",2 years,Government,Maharashtra,Tamil,Government job
+917,Noah,19,F,ITI,"electrical, teaching",3 years,Private,Karnataka,Kannada,Training
+918,Nisha,26,F,Diploma,"teaching, wiring",0 years,Private,Uttar Pradesh,Tamil,Training
+919,Chatresh,20,M,Master,"maintenance, computer",4 years,Government,Punjab,Punjabi,Training
+920,Kevin,24,M,Postgraduate,graphic design,3 years,Operator,Rajasthan,Hindi,Government job
+921,Chasmum,19,M,12th,"mechanics, electrical",2 years,Engineer,Gujarat,Marathi,Training
+922,Luke,32,M,Certificate Course,"plumbing, maintenance",4 years,Operator,Uttar Pradesh,Marathi,Private job
+923,Nakul,30,F,ITI,"accounting, graphic design",5 years,Technician,Gujarat,English,Private job
+924,Jasmit,25,M,12th,"graphic design, computer, electrical",1 years,Engineer,Odisha,Kannada,Government job
+925,Riya,35,F,Diploma,typing,1 years,Clerk,Kerala,Bengali,Training
+926,Ryan,30,F,High School,"teaching, electrical",3 years,Operator,Punjab,Marathi,Private job
+927,Alexander,28,F,Bachelor,"plumbing, electrical",3 years,Supervisor,Bihar,Hindi,Private job
+928,Jason,29,M,10th,computer,4 years,Assistant,Karnataka,Odia,Private job
+929,Ira,25,F,12th,mechanics,2 years,Operator,Maharashtra,English,Private job
+930,Pallavi,32,F,Postgraduate,"graphic design, mechanics",4 years,Government,Uttar Pradesh,Punjabi,Internship
+931,Saanvi,27,M,High School,"maintenance, electrical",4 years,Consultant,Karnataka,English,Private job
+932,Aarini,34,M,Vocational Training,"teaching, driving",3 years,Private,Uttar Pradesh,Tamil,Private job
+933,Teerth,24,F,10th,"driving, graphic design",0 years,Technician,Rajasthan,Punjabi,Internship
+934,Yashica,19,M,ITI,"mechanics, teaching",0 years,Government,Uttar Pradesh,Telugu,Government job
+935,Ranveer,23,M,PhD,wiring,3 years,Government,Tamil Nadu,Punjabi,Private job
+936,Yauvani,25,M,Diploma,driving,0 years,Clerk,Gujarat,Kannada,Private job
+937,Wyatt,25,M,High School,"driving, mechanics",4 years,Manager,West Bengal,Odia,Internship
+938,Shaurya,35,F,Undergraduate,"graphic design, typing, electrical",1 years,Clerk,Gujarat,English,Government job
+939,Zarna,21,M,Undergraduate,plumbing,3 years,Assistant,Uttar Pradesh,Telugu,Training
+940,Arjun,34,M,Undergraduate,"maintenance, carpentry",1 years,Government,Kerala,Gujarati,Government job
+941,Aashi,32,F,Bachelor,"computer, driving, electrical",5 years,Private,Kerala,Bengali,Private job
+942,Yadavi,22,F,Master,"teaching, electrical",3 years,Clerk,Tamil Nadu,Bengali,Internship
+943,Tripti,19,F,12th,"mechanics, maintenance",1 years,Supervisor,Odisha,Punjabi,Government job
+944,Siya,30,M,ITI,"maintenance, typing",1 years,Operator,Punjab,English,Government job
+945,Dominic,35,F,High School,plumbing,3 years,Assistant,Bihar,Bengali,Private job
+946,Chasmum,26,M,10th,typing,5 years,Operator,Bihar,Odia,Internship
+947,Omisha,34,F,ITI,mechanics,0 years,Government,Odisha,Telugu,Government job
+948,Bina,28,M,Certificate Course,"carpentry, maintenance, typing",1 years,Trainer,Odisha,Tamil,Training
+949,Amrita,29,F,Bachelor,"driving, teaching, typing",0 years,Private,Gujarat,Odia,Government job
+950,Balveer,35,M,Undergraduate,graphic design,3 years,Engineer,Rajasthan,Odia,Government job
+951,Vritti,23,M,Bachelor,"graphic design, electrical",0 years,Technician,West Bengal,Hindi,Training
+952,Ranbir,26,F,12th,teaching,4 years,Consultant,Maharashtra,Kannada,Training
+953,Mitesh,31,F,10th,carpentry,2 years,Trainer,Karnataka,English,Government job
+954,Gavin,20,F,12th,"mechanics, electrical",4 years,Supervisor,Karnataka,Telugu,Private job
+955,Frederick,21,F,Postgraduate,"teaching, electrical, graphic design",2 years,Technician,Gujarat,Bengali,Private job
+956,Samesh,23,M,Certificate Course,"accounting, teaching, electrical",5 years,Engineer,Uttar Pradesh,Marathi,Private job
+957,Sudiksha,19,M,Vocational Training,electrical,2 years,Engineer,Karnataka,Hindi,Internship
+958,Siddharth,27,F,10th,"graphic design, teaching, carpentry",0 years,Government,Gujarat,Odia,Private job
+959,Fitan,27,M,Vocational Training,"electrical, accounting, maintenance",0 years,Trainer,West Bengal,Hindi,Training
+960,Tanay,18,M,Bachelor,"driving, plumbing, wiring",1 years,Consultant,Tamil Nadu,Punjabi,Training
+961,Utkarsh,33,F,PhD,driving,4 years,Technician,Bihar,Marathi,Government job
+962,Devika,30,M,Diploma,driving,5 years,Engineer,Kerala,Gujarati,Internship
+963,Zaid,21,F,High School,"graphic design, driving, computer",5 years,Manager,Bihar,Tamil,Government job
+964,Ekapad,21,M,Undergraduate,accounting,2 years,Manager,Maharashtra,Marathi,Training
+965,Ranveer,23,M,Vocational Training,"accounting, typing",5 years,Consultant,Rajasthan,Kannada,Internship
+966,Advika,32,M,Undergraduate,"accounting, maintenance, driving",3 years,Consultant,Karnataka,Bengali,Training
+967,Yashoda,18,M,Postgraduate,computer,2 years,Technician,Punjab,Tamil,Training
+968,Yoshita,21,M,Vocational Training,"accounting, graphic design",0 years,Technician,Punjab,Gujarati,Private job
+969,Varenya,35,M,Bachelor,"carpentry, electrical, mechanics",4 years,Assistant,Punjab,Kannada,Private job
+970,Ekani,26,M,ITI,driving,1 years,Trainer,West Bengal,Bengali,Internship
+971,Kabir,20,F,12th,"mechanics, typing",5 years,Assistant,Bihar,Telugu,Government job
+972,Ladli,27,M,Undergraduate,"maintenance, typing",0 years,Operator,West Bengal,Odia,Internship
+973,Manya,24,F,Vocational Training,teaching,0 years,Assistant,Gujarat,Malayalam,Training
+974,Rehaan,25,M,Undergraduate,"typing, computer, maintenance",2 years,Assistant,Gujarat,Kannada,Training
+975,Advay,25,M,Diploma,graphic design,2 years,Engineer,West Bengal,Gujarati,Internship
+976,Jhalak,18,M,High School,plumbing,2 years,Engineer,Kerala,Telugu,Government job
+977,Charles,21,F,Bachelor,"maintenance, accounting",0 years,Clerk,Uttar Pradesh,Punjabi,Internship
+978,Kiaan,23,M,12th,teaching,1 years,Trainer,Kerala,Marathi,Private job
+979,Ekansh,23,M,12th,mechanics,5 years,Technician,Odisha,Bengali,Training
+980,Harish,34,F,Master,teaching,3 years,Government,Uttar Pradesh,Gujarati,Government job
+981,Oviya,23,M,Diploma,plumbing,0 years,Government,Odisha,Punjabi,Private job
+982,Kai,19,M,Diploma,"carpentry, maintenance",4 years,Assistant,Tamil Nadu,Punjabi,Private job
+983,Ojas,22,F,Postgraduate,computer,5 years,Clerk,Rajasthan,Kannada,Private job
+984,Daniel,18,M,Undergraduate,"plumbing, graphic design, typing",0 years,Operator,Maharashtra,Tamil,Private job
+985,Manthan,29,M,High School,"driving, computer",1 years,Government,Uttar Pradesh,Marathi,Government job
+986,Yasti,21,F,Vocational Training,"carpentry, teaching, driving",0 years,Supervisor,Gujarat,Gujarati,Internship
+987,Dakshesh,23,F,Diploma,typing,5 years,Clerk,Kerala,Telugu,Government job
+988,Ladli,20,F,12th,"maintenance, mechanics",3 years,Assistant,Rajasthan,Tamil,Private job
+989,Sachi,32,M,Diploma,"carpentry, electrical, accounting",3 years,Trainer,Rajasthan,Odia,Training
+990,Ladli,23,M,Vocational Training,"electrical, accounting",2 years,Government,Punjab,Malayalam,Government job
+991,Avi,23,M,Diploma,accounting,1 years,Operator,Maharashtra,Odia,Internship
+992,Pooja,35,F,Undergraduate,"plumbing, electrical",2 years,Supervisor,Bihar,Odia,Private job
+993,Elijah,34,F,Certificate Course,"wiring, carpentry, electrical",1 years,Consultant,West Bengal,Telugu,Training
+994,Wridesh,25,M,PhD,"computer, plumbing, driving",2 years,Supervisor,Odisha,Tamil,Government job
+995,Damini,29,M,12th,"driving, wiring",0 years,Supervisor,Kerala,Marathi,Government job
+996,Janani,22,F,Undergraduate,accounting,0 years,Consultant,Maharashtra,Tamil,Training
+997,Arjun,24,M,PhD,graphic design,2 years,Private,Tamil Nadu,Bengali,Private job
+998,Indali,28,M,High School,teaching,0 years,Technician,Kerala,Kannada,Training
+999,Zilmil,27,F,Postgraduate,teaching,3 years,Technician,Gujarat,Punjabi,Internship
+1000,Tristan,19,M,10th,maintenance,3 years,Manager,Odisha,Malayalam,Private job
+1001,Thomas,32,F,Certificate Course,"wiring, driving",3 years,Engineer,Rajasthan,English,Government job
+1002,Indira,31,M,10th,accounting,2 years,Supervisor,Maharashtra,Bengali,Training
+1003,Vedika,29,M,Certificate Course,"teaching, accounting, plumbing",5 years,Assistant,Gujarat,Tamil,Government job
+1004,Darika,33,F,PhD,"plumbing, mechanics",2 years,Assistant,Uttar Pradesh,Bengali,Training
+1005,Aarav,27,F,Undergraduate,"computer, plumbing",5 years,Government,Bihar,Gujarati,Government job
+1006,Michael,34,M,Diploma,"driving, graphic design",0 years,Manager,Karnataka,Odia,Government job
+1007,Ojas,25,M,Undergraduate,"wiring, graphic design, accounting",0 years,Private,Maharashtra,Tamil,Government job
+1008,Amol,22,M,Vocational Training,maintenance,2 years,Clerk,Bihar,English,Training
+1009,Bahadurjit,19,F,10th,maintenance,4 years,Engineer,Gujarat,Telugu,Government job
+1010,Vamakshi,28,F,Bachelor,computer,3 years,Consultant,Gujarat,Malayalam,Internship
+1011,Urishilla,28,F,Vocational Training,"typing, electrical, graphic design",1 years,Clerk,Odisha,Gujarati,Internship
+1012,Fariq,21,M,High School,"typing, driving, plumbing",1 years,Technician,Bihar,Tamil,Training
+1013,Reva,28,M,10th,"maintenance, mechanics, carpentry",0 years,Consultant,Uttar Pradesh,English,Internship
+1014,Adya,35,F,10th,"driving, plumbing",1 years,Government,Rajasthan,Hindi,Internship
+1015,Ekani,23,F,ITI,"teaching, graphic design, typing",3 years,Clerk,Bihar,English,Government job
+1016,Pallavi,31,F,PhD,"electrical, accounting",5 years,Government,Kerala,Kannada,Training
+1017,Lipika,20,F,Postgraduate,computer,0 years,Assistant,Rajasthan,Tamil,Training
+1018,Falguni,28,M,Bachelor,"mechanics, maintenance",4 years,Technician,Rajasthan,Tamil,Training
+1019,Meera,34,F,Master,"maintenance, accounting, mechanics",5 years,Technician,Rajasthan,Punjabi,Private job
+1020,Elijah,33,M,Master,carpentry,5 years,Private,Kerala,Punjabi,Private job
+1021,Upadhriti,30,F,Postgraduate,"driving, mechanics, wiring",5 years,Assistant,Odisha,English,Private job
+1022,Advik,26,F,ITI,maintenance,0 years,Engineer,Tamil Nadu,Telugu,Training
+1023,Aadi,19,F,10th,"driving, accounting",4 years,Consultant,Karnataka,Tamil,Government job
+1024,Amruta,26,F,PhD,"computer, mechanics, accounting",2 years,Clerk,Odisha,Tamil,Government job
+1025,Anika,33,F,12th,"wiring, driving, carpentry",0 years,Clerk,Maharashtra,Malayalam,Government job
+1026,Diya,34,F,Undergraduate,"plumbing, computer",4 years,Supervisor,Gujarat,Bengali,Private job
+1027,Udant,25,M,Certificate Course,"graphic design, teaching",0 years,Consultant,Maharashtra,Telugu,Private job
+1028,Chandani,32,F,Vocational Training,electrical,1 years,Manager,Punjab,Tamil,Government job
+1029,Jeremiah,34,F,Undergraduate,accounting,5 years,Assistant,Kerala,Odia,Internship
+1030,Rehaan,27,M,10th,"plumbing, driving, mechanics",2 years,Trainer,Uttar Pradesh,Tamil,Private job
+1031,Yatan,24,M,Vocational Training,"accounting, driving",2 years,Consultant,Kerala,Gujarati,Internship
+1032,Urishilla,20,F,PhD,"computer, electrical, mechanics",1 years,Technician,Odisha,Odia,Government job
+1033,Omya,21,M,Vocational Training,teaching,4 years,Manager,Karnataka,Tamil,Internship
+1034,Yashodhara,20,F,Bachelor,"electrical, teaching",5 years,Trainer,West Bengal,Malayalam,Government job
+1035,Tamanna,21,F,ITI,"typing, driving, mechanics",3 years,Operator,West Bengal,English,Government job
+1036,Ria,31,F,Undergraduate,"driving, maintenance, mechanics",0 years,Clerk,Karnataka,Punjabi,Internship
+1037,Nidhi,22,M,Undergraduate,"accounting, mechanics, graphic design",5 years,Supervisor,Punjab,Malayalam,Private job
+1038,Jairaj,27,M,PhD,typing,3 years,Supervisor,Bihar,Malayalam,Internship
+1039,Jyoti,31,F,Diploma,"carpentry, electrical",1 years,Manager,West Bengal,Odia,Internship
+1040,Anay,29,M,Master,"carpentry, graphic design, maintenance",0 years,Supervisor,Uttar Pradesh,Telugu,Private job
+1041,Ishanvi,30,M,Certificate Course,"graphic design, computer, driving",0 years,Trainer,West Bengal,Marathi,Internship
+1042,Falak,24,F,Master,carpentry,1 years,Government,West Bengal,English,Internship
+1043,Falak,23,F,Certificate Course,"carpentry, accounting, maintenance",0 years,Government,West Bengal,Gujarati,Internship
+1044,Janya,20,M,Bachelor,"wiring, mechanics",2 years,Trainer,Kerala,Malayalam,Government job
+1045,Mitesh,21,M,Diploma,"driving, electrical",2 years,Private,Punjab,Kannada,Government job
+1046,Chandani,33,F,Undergraduate,"electrical, wiring",4 years,Operator,Maharashtra,Hindi,Training
+1047,Deepa,22,F,Postgraduate,"teaching, computer, graphic design",4 years,Supervisor,West Bengal,Hindi,Training
+1048,Isaac,35,F,Bachelor,"graphic design, mechanics",3 years,Clerk,Rajasthan,Hindi,Government job
+1049,Urvi,25,F,ITI,teaching,4 years,Manager,Odisha,Kannada,Government job
+1050,Ayaan,22,M,12th,"accounting, graphic design, carpentry",1 years,Assistant,West Bengal,Malayalam,Government job
+1051,Lekha,28,M,PhD,carpentry,4 years,Manager,Punjab,Malayalam,Private job
+1052,Falguni,20,F,Vocational Training,plumbing,3 years,Government,Punjab,Malayalam,Training
+1053,Warjas,22,M,PhD,"electrical, typing, maintenance",4 years,Supervisor,Maharashtra,Gujarati,Internship
+1054,Ucchal,28,M,10th,driving,2 years,Supervisor,Kerala,Telugu,Internship
+1055,Balvan,27,F,ITI,"mechanics, wiring",3 years,Supervisor,Uttar Pradesh,Punjabi,Internship
+1056,Ria,20,F,10th,"maintenance, accounting",1 years,Technician,Uttar Pradesh,English,Internship
+1057,Nandini,22,F,10th,computer,0 years,Government,Uttar Pradesh,Marathi,Private job
+1058,Umang,21,F,Diploma,"computer, carpentry",3 years,Technician,Punjab,Tamil,Government job
+1059,Frado,32,F,10th,typing,1 years,Operator,West Bengal,Odia,Private job
+1060,Ekansh,18,F,ITI,"typing, graphic design, teaching",4 years,Operator,Odisha,Malayalam,Private job
+1061,Zayan,29,M,ITI,"accounting, plumbing",3 years,Manager,Odisha,English,Training
+1062,Yashoda,22,F,ITI,"carpentry, graphic design",3 years,Private,West Bengal,Hindi,Internship
+1063,Jairaj,24,M,Postgraduate,"mechanics, plumbing",2 years,Operator,Karnataka,Odia,Government job
+1064,Dominic,23,F,Certificate Course,wiring,3 years,Engineer,Punjab,Odia,Government job
+1065,Falan,27,M,Bachelor,mechanics,1 years,Technician,Gujarat,Kannada,Private job
+1066,Nimrat,33,M,Vocational Training,"driving, wiring",0 years,Supervisor,Tamil Nadu,Marathi,Training
+1067,Ekbal,28,F,Diploma,teaching,0 years,Assistant,West Bengal,Tamil,Training
+1068,Abhiram,34,M,Undergraduate,electrical,3 years,Assistant,Bihar,Odia,Internship
+1069,Agastya,31,F,Master,graphic design,2 years,Supervisor,Tamil Nadu,Telugu,Government job
+1070,Tanmayi,30,M,High School,"computer, graphic design, typing",4 years,Government,West Bengal,Tamil,Internship
+1071,Gaurang,32,F,High School,"typing, maintenance, driving",4 years,Clerk,Tamil Nadu,Odia,Internship
+1072,Quincy,29,F,Undergraduate,"plumbing, typing",5 years,Trainer,Odisha,Odia,Internship
+1073,Finn,34,F,PhD,"graphic design, wiring, carpentry",5 years,Assistant,Maharashtra,Odia,Private job
+1074,Dalaja,35,F,Diploma,computer,2 years,Assistant,Tamil Nadu,Odia,Government job
+1075,Ijaya,20,F,Vocational Training,accounting,5 years,Operator,Karnataka,Tamil,Private job
+1076,Kiaan,20,M,Postgraduate,"accounting, wiring",4 years,Consultant,Bihar,English,Internship
+1077,Hemal,25,F,12th,electrical,0 years,Consultant,Gujarat,Gujarati,Government job
+1078,Azad,21,F,ITI,"computer, graphic design, carpentry",5 years,Private,Tamil Nadu,Tamil,Private job
+1079,Lajita,19,M,10th,maintenance,2 years,Technician,Karnataka,Kannada,Internship
+1080,Jacob,20,F,Vocational Training,"driving, teaching",0 years,Consultant,Maharashtra,Gujarati,Internship
+1081,Janaki,32,F,Diploma,"mechanics, maintenance",5 years,Supervisor,Punjab,Gujarati,Internship
+1082,Indrajit,23,M,ITI,teaching,5 years,Operator,Odisha,Marathi,Training
+1083,Vedant,18,M,PhD,typing,5 years,Operator,Gujarat,Hindi,Internship
+1084,Hemang,19,F,PhD,"driving, accounting, plumbing",1 years,Manager,Odisha,Odia,Internship
+1085,Edhitha,18,F,Master,typing,3 years,Private,Punjab,Malayalam,Private job
+1086,Sara,28,F,PhD,graphic design,0 years,Engineer,Uttar Pradesh,Bengali,Training
+1087,Irya,33,M,High School,maintenance,5 years,Technician,Uttar Pradesh,English,Training
+1088,Neel,23,M,ITI,"computer, electrical",1 years,Consultant,Bihar,Hindi,Training
+1089,Quincy,26,M,PhD,"plumbing, typing",5 years,Manager,Uttar Pradesh,Tamil,Internship
+1090,Samesh,25,F,Master,teaching,4 years,Government,Odisha,Bengali,Training
+1091,Aadi,26,F,PhD,electrical,2 years,Operator,Gujarat,Hindi,Training
+1092,Samesh,26,F,Vocational Training,"maintenance, graphic design, electrical",3 years,Engineer,Maharashtra,Telugu,Government job
+1093,Pahal,33,M,Diploma,"mechanics, carpentry, typing",2 years,Technician,West Bengal,Hindi,Government job
+1094,Zarna,21,M,High School,plumbing,3 years,Assistant,Gujarat,Marathi,Private job
+1095,Rishi,29,M,10th,"accounting, computer",2 years,Manager,Punjab,Kannada,Private job
+1096,Yug,32,F,10th,maintenance,1 years,Manager,Karnataka,Punjabi,Government job
+1097,Simon,31,F,Diploma,"accounting, graphic design, computer",3 years,Technician,Punjab,Marathi,Internship
+1098,Neelima,18,M,Certificate Course,carpentry,4 years,Manager,Bihar,Malayalam,Training
+1099,Yashica,35,M,Certificate Course,"graphic design, wiring, mechanics",1 years,Operator,Maharashtra,Tamil,Internship
+1100,Hiral,27,F,Certificate Course,"graphic design, maintenance, typing",2 years,Trainer,Gujarat,English,Private job
+1101,Laksh,24,F,ITI,teaching,1 years,Consultant,Bihar,Tamil,Private job
+1102,Henry,18,M,12th,"plumbing, carpentry",3 years,Consultant,Punjab,Tamil,Government job
+1103,Mugdha,27,F,Bachelor,"driving, teaching",1 years,Trainer,Tamil Nadu,Tamil,Government job
+1104,Aarush,35,F,ITI,"electrical, accounting, teaching",0 years,Trainer,Kerala,Gujarati,Training
+1105,Krisha,18,F,Bachelor,"wiring, graphic design, accounting",1 years,Manager,Rajasthan,Punjabi,Private job
+1106,Vasatika,32,M,Bachelor,"plumbing, mechanics",4 years,Private,Uttar Pradesh,Gujarati,Training
+1107,Urmi,25,M,Undergraduate,"computer, wiring, plumbing",0 years,Engineer,Rajasthan,Malayalam,Internship
+1108,Aadhya,30,M,ITI,graphic design,1 years,Technician,Karnataka,Punjabi,Internship
+1109,Chatresh,29,M,ITI,carpentry,4 years,Technician,Karnataka,Odia,Private job
+1110,Nakul,28,F,10th,"carpentry, teaching",4 years,Trainer,Kerala,Odia,Private job
+1111,Jasmit,28,M,Master,typing,0 years,Operator,Karnataka,English,Training
+1112,Mitali,26,M,High School,"electrical, graphic design, mechanics",4 years,Technician,Odisha,Odia,Training
+1113,Balhaar,25,F,Diploma,computer,4 years,Assistant,Tamil Nadu,Bengali,Government job
+1114,Yutika,22,F,Master,computer,0 years,Operator,Kerala,Kannada,Private job
+1115,Tejas,24,F,10th,computer,0 years,Government,Punjab,Marathi,Private job
+1116,Neelima,33,F,High School,"computer, mechanics, carpentry",2 years,Government,Punjab,Bengali,Training
+1117,Mitesh,25,M,Diploma,"carpentry, mechanics, electrical",3 years,Assistant,Gujarat,Punjabi,Private job
+1118,Falak,24,M,12th,accounting,4 years,Operator,West Bengal,Tamil,Government job
+1119,Pratyush,33,F,Master,"teaching, carpentry",3 years,Assistant,Uttar Pradesh,Hindi,Internship
+1120,Ekantika,24,F,12th,"driving, typing, mechanics",5 years,Private,Tamil Nadu,Malayalam,Private job
+1121,Jason,35,M,ITI,"driving, plumbing",0 years,Technician,Maharashtra,Odia,Training
+1122,Manya,19,F,Certificate Course,plumbing,2 years,Government,Bihar,Malayalam,Training
+1123,Ekavir,29,M,Vocational Training,"graphic design, computer",3 years,Supervisor,Maharashtra,Marathi,Internship
+1124,Maanav,27,M,Certificate Course,"graphic design, mechanics",1 years,Supervisor,Uttar Pradesh,Malayalam,Internship
+1125,Zilmil,28,F,High School,"electrical, maintenance",2 years,Private,Uttar Pradesh,Punjabi,Private job
+1126,Charan,26,M,Diploma,electrical,1 years,Manager,Karnataka,Hindi,Internship
+1127,Yashawini,19,F,ITI,"plumbing, driving, accounting",2 years,Clerk,Tamil Nadu,Kannada,Private job
+1128,Krish,21,M,Diploma,"graphic design, electrical",2 years,Operator,Maharashtra,Kannada,Internship
+1129,Kamya,23,F,Undergraduate,"wiring, electrical",0 years,Operator,Maharashtra,Hindi,Private job
+1130,Hemang,20,M,Vocational Training,"carpentry, accounting, teaching",2 years,Operator,Gujarat,Gujarati,Government job
+1131,Qushi,24,F,12th,"teaching, carpentry, maintenance",5 years,Government,Kerala,Odia,Government job
+1132,Indali,25,F,Postgraduate,driving,2 years,Technician,Tamil Nadu,Bengali,Government job
+1133,Eshana,22,F,Certificate Course,carpentry,0 years,Consultant,Bihar,Bengali,Private job
+1134,Amol,34,M,Bachelor,"maintenance, computer",1 years,Engineer,Karnataka,Bengali,Government job
+1135,Reyansh,21,M,Master,"maintenance, plumbing, carpentry",3 years,Consultant,Gujarat,Gujarati,Training
+1136,Wazir,26,F,Master,"maintenance, carpentry",5 years,Supervisor,Rajasthan,English,Training
+1137,Jeevika,35,M,High School,"carpentry, teaching, plumbing",1 years,Clerk,Maharashtra,Malayalam,Government job
+1138,Jyoti,25,F,High School,accounting,2 years,Consultant,West Bengal,Malayalam,Training
+1139,Ayushman,34,F,ITI,mechanics,1 years,Assistant,Punjab,Kannada,Government job
+1140,Mohini,31,F,Certificate Course,driving,5 years,Consultant,Gujarat,Kannada,Internship
+1141,Darika,30,F,Master,maintenance,3 years,Assistant,West Bengal,Telugu,Government job
+1142,Eshana,27,F,Postgraduate,"maintenance, typing",1 years,Manager,Rajasthan,Marathi,Government job
+1143,Wazir,31,F,Diploma,carpentry,3 years,Supervisor,Gujarat,Telugu,Internship
+1144,Charita,34,M,High School,"plumbing, wiring, maintenance",2 years,Trainer,Kerala,Hindi,Private job
+1145,Luke,35,M,Postgraduate,"maintenance, graphic design, wiring",5 years,Supervisor,Kerala,Marathi,Internship
+1146,Balendra,23,M,PhD,"driving, mechanics",5 years,Operator,Punjab,Hindi,Government job
+1147,Gunbir,21,F,Master,"driving, carpentry",4 years,Assistant,Punjab,Hindi,Private job
+1148,Manbir,30,F,Vocational Training,"carpentry, plumbing",1 years,Assistant,Uttar Pradesh,Hindi,Training
+1149,Alka,22,M,Bachelor,graphic design,2 years,Trainer,Kerala,Odia,Private job
+1150,Chaaya,28,F,Master,"wiring, plumbing, typing",4 years,Trainer,Odisha,Gujarati,Private job
+1151,Watika,22,M,PhD,driving,1 years,Clerk,Tamil Nadu,Telugu,Internship
+1152,Eesha,30,M,Bachelor,"wiring, accounting, computer",2 years,Trainer,Rajasthan,Odia,Private job
+1153,Luke,32,F,ITI,"plumbing, teaching, typing",1 years,Private,Tamil Nadu,Telugu,Government job
+1154,Brinda,31,F,Bachelor,"wiring, electrical, maintenance",0 years,Supervisor,Karnataka,Kannada,Training
+1155,Luke,35,M,Undergraduate,typing,3 years,Engineer,Tamil Nadu,Gujarati,Private job
+1156,Oliver,26,F,High School,"accounting, driving",3 years,Manager,Odisha,Gujarati,Government job
+1157,Gaurav,18,F,Vocational Training,"driving, mechanics",2 years,Operator,Maharashtra,English,Internship
+1158,Liam,33,F,ITI,"plumbing, teaching, typing",2 years,Trainer,Punjab,English,Private job
+1159,Elijah,23,F,Vocational Training,"typing, computer",2 years,Clerk,Maharashtra,Gujarati,Private job
+1160,Yauvani,26,F,PhD,"maintenance, graphic design",5 years,Assistant,Gujarat,Punjabi,Internship
+1161,Eiravati,19,F,Master,"mechanics, teaching, electrical",0 years,Supervisor,Odisha,Gujarati,Internship
+1162,Yatan,19,F,Bachelor,"driving, graphic design",5 years,Manager,Odisha,Marathi,Private job
+1163,Henry,34,F,Bachelor,"accounting, graphic design, mechanics",4 years,Consultant,Gujarat,Punjabi,Private job
+1164,Mohini,26,M,Bachelor,accounting,3 years,Private,Kerala,Bengali,Government job
+1165,Avni,30,M,High School,mechanics,1 years,Supervisor,Punjab,Bengali,Government job
+1166,Vaishnavi,33,F,Postgraduate,carpentry,2 years,Operator,Punjab,Kannada,Private job
+1167,Jagvi,26,M,ITI,computer,5 years,Private,West Bengal,Malayalam,Government job
+1168,Yashoda,28,F,Certificate Course,maintenance,4 years,Assistant,Bihar,Marathi,Internship
+1169,Vansha,29,M,Undergraduate,teaching,5 years,Trainer,Uttar Pradesh,Punjabi,Private job
+1170,Harini,28,F,Master,"wiring, driving",3 years,Technician,Odisha,Hindi,Private job
+1171,Wriddhish,24,M,Bachelor,"plumbing, teaching",2 years,Private,West Bengal,Bengali,Internship
+1172,Chaman,24,F,12th,"plumbing, typing, mechanics",0 years,Government,Bihar,English,Training
+1173,Tanvi,18,M,Postgraduate,"teaching, typing, driving",2 years,Private,Punjab,English,Internship
+1174,Daniel,33,M,Undergraduate,carpentry,2 years,Operator,Punjab,Telugu,Private job
+1175,Ranbir,25,F,ITI,"electrical, carpentry, graphic design",0 years,Clerk,Rajasthan,Kannada,Government job
+1176,Reva,21,F,12th,"maintenance, wiring",3 years,Engineer,Odisha,English,Training
+1177,Gavin,26,F,PhD,"computer, wiring, maintenance",4 years,Technician,Punjab,Gujarati,Training
+1178,Lopa,21,M,10th,"graphic design, maintenance",1 years,Government,Gujarat,Hindi,Private job
+1179,Simon,20,F,10th,"driving, computer",0 years,Private,Tamil Nadu,Hindi,Training
+1180,Odika,35,F,Bachelor,"accounting, computer, typing",4 years,Engineer,Odisha,Tamil,Internship
+1181,Anika,34,F,Diploma,"maintenance, electrical, wiring",1 years,Clerk,Tamil Nadu,Malayalam,Government job
+1182,Arin,35,M,Undergraduate,"mechanics, accounting, electrical",0 years,Operator,Odisha,Marathi,Private job
+1183,Jagvi,21,M,Certificate Course,typing,0 years,Consultant,Bihar,Bengali,Private job
+1184,Falan,20,M,Diploma,wiring,5 years,Trainer,Punjab,Hindi,Training
+1185,Ayaan,25,M,Vocational Training,"graphic design, typing",0 years,Manager,Tamil Nadu,Hindi,Training
+1186,Nitara,27,M,ITI,"plumbing, accounting, electrical",1 years,Operator,Rajasthan,Punjabi,Internship
+1187,Ekaja,22,M,10th,driving,1 years,Technician,Odisha,English,Private job
+1188,Chatura,33,F,Diploma,"mechanics, carpentry",2 years,Private,West Bengal,Tamil,Training
+1189,Tarak,19,F,Diploma,"typing, mechanics, teaching",2 years,Consultant,Bihar,Tamil,Training
+1190,Chakradhar,29,F,Vocational Training,"plumbing, wiring, accounting",0 years,Operator,Odisha,Odia,Training
+1191,Neel,35,F,Bachelor,driving,5 years,Supervisor,Rajasthan,English,Private job
+1192,Girindra,28,M,Diploma,"maintenance, graphic design, accounting",2 years,Government,Punjab,Kannada,Internship
+1193,Bina,32,M,12th,"mechanics, electrical",2 years,Supervisor,Maharashtra,Punjabi,Training
+1194,Zashil,19,M,Bachelor,carpentry,4 years,Consultant,Bihar,Bengali,Government job
+1195,Yagnesh,34,M,ITI,"mechanics, teaching, carpentry",4 years,Consultant,Bihar,Telugu,Internship
+1196,Bimala,22,M,Certificate Course,accounting,5 years,Engineer,Uttar Pradesh,Punjabi,Private job
+1197,Aarav,32,F,Postgraduate,"computer, mechanics, driving",0 years,Private,Kerala,Marathi,Training
+1198,Nakul,31,M,Diploma,computer,1 years,Technician,Bihar,Telugu,Government job
+1199,Vrishti,29,F,Postgraduate,carpentry,1 years,Government,Maharashtra,Bengali,Internship
+1200,Baghyawati,24,F,Certificate Course,typing,3 years,Manager,Maharashtra,Hindi,Government job

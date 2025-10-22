@@ -1,201 +1,501 @@
 job_id,job_title,company_name,required_skills,experience_required,education_required,salary,job_type,location,region,language_preference,apply_link
-1,Plumber,"Silva, Torres and Wells","computer, maintenance",0+ years,Bachelor,₹44192 per month,Operator,East Vicki,Maharashtra,English,http://www.paul.com/
-2,Plumber,"Reed, Ward and Griffin",wiring,3+ years,Bachelor,₹19108 per month,Government,Meghantown,Bihar,English,https://sanchez.com/
-3,Plumber,Williams-Clayton,computer,1+ years,ITI,₹47932 per month,Government,Port Lisa,Bihar,Malayalam,https://www.maynard.com/
-4,Plumber,"Rodgers, Klein and Mann","plumbing, electrical, mechanics",2+ years,Diploma,₹31617 per month,Government,New Sergio,Maharashtra,Tamil,https://garcia-cervantes.biz/
-5,Accountant,Roth Group,"computer, maintenance, wiring",2+ years,ITI,₹23483 per month,Operator,Meganbury,Bihar,Hindi,http://www.baker-marshall.biz/
-6,Computer Operator,"Blackwell, Valencia and Hicks","plumbing, accounting",3+ years,Diploma,₹15905 per month,Clerk,West Dianashire,Uttar Pradesh,Hindi,http://adams.org/
-7,Plumber,Fisher-Ramirez,"plumbing, wiring",2+ years,Diploma,₹42376 per month,Private,Michaelfurt,Kerala,Tamil,https://hayes.net/
-8,Computer Operator,Mcbride PLC,maintenance,0+ years,Master,₹24496 per month,Technician,Glassmouth,Kerala,Telugu,https://www.anthony.com/
-9,Accountant,Benson-Galvan,"mechanics, electrical",3+ years,Master,₹29529 per month,Operator,Port Rachel,Tamil Nadu,Tamil,https://dean.info/
-10,Computer Operator,"Francis, Mitchell and Tran","accounting, mechanics, wiring",2+ years,Bachelor,₹18711 per month,Operator,Derekland,Kerala,Tamil,http://www.gordon-kelley.biz/
-11,Electrical Technician,"King, Clements and Hudson",plumbing,0+ years,Bachelor,₹48857 per month,Private,North Bryanport,Kerala,English,http://www.bell.com/
-12,Plumber,"Scott, Cannon and Moyer","accounting, electrical",0+ years,ITI,₹38679 per month,Private,South Rachelberg,Kerala,Tamil,https://smith.com/
-13,Electrical Technician,Johnson-Summers,"wiring, computer, electrical",2+ years,Diploma,₹32326 per month,Private,Lopezview,Uttar Pradesh,Tamil,http://www.hayes-lopez.biz/
-14,Accountant,Gonzalez-Colon,wiring,2+ years,Master,₹28003 per month,Clerk,Lake Nicole,Kerala,English,https://www.kennedy.org/
-15,Accountant,Martin Group,"electrical, plumbing",3+ years,Bachelor,₹36533 per month,Clerk,Lake Miranda,Uttar Pradesh,Malayalam,http://www.greene.com/
-16,Plumber,Harris-Green,"accounting, electrical, wiring",2+ years,Master,₹24288 per month,Government,Thompsonside,Kerala,Telugu,https://marshall.net/
-17,Computer Operator,Hammond-Kennedy,electrical,0+ years,Master,₹10156 per month,Government,East Donald,Kerala,Hindi,https://www.boone-collins.com/
-18,Plumber,"Wilson, Garrison and Moore","electrical, accounting, wiring",1+ years,Diploma,₹19681 per month,Private,Sabrinaberg,Uttar Pradesh,Tamil,https://www.williams.com/
-19,Accountant,"Kerr, Nichols and Gaines","maintenance, plumbing, wiring",2+ years,Diploma,₹49378 per month,Operator,Williamsfort,Maharashtra,Telugu,https://vargas-fernandez.biz/
-20,Plumber,"Brown, Jones and Barajas",mechanics,3+ years,Diploma,₹31894 per month,Clerk,South Shaunville,Kerala,Telugu,http://www.cantrell-james.com/
-21,Accountant,Cooper-Baker,plumbing,3+ years,ITI,₹21408 per month,Technician,Smithborough,Tamil Nadu,Hindi,http://www.mack-williams.net/
-22,Mechanic,"Hughes, Miller and Edwards","mechanics, computer",1+ years,Diploma,₹41715 per month,Technician,Port Joseph,Tamil Nadu,English,http://evans.com/
-23,Accountant,"Munoz, Jones and Johnson","mechanics, accounting, maintenance",0+ years,Diploma,₹15818 per month,Operator,East Nicoleville,Tamil Nadu,Hindi,https://hoffman-jones.com/
-24,Mechanic,Flores Ltd,maintenance,1+ years,Diploma,₹17431 per month,Operator,Lake Michelle,Bihar,Telugu,https://www.white.com/
-25,Computer Operator,"Wilson, Cooper and Sandoval",accounting,2+ years,Master,₹37541 per month,Operator,Ericborough,Tamil Nadu,Hindi,https://jackson.info/
-26,Electrical Technician,"Williams, Cain and Scott","wiring, mechanics",1+ years,ITI,₹15052 per month,Technician,Carpenterbury,Uttar Pradesh,Malayalam,https://peters.info/
-27,Electrical Technician,"Phillips, Young and Marshall",mechanics,0+ years,Diploma,₹21488 per month,Private,Cohenfort,Tamil Nadu,Hindi,http://www.soto.com/
-28,Electrical Technician,Chang-Floyd,"plumbing, accounting, electrical",2+ years,ITI,₹14015 per month,Technician,West Cindyport,Kerala,Hindi,http://www.hodges.com/
-29,Mechanic,"Johnson, Lyons and Wolfe","wiring, mechanics, computer",0+ years,ITI,₹11191 per month,Private,East Christina,Uttar Pradesh,Tamil,https://www.sutton-taylor.org/
-30,Mechanic,Cox-Saunders,"computer, electrical",3+ years,High School,₹35385 per month,Government,North Kristinchester,Uttar Pradesh,Hindi,http://morales.com/
-31,Plumber,Taylor-Ayers,"plumbing, maintenance, computer",1+ years,Bachelor,₹29524 per month,Private,Jonesville,Uttar Pradesh,Malayalam,http://www.gonzalez-roth.com/
-32,Electrical Technician,Peters Ltd,"wiring, mechanics, accounting",3+ years,High School,₹48979 per month,Technician,Jeffreyburgh,Uttar Pradesh,Telugu,http://www.smith.org/
-33,Electrical Technician,Burton-Bond,"wiring, accounting, electrical",0+ years,High School,₹21008 per month,Private,Port Matthew,Bihar,Telugu,http://www.garcia-king.net/
-34,Accountant,Reed and Sons,"computer, electrical",2+ years,Diploma,₹13715 per month,Clerk,East Cynthiaville,Uttar Pradesh,Malayalam,http://fitzpatrick.com/
-35,Plumber,"Young, Zimmerman and Williams",mechanics,0+ years,ITI,₹32050 per month,Technician,Cookville,Maharashtra,Malayalam,https://perez-rollins.com/
-36,Computer Operator,"Daniels, Stephens and Graham",maintenance,0+ years,High School,₹30761 per month,Government,Port Sara,Maharashtra,Telugu,https://hall-brown.com/
-37,Mechanic,Stuart-Taylor,electrical,3+ years,High School,₹49961 per month,Technician,West Stephanie,Maharashtra,English,https://www.williams-horton.com/
-38,Plumber,"Bennett, Jordan and Jackson",computer,2+ years,High School,₹33690 per month,Clerk,Port Christopherchester,Maharashtra,English,https://castillo-mckinney.com/
-39,Plumber,Ochoa-Long,"computer, electrical",3+ years,Bachelor,₹18172 per month,Private,Port Lisatown,Tamil Nadu,Tamil,https://lane-garner.com/
-40,Computer Operator,"Gentry, Burton and Holt","electrical, accounting",1+ years,ITI,₹42344 per month,Operator,North Tara,Kerala,Hindi,https://www.patterson-brennan.com/
-41,Plumber,"Brown, Jones and Bowen",wiring,0+ years,Master,₹20385 per month,Government,Lake Sierraborough,Maharashtra,Tamil,https://espinoza.biz/
-42,Mechanic,Haynes-Hernandez,electrical,2+ years,Diploma,₹14985 per month,Government,Port Keith,Kerala,Hindi,https://www.hill.net/
-43,Accountant,Jones-Jones,accounting,1+ years,ITI,₹24331 per month,Private,East Ricky,Kerala,Telugu,https://jordan.com/
-44,Plumber,"Mahoney, Rivera and Jones",electrical,1+ years,Bachelor,₹43256 per month,Clerk,West Brittany,Tamil Nadu,Tamil,https://hall.com/
-45,Electrical Technician,Poole-Taylor,"maintenance, accounting, computer",1+ years,Master,₹32029 per month,Operator,North Kyleshire,Kerala,Malayalam,https://martinez-bell.info/
-46,Computer Operator,"Newman, Mendoza and Shaffer","accounting, electrical, computer",2+ years,Bachelor,₹18771 per month,Operator,South Kimberly,Maharashtra,Telugu,https://lopez-elliott.info/
-47,Plumber,"Smith, Mason and Watson","accounting, mechanics, electrical",1+ years,Bachelor,₹34617 per month,Technician,Faulknerfort,Kerala,Telugu,https://www.phillips.com/
-48,Electrical Technician,Rodriguez-Winters,"mechanics, maintenance, plumbing",3+ years,Master,₹49482 per month,Technician,Port Paulview,Uttar Pradesh,Hindi,https://harris-garrett.net/
-49,Computer Operator,"Payne, Williams and Richardson",computer,3+ years,Bachelor,₹39510 per month,Clerk,Pettyside,Maharashtra,Telugu,http://www.booker-mosley.info/
-50,Computer Operator,Conley Group,"computer, mechanics",3+ years,Diploma,₹29493 per month,Technician,New Angie,Tamil Nadu,Telugu,https://www.smith.biz/
-51,Plumber,Rice-Norris,plumbing,0+ years,Master,₹22036 per month,Government,Lake Amanda,Maharashtra,Tamil,https://www.brown.info/
-52,Plumber,Mcguire Ltd,"computer, maintenance",1+ years,Bachelor,₹33044 per month,Private,New Nicholasfurt,Uttar Pradesh,Tamil,http://diaz.com/
-53,Electrical Technician,Bradford PLC,"plumbing, computer",2+ years,ITI,₹39914 per month,Private,Hartside,Bihar,English,https://bishop.com/
-54,Electrical Technician,Alexander Inc,"mechanics, maintenance, electrical",0+ years,Diploma,₹16729 per month,Operator,Tylerfort,Uttar Pradesh,Telugu,https://www.harris-lee.info/
-55,Electrical Technician,West-Whitehead,wiring,3+ years,ITI,₹17134 per month,Private,North Josephton,Uttar Pradesh,Tamil,http://thompson.biz/
-56,Computer Operator,Norton Group,maintenance,1+ years,High School,₹35062 per month,Clerk,Scottborough,Bihar,Tamil,http://www.avery.com/
-57,Electrical Technician,Fletcher and Sons,plumbing,0+ years,Diploma,₹44288 per month,Technician,North Brian,Uttar Pradesh,Telugu,https://www.smith-brown.com/
-58,Mechanic,Long-Snyder,"computer, electrical, maintenance",1+ years,High School,₹43911 per month,Operator,Fuentesside,Tamil Nadu,Tamil,http://levine.com/
-59,Electrical Technician,Edwards Inc,"electrical, mechanics",1+ years,Diploma,₹30373 per month,Private,Hollandmouth,Uttar Pradesh,Telugu,http://www.perez-schaefer.com/
-60,Mechanic,"Wallace, Wilson and Peck",maintenance,0+ years,Master,₹35473 per month,Private,New Victorton,Tamil Nadu,Malayalam,https://tyler.com/
-61,Plumber,"Lewis, Bowen and Webb","accounting, electrical",0+ years,ITI,₹21579 per month,Private,Kimberg,Tamil Nadu,Tamil,https://www.spencer.com/
-62,Accountant,"Hughes, Thomas and Mendez","mechanics, wiring, plumbing",2+ years,Master,₹26456 per month,Technician,Goodmanborough,Maharashtra,Tamil,http://www.george-gordon.biz/
-63,Accountant,Nunez-Macias,mechanics,0+ years,Master,₹13959 per month,Operator,Fisherstad,Bihar,English,http://wallace.com/
-64,Electrical Technician,"Smith, Fletcher and Mathews",wiring,1+ years,ITI,₹36462 per month,Private,Leblancborough,Bihar,English,https://www.smith.org/
-65,Mechanic,Mason-Ortiz,maintenance,2+ years,High School,₹31150 per month,Operator,Colefort,Tamil Nadu,Malayalam,http://wilson.com/
-66,Mechanic,"Williams, Rodriguez and Sanchez","maintenance, electrical, computer",2+ years,High School,₹37413 per month,Technician,West Karen,Uttar Pradesh,Telugu,http://curtis.net/
-67,Computer Operator,Nguyen-Rogers,"maintenance, mechanics",0+ years,Bachelor,₹21251 per month,Operator,Jenkinsborough,Kerala,English,http://henry.net/
-68,Mechanic,Williams Ltd,"computer, wiring, mechanics",3+ years,Diploma,₹25981 per month,Technician,North Kevin,Uttar Pradesh,Telugu,https://crawford.com/
-69,Mechanic,"Brown, Collins and Sullivan","mechanics, electrical",1+ years,Master,₹44977 per month,Private,Port Thomas,Uttar Pradesh,Tamil,https://www.jackson.info/
-70,Accountant,"Rodriguez, Pearson and Bell","mechanics, maintenance",2+ years,ITI,₹11206 per month,Operator,Howardstad,Kerala,Telugu,https://www.butler.net/
-71,Mechanic,Mcmahon-Stewart,"accounting, wiring, maintenance",1+ years,Diploma,₹17209 per month,Government,South Davidland,Bihar,English,https://smith.com/
-72,Computer Operator,Woodard Inc,"maintenance, electrical, accounting",0+ years,High School,₹21641 per month,Government,New John,Maharashtra,Tamil,http://www.lucas.com/
-73,Computer Operator,Johnson Ltd,"maintenance, accounting, plumbing",1+ years,High School,₹24746 per month,Operator,Hoffmanmouth,Uttar Pradesh,Telugu,http://www.whitaker.com/
-74,Electrical Technician,"Berry, Fritz and Jensen","plumbing, accounting",1+ years,Diploma,₹23410 per month,Clerk,Bettyville,Tamil Nadu,Tamil,https://www.thomas.com/
-75,Computer Operator,Shelton-Elliott,"accounting, electrical, maintenance",2+ years,High School,₹46018 per month,Government,Port Elizabethburgh,Maharashtra,Telugu,https://www.lee.com/
-76,Mechanic,Thompson Inc,"electrical, accounting, mechanics",1+ years,Diploma,₹29889 per month,Technician,New Craig,Bihar,Malayalam,https://novak.com/
-77,Accountant,Stephens LLC,accounting,3+ years,ITI,₹48244 per month,Government,Marcside,Bihar,English,http://schultz-jackson.com/
-78,Electrical Technician,"Larson, Reyes and Frazier","plumbing, computer, maintenance",2+ years,Master,₹20147 per month,Private,Kevinfurt,Uttar Pradesh,Telugu,http://bowman-todd.com/
-79,Plumber,Leblanc LLC,"mechanics, computer, wiring",2+ years,Bachelor,₹45712 per month,Private,Meganport,Uttar Pradesh,Telugu,http://weiss.info/
-80,Electrical Technician,Hall-Chen,"mechanics, wiring, maintenance",0+ years,Bachelor,₹27025 per month,Clerk,Gailshire,Tamil Nadu,Telugu,http://www.price.com/
-81,Mechanic,Charles-Goodwin,"mechanics, plumbing, wiring",1+ years,Master,₹15879 per month,Clerk,Howardland,Uttar Pradesh,English,https://le-kennedy.com/
-82,Plumber,"Hill, Sanders and Wilkinson","electrical, mechanics",1+ years,Bachelor,₹48357 per month,Clerk,Darrenberg,Maharashtra,Telugu,http://stanton-nguyen.com/
-83,Mechanic,"Thomas, Allen and Kelly","maintenance, accounting, plumbing",1+ years,Diploma,₹44321 per month,Clerk,East Samantha,Maharashtra,English,https://www.price-lewis.com/
-84,Computer Operator,"Dodson, Erickson and Powers","electrical, plumbing, mechanics",2+ years,Master,₹34531 per month,Operator,Scottside,Maharashtra,Malayalam,http://www.harrell-wagner.com/
-85,Electrical Technician,"Hansen, Allison and Thomas","electrical, wiring",3+ years,ITI,₹15699 per month,Operator,Turnerfort,Maharashtra,Tamil,https://smith.com/
-86,Computer Operator,Garrett-Dawson,plumbing,3+ years,High School,₹11510 per month,Technician,East Brett,Tamil Nadu,Telugu,https://www.dunn-harris.org/
-87,Mechanic,"Mclaughlin, Collins and Harris","electrical, maintenance",3+ years,Master,₹44232 per month,Private,West Sherryton,Maharashtra,Malayalam,http://williams-cox.org/
-88,Mechanic,"Scott, Browning and Carlson",wiring,0+ years,Master,₹35781 per month,Clerk,Johnsport,Kerala,Telugu,http://romero.com/
-89,Accountant,Waters and Sons,"electrical, wiring",0+ years,Master,₹27013 per month,Clerk,South Anitamouth,Kerala,English,http://deleon.net/
-90,Electrical Technician,Stephens LLC,"maintenance, computer, accounting",2+ years,Diploma,₹19107 per month,Technician,Whitefort,Maharashtra,Hindi,http://www.shaffer-king.biz/
-91,Accountant,Warren-Moreno,"mechanics, maintenance",1+ years,Master,₹30367 per month,Technician,East Amyfurt,Uttar Pradesh,English,https://www.jackson-allen.com/
-92,Computer Operator,Maxwell-Jones,plumbing,1+ years,Master,₹19886 per month,Private,Port Richardside,Bihar,Tamil,https://frye.com/
-93,Accountant,"Fleming, Hernandez and Whitaker",mechanics,0+ years,Bachelor,₹28989 per month,Operator,Moorestad,Maharashtra,Tamil,https://www.miller.com/
-94,Plumber,Morales and Sons,"computer, wiring",1+ years,Master,₹35107 per month,Operator,North Stephanieside,Uttar Pradesh,Malayalam,http://www.peterson.biz/
-95,Plumber,Parker-Owen,"maintenance, accounting, plumbing",0+ years,Diploma,₹37742 per month,Clerk,Anthonyhaven,Bihar,Tamil,https://www.juarez.com/
-96,Computer Operator,Thompson Ltd,"accounting, electrical, computer",3+ years,High School,₹48159 per month,Operator,West Alyssaberg,Bihar,Telugu,https://cunningham-casey.info/
-97,Mechanic,Dorsey Ltd,plumbing,3+ years,ITI,₹47746 per month,Clerk,South Edwardborough,Tamil Nadu,English,https://www.vazquez.biz/
-98,Mechanic,"Dickerson, Reed and Copeland",mechanics,1+ years,Master,₹11058 per month,Private,North Marissabury,Tamil Nadu,English,http://www.davila.com/
-99,Accountant,"Charles, Clark and Baker","accounting, maintenance",2+ years,ITI,₹29669 per month,Technician,Perkinsburgh,Uttar Pradesh,Telugu,https://www.walker.com/
-100,Electrical Technician,Evans-Conley,mechanics,3+ years,ITI,₹35481 per month,Technician,Ethanhaven,Bihar,English,https://www.carter.net/
-101,Plumber,Rodriguez Group,"accounting, electrical",3+ years,Diploma,₹10588 per month,Clerk,Derekberg,Uttar Pradesh,Malayalam,https://www.velez.com/
-102,Electrical Technician,Sullivan-Garcia,"wiring, electrical",2+ years,High School,₹10150 per month,Private,New Tylerville,Maharashtra,English,http://thomas-ayala.info/
-103,Electrical Technician,Hunter-Paul,maintenance,3+ years,High School,₹36763 per month,Private,Parkerfort,Bihar,Tamil,https://franklin.com/
-104,Computer Operator,"Clark, Newman and Gutierrez","maintenance, accounting, mechanics",2+ years,ITI,₹23121 per month,Operator,Evansshire,Uttar Pradesh,English,https://diaz.com/
-105,Computer Operator,Sandoval Ltd,"maintenance, mechanics",2+ years,Master,₹19039 per month,Technician,South Samuelbury,Uttar Pradesh,Tamil,http://hernandez.com/
-106,Plumber,Green Inc,"electrical, mechanics, plumbing",3+ years,ITI,₹26507 per month,Operator,Griffinton,Bihar,English,http://www.wise.info/
-107,Electrical Technician,"Fleming, Small and Pitts","electrical, accounting, maintenance",1+ years,ITI,₹34821 per month,Clerk,Johnsonburgh,Maharashtra,Tamil,http://sanchez.com/
-108,Electrical Technician,Garcia-Edwards,"mechanics, electrical",1+ years,Master,₹19845 per month,Government,East Steven,Uttar Pradesh,Tamil,http://salinas.org/
-109,Mechanic,Hamilton-Wilson,"plumbing, accounting",3+ years,Bachelor,₹31637 per month,Technician,Erikmouth,Tamil Nadu,Tamil,http://santos.net/
-110,Electrical Technician,Dudley-Matthews,"maintenance, computer, plumbing",1+ years,ITI,₹40814 per month,Private,Gallowayberg,Uttar Pradesh,Hindi,https://www.johnson.com/
-111,Plumber,Gordon Ltd,mechanics,2+ years,Diploma,₹24256 per month,Technician,Marioville,Kerala,Tamil,http://miller.com/
-112,Electrical Technician,"Walker, Oneill and Lowe","accounting, mechanics, electrical",2+ years,ITI,₹13508 per month,Clerk,Morganmouth,Bihar,Tamil,http://www.russell.com/
-113,Accountant,Bates-Miller,"mechanics, wiring, computer",1+ years,ITI,₹24391 per month,Private,Danielland,Tamil Nadu,Telugu,http://www.stafford.biz/
-114,Computer Operator,Kelly PLC,mechanics,0+ years,High School,₹14727 per month,Government,Port Lindabury,Maharashtra,Telugu,http://www.rice.net/
-115,Computer Operator,Mccann-Wolfe,"computer, electrical, accounting",1+ years,Bachelor,₹29897 per month,Technician,Bradleyville,Maharashtra,Hindi,https://www.banks.com/
-116,Computer Operator,Williams Group,"wiring, accounting, plumbing",2+ years,Bachelor,₹31546 per month,Technician,Paigeberg,Tamil Nadu,Malayalam,https://harvey-green.com/
-117,Mechanic,Parker LLC,maintenance,0+ years,ITI,₹38459 per month,Government,Lake Jeremyview,Maharashtra,Malayalam,https://www.alexander.net/
-118,Electrical Technician,Roy-Sexton,wiring,2+ years,High School,₹34502 per month,Government,Mathisberg,Tamil Nadu,Telugu,https://www.thomas.com/
-119,Mechanic,Sullivan-Esparza,"plumbing, maintenance",0+ years,Master,₹39839 per month,Private,Kaylashire,Maharashtra,Telugu,http://watson.com/
-120,Electrical Technician,Hughes-Ayala,plumbing,1+ years,Master,₹33499 per month,Clerk,Josephland,Kerala,Hindi,http://hall.com/
-121,Mechanic,Brown PLC,"maintenance, wiring",2+ years,Master,₹37109 per month,Private,Gatesberg,Tamil Nadu,Malayalam,https://ryan-holmes.org/
-122,Mechanic,"Medina, Torres and Combs",mechanics,3+ years,Diploma,₹42645 per month,Technician,Port Alexaview,Kerala,Tamil,https://gonzales.net/
-123,Plumber,Cole Ltd,mechanics,2+ years,ITI,₹19428 per month,Private,East Jonathanmouth,Maharashtra,Tamil,http://garcia.com/
-124,Accountant,Snyder and Sons,"plumbing, maintenance",3+ years,High School,₹28652 per month,Clerk,South Lynnmouth,Bihar,Tamil,https://johnson.com/
-125,Accountant,Kemp PLC,accounting,1+ years,High School,₹12314 per month,Technician,Port Robert,Uttar Pradesh,Malayalam,http://may.com/
-126,Mechanic,Schroeder-King,"maintenance, electrical",0+ years,High School,₹49484 per month,Technician,New Sandraburgh,Uttar Pradesh,Malayalam,http://smith-holden.com/
-127,Mechanic,Morris Ltd,plumbing,3+ years,High School,₹15445 per month,Operator,Johnsontown,Bihar,Malayalam,https://www.zuniga.com/
-128,Mechanic,"Campbell, Camacho and Berry","computer, mechanics",0+ years,ITI,₹47793 per month,Operator,East Emilychester,Bihar,Malayalam,http://barr.info/
-129,Computer Operator,Price LLC,"mechanics, electrical",1+ years,Master,₹15976 per month,Government,Barronbury,Uttar Pradesh,Telugu,https://www.garza.com/
-130,Computer Operator,"Fischer, Chase and Moreno",wiring,1+ years,ITI,₹17112 per month,Technician,Taylorfort,Bihar,English,https://reese.org/
-131,Electrical Technician,Petersen LLC,"electrical, wiring",3+ years,Bachelor,₹14275 per month,Clerk,Banksburgh,Kerala,English,http://garcia.info/
-132,Accountant,"Goodwin, Terrell and Torres","electrical, wiring, accounting",3+ years,Master,₹38409 per month,Clerk,Lake Mercedes,Tamil Nadu,Malayalam,http://hunter.com/
-133,Electrical Technician,"Higgins, Kelly and Patel","accounting, maintenance",3+ years,Bachelor,₹13304 per month,Government,South Williamhaven,Tamil Nadu,Hindi,http://www.campos.com/
-134,Computer Operator,"Carter, Le and Roberson","maintenance, wiring, electrical",1+ years,ITI,₹48644 per month,Operator,New Samanthaville,Bihar,Tamil,https://www.cox.com/
-135,Accountant,"Melton, Greer and Carr","mechanics, wiring",1+ years,Master,₹22502 per month,Operator,Duranbury,Uttar Pradesh,English,http://www.nelson.com/
-136,Accountant,Conway-Doyle,"wiring, computer, electrical",0+ years,ITI,₹15946 per month,Clerk,Amystad,Bihar,English,http://www.mccormick-dunn.com/
-137,Accountant,"Jennings, Fernandez and Berry","electrical, wiring, plumbing",3+ years,ITI,₹47926 per month,Private,Danielside,Tamil Nadu,Telugu,https://www.garcia-hunter.com/
-138,Mechanic,Harvey-Graham,computer,0+ years,Master,₹47484 per month,Clerk,Thompsonchester,Tamil Nadu,Tamil,https://anderson.com/
-139,Mechanic,"Villegas, Hoffman and Bryant","wiring, mechanics",3+ years,Diploma,₹45010 per month,Clerk,Christopherstad,Uttar Pradesh,Malayalam,https://ortega.com/
-140,Electrical Technician,Fernandez Inc,"maintenance, electrical, wiring",0+ years,Master,₹44659 per month,Operator,New Brianfort,Kerala,Hindi,http://mcbride-cortez.net/
-141,Mechanic,Lewis-Davis,"computer, mechanics, electrical",0+ years,ITI,₹44638 per month,Operator,Montoyaburgh,Bihar,English,https://www.savage.org/
-142,Electrical Technician,Burke Ltd,"computer, mechanics",2+ years,Diploma,₹28472 per month,Clerk,Bradleyfurt,Bihar,Telugu,https://mccann.net/
-143,Electrical Technician,Gordon-Butler,"maintenance, accounting, computer",1+ years,Master,₹26660 per month,Government,Wilsonmouth,Maharashtra,Hindi,http://www.bush-lee.com/
-144,Electrical Technician,Rivera-Martin,"wiring, plumbing",3+ years,Diploma,₹29588 per month,Private,North Sergiofurt,Maharashtra,Malayalam,https://www.webb.com/
-145,Electrical Technician,"Perry, Payne and Hicks","plumbing, mechanics",3+ years,ITI,₹36083 per month,Government,Port Joshuaburgh,Kerala,Tamil,https://www.glass.org/
-146,Mechanic,"Garcia, Scott and Taylor","plumbing, mechanics, electrical",3+ years,ITI,₹24079 per month,Private,Toddfort,Tamil Nadu,Tamil,http://nguyen-robinson.com/
-147,Plumber,Brown Group,"accounting, mechanics",3+ years,Master,₹44526 per month,Private,Lake Christophermouth,Kerala,Tamil,http://www.smith.info/
-148,Computer Operator,Sims and Sons,"wiring, maintenance",2+ years,Bachelor,₹26363 per month,Operator,New Brandonton,Tamil Nadu,Malayalam,http://www.riggs.com/
-149,Mechanic,Howard Ltd,"accounting, computer, wiring",3+ years,Diploma,₹13931 per month,Government,Whitehaven,Tamil Nadu,Telugu,https://www.lin.net/
-150,Mechanic,"Vaughan, Decker and Doyle",electrical,2+ years,Master,₹45659 per month,Private,Leonardfurt,Tamil Nadu,Telugu,http://www.davis.com/
-151,Accountant,Sanchez-Burke,"mechanics, electrical",2+ years,High School,₹39100 per month,Clerk,Youngton,Uttar Pradesh,English,https://www.james-mack.net/
-152,Mechanic,Cain-Bailey,"maintenance, plumbing",2+ years,ITI,₹42764 per month,Technician,Barbershire,Kerala,Tamil,https://cole-tanner.com/
-153,Plumber,Sanchez-Moore,"plumbing, wiring",3+ years,High School,₹40545 per month,Government,Jasonchester,Bihar,Malayalam,https://byrd-bennett.com/
-154,Plumber,"Cruz, Ruiz and Lawrence","maintenance, plumbing",1+ years,Diploma,₹19145 per month,Operator,South Austin,Tamil Nadu,Tamil,https://www.mayo-moreno.com/
-155,Mechanic,"Poole, Fisher and Bradley","maintenance, wiring",1+ years,Diploma,₹45606 per month,Private,Ryanside,Bihar,Hindi,http://adams-adams.net/
-156,Electrical Technician,Hogan-Buchanan,electrical,0+ years,Diploma,₹13807 per month,Operator,Drewton,Maharashtra,English,https://garcia.info/
-157,Electrical Technician,Kirk-Rogers,"mechanics, computer, accounting",3+ years,Bachelor,₹34184 per month,Private,Lake Tanya,Tamil Nadu,Telugu,https://miller-rivera.com/
-158,Electrical Technician,"Ward, Anderson and Bauer",computer,1+ years,Bachelor,₹34448 per month,Operator,Grahamhaven,Bihar,Malayalam,http://www.erickson.org/
-159,Accountant,Thomas-Odom,wiring,0+ years,High School,₹11447 per month,Government,Nicholasmouth,Maharashtra,English,http://brown.com/
-160,Computer Operator,"Calhoun, Garner and Schmitt","computer, accounting",1+ years,High School,₹30528 per month,Clerk,Davidberg,Tamil Nadu,Telugu,https://wallace-martinez.info/
-161,Electrical Technician,"Johnston, Morris and Simmons","mechanics, plumbing",2+ years,High School,₹15771 per month,Clerk,North Lisaburgh,Kerala,Hindi,https://www.waters.com/
-162,Plumber,"Moore, Adams and Carter",plumbing,1+ years,Master,₹42642 per month,Clerk,New Loganport,Uttar Pradesh,Telugu,http://cross.info/
-163,Mechanic,"West, Lloyd and Juarez",plumbing,2+ years,Diploma,₹16349 per month,Operator,Nataliechester,Tamil Nadu,English,https://hernandez.com/
-164,Accountant,Evans-Pearson,wiring,0+ years,High School,₹11708 per month,Operator,Johnathanborough,Uttar Pradesh,Hindi,https://www.stewart.com/
-165,Computer Operator,Hall-Bennett,"mechanics, computer, electrical",0+ years,Diploma,₹39413 per month,Operator,East Ericshire,Uttar Pradesh,Malayalam,http://www.montes.com/
-166,Plumber,Carpenter PLC,"wiring, electrical",2+ years,Bachelor,₹39146 per month,Operator,Danielview,Bihar,Tamil,https://www.howard.biz/
-167,Mechanic,West-Mcmillan,"maintenance, computer, electrical",1+ years,Diploma,₹28034 per month,Government,Waltonside,Bihar,English,https://barry.com/
-168,Accountant,Terry and Sons,"accounting, computer",0+ years,Master,₹41300 per month,Government,Lake Heather,Uttar Pradesh,English,http://rios.org/
-169,Plumber,Carson-Levine,"mechanics, plumbing",3+ years,High School,₹45807 per month,Government,New Jenna,Maharashtra,Hindi,http://rose.net/
-170,Accountant,"Hobbs, Oneill and Ferguson","mechanics, plumbing, computer",0+ years,ITI,₹45667 per month,Clerk,North Michael,Maharashtra,English,https://sanchez.biz/
-171,Mechanic,"Kaufman, Alexander and Cruz","plumbing, electrical",3+ years,Bachelor,₹10399 per month,Government,West Taramouth,Bihar,Telugu,https://rodriguez.com/
-172,Accountant,Rodriguez-Lopez,maintenance,3+ years,ITI,₹37482 per month,Operator,West Jamiehaven,Maharashtra,English,http://green.info/
-173,Computer Operator,Leonard-Martinez,"accounting, mechanics, plumbing",0+ years,High School,₹39958 per month,Operator,West Edward,Bihar,Malayalam,https://www.reed.org/
-174,Electrical Technician,"Rodgers, Owens and Ballard","mechanics, accounting",2+ years,ITI,₹35170 per month,Private,Bakerville,Kerala,Telugu,https://gill.com/
-175,Plumber,Reid and Sons,"wiring, maintenance",2+ years,ITI,₹19419 per month,Operator,West Christopherside,Tamil Nadu,English,http://www.barnett.com/
-176,Mechanic,Flores-Craig,maintenance,3+ years,ITI,₹27949 per month,Technician,West Cassieborough,Bihar,Tamil,https://www.fisher.org/
-177,Accountant,Jensen LLC,"accounting, mechanics",0+ years,Bachelor,₹42366 per month,Private,North Lindsey,Uttar Pradesh,Tamil,https://hernandez.com/
-178,Computer Operator,Leonard-Banks,electrical,3+ years,Diploma,₹26304 per month,Clerk,Wardland,Bihar,Hindi,https://joseph-arellano.org/
-179,Mechanic,"Sullivan, Williams and Riley",mechanics,2+ years,Bachelor,₹15267 per month,Private,South Kellytown,Kerala,Telugu,https://www.wolf.org/
-180,Accountant,Lindsey-Young,maintenance,2+ years,Master,₹15811 per month,Private,Lucaschester,Uttar Pradesh,Tamil,https://www.williams.com/
-181,Computer Operator,Cooper-Oneill,"mechanics, wiring",3+ years,Master,₹25791 per month,Clerk,East Wendyview,Bihar,English,https://hawkins.com/
-182,Plumber,"Cook, Taylor and Johnson","accounting, maintenance, electrical",1+ years,Diploma,₹39466 per month,Operator,Lake Andrewport,Tamil Nadu,Tamil,https://www.james.biz/
-183,Mechanic,Holt-Noble,"maintenance, plumbing",1+ years,Master,₹43360 per month,Technician,Port Vickifort,Maharashtra,Malayalam,http://farmer-joseph.info/
-184,Mechanic,Phillips Ltd,"accounting, maintenance",2+ years,High School,₹38028 per month,Technician,East Davidmouth,Bihar,Telugu,http://www.contreras-turner.com/
-185,Electrical Technician,Hill and Sons,"mechanics, plumbing, electrical",3+ years,Diploma,₹24459 per month,Government,Walshfort,Uttar Pradesh,Malayalam,http://jenkins.com/
-186,Computer Operator,"Mason, Mendez and Grant","plumbing, computer",3+ years,ITI,₹16668 per month,Operator,Cynthiastad,Tamil Nadu,Telugu,https://www.evans-oliver.info/
-187,Accountant,Thomas and Sons,"accounting, electrical",3+ years,ITI,₹46778 per month,Government,Mooneyburgh,Kerala,Hindi,https://adams.org/
-188,Mechanic,Richard Ltd,maintenance,3+ years,High School,₹16035 per month,Government,Wallaceton,Uttar Pradesh,English,http://brown.com/
-189,Electrical Technician,Sparks-Harris,"wiring, mechanics, computer",3+ years,Master,₹10311 per month,Clerk,Port Andrewside,Tamil Nadu,Malayalam,https://crawford-wilson.net/
-190,Accountant,"Silva, Brooks and Goodman","electrical, maintenance",2+ years,High School,₹43821 per month,Private,Wendyside,Tamil Nadu,Telugu,https://ford.org/
-191,Plumber,Turner-Jones,electrical,3+ years,ITI,₹37256 per month,Private,Montesmouth,Kerala,English,http://www.murphy.com/
-192,Accountant,Wong-Brooks,"accounting, computer, maintenance",1+ years,ITI,₹31105 per month,Private,Robinbury,Kerala,Tamil,http://www.potts-riley.com/
-193,Computer Operator,"Griffin, Hendricks and Williams","accounting, mechanics",1+ years,Bachelor,₹36297 per month,Operator,Wellschester,Tamil Nadu,Malayalam,https://crawford.net/
-194,Accountant,Webb-Green,"maintenance, plumbing, wiring",2+ years,High School,₹16435 per month,Operator,South Miguel,Maharashtra,Tamil,http://smith.com/
-195,Accountant,"Marquez, Shannon and Chan","maintenance, computer",0+ years,Bachelor,₹45373 per month,Government,Hensleyfort,Uttar Pradesh,Tamil,https://garcia-logan.com/
-196,Mechanic,Camacho-Chase,"accounting, electrical, plumbing",3+ years,Diploma,₹12448 per month,Government,North Anthony,Tamil Nadu,Tamil,http://www.gallegos-boyd.net/
-197,Mechanic,Ayers-Hall,"accounting, mechanics",1+ years,Bachelor,₹34689 per month,Private,North Michellebury,Kerala,Malayalam,https://harvey.biz/
-198,Computer Operator,"Rangel, Anderson and Chavez","plumbing, mechanics, wiring",0+ years,Bachelor,₹20131 per month,Private,Carolhaven,Uttar Pradesh,Tamil,https://bell.info/
-199,Mechanic,"Walls, Dixon and Ryan","mechanics, accounting",1+ years,Diploma,₹14853 per month,Operator,Lake David,Uttar Pradesh,Telugu,http://www.lewis-cruz.com/
-200,Mechanic,Miller-Dudley,"computer, electrical",2+ years,ITI,₹12294 per month,Private,Ryanbury,Bihar,Hindi,https://oliver.com/
+1,Sales Executive,Pandit-Tata,"graphic design, carpentry, accounting",3+ years,Vocational Training,₹27725 per month,Government,Bhopal,Karnataka,Marathi,http://brar.net/
+2,Electrician,"Krishnamurthy, Cherian and Shah","mechanics, wiring",0+ years,12th,₹48728 per month,Supervisor,Farrukhabad,Maharashtra,Hindi,http://toor-agate.com/
+3,Sales Executive,Kothari-Kota,"mechanics, plumbing, typing",0+ years,10th,₹36817 per month,Operator,Pallavaram,Bihar,Kannada,http://www.sharaf.com/
+4,Driver,Lall-Sachdev,"accounting, carpentry, wiring",3+ years,Vocational Training,₹34401 per month,Assistant,Gopalpur,Rajasthan,Bengali,https://www.andra.com/
+5,Civil Engineer,"Mallick, Bakshi and Dey",accounting,3+ years,Bachelor,₹18553 per month,Supervisor,Bidar,Bihar,Malayalam,http://www.gopal-chakraborty.com/
+6,Mechanic,Hegde-Merchant,graphic design,2+ years,High School,₹22807 per month,Government,Khammam,Bihar,Hindi,https://badal-sama.com/
+7,Maintenance Supervisor,"Patla, Mohanty and Joshi","electrical, maintenance",3+ years,PhD,₹25733 per month,Manager,Karawal Nagar,West Bengal,Bengali,http://www.chatterjee.com/
+8,Accountant,Rajagopal Group,electrical,3+ years,Diploma,₹12829 per month,Government,Hubli–Dharwad,Bihar,Marathi,http://char.com/
+9,Technician Apprentice,Behl-Jaggi,maintenance,0+ years,Certificate Course,₹24772 per month,Government,Jamnagar,Maharashtra,Tamil,https://chakraborty.com/
+10,Marketing Assistant,Khosla-Vaidya,maintenance,0+ years,Postgraduate,₹39530 per month,Supervisor,Begusarai,Maharashtra,Hindi,http://gera.com/
+11,Delivery Boy,Wali-Dayal,wiring,3+ years,Diploma,₹38021 per month,Engineer,Erode,Kerala,Kannada,http://ramanathan-mangal.com/
+12,Machine Operator,"Bava, Srinivasan and Goswami",typing,1+ years,Undergraduate,₹34387 per month,Assistant,Panipat,Odisha,Malayalam,http://patla.com/
+13,Office Assistant,Gill-Mann,mechanics,2+ years,Undergraduate,₹29462 per month,Trainer,Singrauli,Uttar Pradesh,Kannada,http://hayre.info/
+14,Auto Driver,"Pall, Tak and Murty",electrical,2+ years,High School,₹49914 per month,Government,Jamshedpur,West Bengal,English,https://www.bahl.com/
+15,Driver,"Srinivasan, Lata and Tella","carpentry, computer",0+ years,10th,₹25424 per month,Trainer,Belgaum,Uttar Pradesh,Bengali,https://www.dyal.com/
+16,Accountant,Sarraf-Maharaj,"mechanics, maintenance",3+ years,12th,₹11431 per month,Supervisor,Bahraich,Gujarat,Gujarati,https://mital.com/
+17,Auto Driver,"Srinivas, Parekh and Chand","electrical, carpentry, computer",1+ years,High School,₹42998 per month,Clerk,Noida,Bihar,Tamil,https://kanda.com/
+18,Auto Driver,"Bora, Wali and Master","typing, mechanics",0+ years,ITI,₹12193 per month,Supervisor,Raipur,Kerala,Gujarati,https://www.pillai.com/
+19,Maintenance Supervisor,"Krishna, Ganesh and Din","maintenance, wiring, mechanics",3+ years,Undergraduate,₹24983 per month,Clerk,Naihati,Bihar,English,http://sarna.net/
+20,Office Assistant,Randhawa Group,"graphic design, mechanics, carpentry",1+ years,High School,₹30759 per month,Trainer,Orai,Gujarat,Hindi,http://www.chada.com/
+21,Clerk,Uppal-Basak,"teaching, typing",0+ years,ITI,₹11299 per month,Manager,Sikar,Punjab,Gujarati,http://raju.net/
+22,Teacher,Vasa-Venkataraman,maintenance,1+ years,Vocational Training,₹10315 per month,Engineer,Phusro,Tamil Nadu,Odia,http://www.bhalla.com/
+23,Store Keeper,"Atwal, Sen and Jha","teaching, typing",1+ years,Bachelor,₹12819 per month,Operator,Karawal Nagar,Punjab,English,http://www.chokshi.com/
+24,Lab Assistant,Tara-Krishnan,"maintenance, computer, carpentry",2+ years,PhD,₹43358 per month,Government,Bharatpur,Kerala,Kannada,http://uppal-ratta.com/
+25,Lab Assistant,Bhardwaj LLC,accounting,3+ years,Master,₹41319 per month,Manager,Bhind,Uttar Pradesh,Gujarati,https://www.rastogi.com/
+26,Carpenter,"Gandhi, Kumer and Sarraf",graphic design,3+ years,Master,₹45045 per month,Operator,Nagpur,Odisha,Odia,https://bandi.info/
+27,Computer Operator,"Rajagopal, Tella and Deshpande","typing, computer",3+ years,Bachelor,₹19238 per month,Operator,Howrah,Karnataka,Kannada,https://www.nair-hayer.com/
+28,Data Entry Operator,Dewan PLC,"carpentry, graphic design, plumbing",3+ years,High School,₹43189 per month,Consultant,Tenali,Kerala,Tamil,http://www.chahal.com/
+29,Electrician,"Kulkarni, Bora and Manda",plumbing,0+ years,Postgraduate,₹29197 per month,Assistant,Dewas,Gujarat,Gujarati,https://www.kapadia-nori.net/
+30,Sales Executive,Pant-Kannan,maintenance,2+ years,High School,₹16527 per month,Private,Jamshedpur,Karnataka,Telugu,http://saini.com/
+31,Clerk,Nagarajan-Bhagat,wiring,3+ years,Postgraduate,₹22763 per month,Trainer,Anantapuram,Rajasthan,Tamil,http://www.bandi-sarna.org/
+32,Tailor,Memon-Dua,"electrical, mechanics, maintenance",2+ years,Undergraduate,₹38093 per month,Supervisor,Nizamabad,Odisha,Malayalam,http://www.balay.org/
+33,Accountant,"Kamdar, Gupta and Murty",driving,0+ years,12th,₹28852 per month,Trainer,Bongaigaon,Kerala,Tamil,https://www.bhat.com/
+34,Machine Operator,"Arya, Shanker and Bhattacharyya","typing, graphic design, wiring",3+ years,Diploma,₹44937 per month,Trainer,Baranagar,Rajasthan,Kannada,https://www.ghose.com/
+35,Delivery Boy,Sem-Parsa,graphic design,2+ years,Bachelor,₹30961 per month,Manager,Tiruppur,Kerala,Odia,http://minhas.com/
+36,Field Technician,"Parmer, Doshi and Mane","wiring, teaching, plumbing",1+ years,10th,₹14105 per month,Operator,Tirunelveli,West Bengal,Kannada,http://lanka-kala.info/
+37,Technician Apprentice,"Devan, Pillay and Varty","accounting, teaching",3+ years,PhD,₹31062 per month,Assistant,Jaunpur,Odisha,Gujarati,https://www.sehgal-narula.net/
+38,Sales Executive,Uppal Group,typing,1+ years,ITI,₹22443 per month,Consultant,Amritsar,Kerala,Hindi,https://krish-bhargava.com/
+39,Mechanic,Nagarajan-Dewan,"typing, maintenance, graphic design",3+ years,PhD,₹35744 per month,Engineer,Dharmavaram,Karnataka,Odia,https://bakshi-char.com/
+40,Plumber,Koshy-Malhotra,typing,3+ years,Diploma,₹23776 per month,Manager,Etawah,Bihar,Kannada,http://gade-rana.com/
+41,Welder,"Sani, Parmer and Anne",teaching,2+ years,Undergraduate,₹34946 per month,Consultant,Karnal,Kerala,Malayalam,http://vaidya.com/
+42,Office Assistant,Kibe PLC,"wiring, carpentry, computer",0+ years,10th,₹33180 per month,Operator,Rajpur Sonarpur,Rajasthan,Bengali,https://www.purohit.com/
+43,Mechanic,Jhaveri LLC,"electrical, graphic design",2+ years,10th,₹21218 per month,Engineer,Morena,Maharashtra,Odia,https://www.butala-kibe.com/
+44,Clerk,Parekh-Peri,"teaching, wiring",1+ years,Postgraduate,₹28184 per month,Operator,Sasaram,West Bengal,Tamil,https://balay.com/
+45,Marketing Assistant,Radhakrishnan PLC,"maintenance, wiring",0+ years,Postgraduate,₹28889 per month,Engineer,Akola,Karnataka,Telugu,https://bains.com/
+46,Teacher,Garg Ltd,plumbing,2+ years,Certificate Course,₹20881 per month,Technician,Thanjavur,Uttar Pradesh,English,http://www.walia.info/
+47,Electrical Technician,"Garde, Sarma and Shan","plumbing, graphic design",3+ years,ITI,₹32981 per month,Manager,Gopalpur,Gujarat,Gujarati,http://tandon.com/
+48,Junior Engineer,Bava-Cheema,"mechanics, maintenance, graphic design",2+ years,Master,₹46541 per month,Assistant,Mira-Bhayandar,Kerala,Kannada,https://www.srinivasan.com/
+49,Teacher,"Din, Mody and Halder","carpentry, mechanics",0+ years,ITI,₹43886 per month,Assistant,Berhampore,West Bengal,Bengali,http://www.lad.com/
+50,Civil Engineer,Oza Inc,accounting,0+ years,Postgraduate,₹49332 per month,Private,Nanded,Punjab,Gujarati,http://reddy.com/
+51,Healthcare Worker,Ghosh-Mangat,"wiring, accounting",1+ years,ITI,₹24699 per month,Trainer,Bilaspur,Maharashtra,Marathi,https://www.munshi-arora.biz/
+52,Store Keeper,Dass-Bahri,"typing, electrical",1+ years,10th,₹21945 per month,Operator,Rajahmundry,Maharashtra,Punjabi,https://www.karan.com/
+53,Auto Driver,Baral-Doshi,maintenance,2+ years,High School,₹15895 per month,Engineer,Katihar,West Bengal,Punjabi,https://www.sarin.com/
+54,Receptionist,"Toor, Sem and Prasad","accounting, plumbing, electrical",0+ years,Vocational Training,₹21441 per month,Assistant,Phusro,Bihar,Punjabi,http://www.chaudhuri.com/
+55,Civil Engineer,Sharaf Group,"electrical, carpentry, mechanics",3+ years,Postgraduate,₹10039 per month,Consultant,Hapur,Odisha,Telugu,https://www.rao.com/
+56,Security Guard,"Sharma, Dubey and Kumer",carpentry,3+ years,ITI,₹19267 per month,Manager,Hosur,Punjab,Malayalam,https://www.konda.info/
+57,Junior Engineer,"Naidu, Acharya and Ray",maintenance,2+ years,Master,₹35963 per month,Operator,Anand,Maharashtra,Hindi,https://www.bhakta.org/
+58,Driver,Narayanan Ltd,"plumbing, accounting",2+ years,Master,₹43480 per month,Supervisor,Srikakulam,Uttar Pradesh,Malayalam,https://garde.org/
+59,Marketing Assistant,"Bal, Agrawal and Mishra",typing,0+ years,High School,₹47283 per month,Manager,Lucknow,Karnataka,Gujarati,https://garde-narain.com/
+60,Mechanic,Loyal-Kalla,"typing, maintenance",3+ years,Bachelor,₹16886 per month,Trainer,Saharanpur,Maharashtra,Malayalam,https://biswas-tripathi.com/
+61,Data Entry Operator,Mital-Barman,"maintenance, wiring, electrical",1+ years,Diploma,₹45518 per month,Assistant,Munger,Maharashtra,Marathi,https://goyal.com/
+62,Store Keeper,"Goda, Mukhopadhyay and Boase","mechanics, teaching",3+ years,Bachelor,₹22745 per month,Clerk,Nizamabad,West Bengal,Tamil,https://sharma.com/
+63,Electrician,Mitra-Dubey,"driving, teaching, plumbing",1+ years,Diploma,₹19856 per month,Supervisor,Ghaziabad,Bihar,Telugu,http://www.walla.com/
+64,Clerk,Yadav-Kuruvilla,teaching,3+ years,ITI,₹28355 per month,Consultant,Haldia,Gujarat,Bengali,https://bail-bath.com/
+65,Computer Operator,Uppal and Sons,mechanics,2+ years,Postgraduate,₹27672 per month,Operator,Rohtak,Gujarat,Marathi,http://narayan.net/
+66,Junior Engineer,Trivedi PLC,plumbing,2+ years,High School,₹28277 per month,Supervisor,Agartala,Maharashtra,Marathi,https://www.mittal-sabharwal.com/
+67,Auto Driver,"Bassi, Raj and Roy","maintenance, wiring, electrical",0+ years,10th,₹38490 per month,Government,Gandhidham,Bihar,Bengali,http://choudhary-sarin.biz/
+68,Delivery Boy,"Kata, Nayar and Mann","maintenance, driving",2+ years,Undergraduate,₹26098 per month,Government,Avadi,Bihar,Tamil,https://www.parekh-ghose.biz/
+69,Data Entry Operator,"Lalla, Mani and Dhar","mechanics, typing",3+ years,ITI,₹30159 per month,Manager,Chennai,Tamil Nadu,Telugu,http://www.vora.biz/
+70,Data Entry Operator,Chhabra Ltd,"mechanics, typing, computer",0+ years,12th,₹37449 per month,Engineer,Rohtak,Gujarat,Bengali,https://www.tara.com/
+71,Field Technician,"Dalal, Palla and Atwal","graphic design, mechanics, electrical",3+ years,Postgraduate,₹34494 per month,Assistant,Tezpur,Kerala,Telugu,http://www.cheema-setty.com/
+72,Carpenter,"Loyal, Devi and Choudhary","teaching, driving",0+ years,Diploma,₹48457 per month,Government,Alwar,Karnataka,Gujarati,http://sodhi.com/
+73,Auto Driver,Babu Inc,"carpentry, mechanics",1+ years,Postgraduate,₹23700 per month,Consultant,Jhansi,Kerala,English,https://subramanian-gour.com/
+74,Maintenance Supervisor,Bumb-Gopal,graphic design,1+ years,10th,₹37222 per month,Private,Munger,West Bengal,Tamil,http://www.sane-bora.net/
+75,Maintenance Supervisor,"Parsa, Upadhyay and Dhingra",carpentry,1+ years,High School,₹39729 per month,Operator,Kulti,Rajasthan,Gujarati,https://mand.net/
+76,Mechanic,Chhabra-Memon,"mechanics, plumbing",1+ years,10th,₹42420 per month,Clerk,Varanasi,Kerala,Bengali,http://nazareth.info/
+77,Carpenter,"Yadav, Bali and Talwar","wiring, teaching, typing",0+ years,12th,₹26583 per month,Consultant,Gulbarga,West Bengal,Kannada,https://www.ranganathan.org/
+78,Auto Driver,Sura and Sons,driving,3+ years,High School,₹19594 per month,Consultant,Solapur,Maharashtra,Telugu,http://bala.net/
+79,Maintenance Supervisor,Chana and Sons,teaching,2+ years,Undergraduate,₹40590 per month,Assistant,Tiruchirappalli,Bihar,English,http://balay-radhakrishnan.org/
+80,Auto Driver,"Kulkarni, Chawla and Master",plumbing,0+ years,Undergraduate,₹43959 per month,Trainer,Anantapur,Maharashtra,Odia,https://www.bal.com/
+81,Office Assistant,"Tella, Mall and Bandi","mechanics, graphic design, accounting",0+ years,Undergraduate,₹47427 per month,Manager,Amroha,Punjab,Malayalam,http://www.sant-narula.com/
+82,Electrical Technician,Nigam-Nayar,"typing, driving, plumbing",3+ years,Undergraduate,₹43849 per month,Government,Surat,Bihar,Tamil,http://www.mani-anne.org/
+83,Receptionist,Shan PLC,"graphic design, mechanics",3+ years,Diploma,₹23897 per month,Technician,Jammu,Maharashtra,Punjabi,http://www.ravel-dutt.com/
+84,Computer Operator,Sodhi-Atwal,"computer, carpentry, maintenance",0+ years,Diploma,₹43552 per month,Trainer,Chapra,Bihar,Gujarati,http://shah-bhagat.org/
+85,Sales Executive,Shanker-Raja,wiring,1+ years,ITI,₹39305 per month,Consultant,Gudivada,Bihar,Malayalam,https://wali.com/
+86,Store Keeper,"Brahmbhatt, Palan and Nath","electrical, graphic design",3+ years,10th,₹24351 per month,Operator,Rajahmundry,Odisha,Telugu,https://ben.biz/
+87,Auto Driver,Mallick LLC,"wiring, driving, typing",1+ years,Bachelor,₹27995 per month,Operator,Kumbakonam,Maharashtra,Gujarati,http://krishna.info/
+88,Accountant,Khatri-Raja,"typing, accounting",3+ years,High School,₹22177 per month,Operator,Maheshtala,Bihar,Hindi,http://www.doshi.com/
+89,Teacher,Sani-Varughese,"teaching, graphic design",2+ years,PhD,₹14930 per month,Supervisor,Kavali,Uttar Pradesh,Malayalam,https://krishnan-mani.com/
+90,Healthcare Worker,"Sarma, Mann and Soni","mechanics, plumbing",2+ years,Vocational Training,₹47559 per month,Consultant,Udaipur,Maharashtra,Malayalam,https://balan.com/
+91,Driver,"Mohanty, Goyal and Sant","teaching, computer",3+ years,Certificate Course,₹32003 per month,Consultant,Kanpur,Rajasthan,Gujarati,https://sahni-date.info/
+92,Accountant,Chandra Ltd,"typing, driving",3+ years,PhD,₹29085 per month,Consultant,Kanpur,Bihar,Kannada,http://www.shere-bains.com/
+93,Computer Operator,Mani and Sons,mechanics,0+ years,ITI,₹28625 per month,Manager,Karnal,West Bengal,Malayalam,https://saxena-shankar.com/
+94,Electrical Technician,Khosla Group,"computer, teaching",0+ years,PhD,₹24221 per month,Trainer,Kolkata,Tamil Nadu,Malayalam,http://swaminathan.com/
+95,Auto Driver,Ghosh PLC,"computer, electrical",1+ years,PhD,₹38812 per month,Operator,Pimpri-Chinchwad,Gujarat,Telugu,http://www.shan.org/
+96,Machine Operator,"Banerjee, Brahmbhatt and Parmar",typing,2+ years,Certificate Course,₹13430 per month,Trainer,Nizamabad,Kerala,Telugu,https://chokshi-kant.org/
+97,Lab Assistant,Sachdev PLC,"mechanics, typing, electrical",2+ years,PhD,₹22802 per month,Government,Pune,Uttar Pradesh,Telugu,https://pillay-grover.com/
+98,Carpenter,Kumer-Verma,accounting,2+ years,Master,₹46679 per month,Supervisor,Mau,Kerala,Odia,http://kapadia.net/
+99,Teacher,"Sampath, Aurora and Ganesan","graphic design, mechanics, computer",1+ years,Diploma,₹49112 per month,Clerk,Buxar,Maharashtra,Gujarati,https://www.bal.com/
+100,Office Assistant,Gandhi Ltd,"typing, graphic design",1+ years,Certificate Course,₹22021 per month,Technician,Nizamabad,Karnataka,Malayalam,http://sahota.com/
+101,Electrical Technician,Parsa-Iyengar,"accounting, carpentry",3+ years,High School,₹29790 per month,Private,Karaikudi,Rajasthan,Gujarati,http://wagle.com/
+102,Sales Executive,"Venkatesh, Ganesan and Mishra",accounting,1+ years,Diploma,₹48582 per month,Technician,Pondicherry,West Bengal,Punjabi,http://www.dugar-more.com/
+103,Welder,"Krish, Rau and Bansal","driving, accounting",3+ years,12th,₹47100 per month,Supervisor,Ujjain,Bihar,Gujarati,http://kant.com/
+104,Lab Assistant,Guha Inc,"maintenance, electrical",2+ years,10th,₹38153 per month,Supervisor,Hazaribagh,West Bengal,Hindi,https://gulati.com/
+105,Auto Driver,Basak-Gera,carpentry,0+ years,Postgraduate,₹18613 per month,Supervisor,Bhiwandi,Uttar Pradesh,Hindi,https://www.sundaram.org/
+106,Field Technician,"More, Sridhar and Sarna","typing, driving, accounting",3+ years,Bachelor,₹48311 per month,Trainer,Silchar,Tamil Nadu,Tamil,http://www.nagi.com/
+107,Lab Assistant,Boase-Narula,"teaching, carpentry, maintenance",1+ years,12th,₹21162 per month,Private,Karimnagar,Karnataka,Hindi,https://www.gade.net/
+108,Data Entry Operator,"Naidu, Kant and Tiwari","maintenance, accounting",0+ years,High School,₹41884 per month,Operator,Bharatpur,Rajasthan,Marathi,http://desai-koshy.com/
+109,Auto Driver,Comar-Ramachandran,"typing, plumbing",0+ years,Bachelor,₹12938 per month,Operator,Gandhinagar,Gujarat,Malayalam,http://raja-sahni.biz/
+110,Clerk,Kapoor and Sons,"computer, plumbing, wiring",1+ years,Master,₹18122 per month,Trainer,Anantapur,Gujarat,Malayalam,http://sundaram-nanda.info/
+111,Lab Assistant,Palla-Sagar,"wiring, teaching, mechanics",3+ years,10th,₹43688 per month,Technician,Bahraich,Kerala,Malayalam,http://www.thakkar.info/
+112,Sales Executive,"Pingle, Kar and Nayak","driving, typing",3+ years,10th,₹37953 per month,Private,Nadiad,Kerala,Bengali,https://www.handa.com/
+113,Clerk,Tripathi and Sons,teaching,2+ years,Undergraduate,₹45211 per month,Consultant,Hospet,Odisha,Marathi,https://www.sarraf.com/
+114,Electrician,Parmar PLC,maintenance,3+ years,10th,₹37883 per month,Operator,Varanasi,Odisha,Punjabi,https://sehgal.info/
+115,Electrical Technician,"Wagle, Halder and Pingle",plumbing,3+ years,ITI,₹17520 per month,Supervisor,Udaipur,Rajasthan,Kannada,http://www.kamdar.biz/
+116,Plumber,Sharaf Inc,"teaching, mechanics, computer",2+ years,12th,₹33147 per month,Trainer,Meerut,Uttar Pradesh,English,https://www.chauhan-dara.com/
+117,Electrical Technician,Barad-Lall,"wiring, computer, teaching",2+ years,Certificate Course,₹21542 per month,Engineer,Hosur,Karnataka,Odia,https://www.deep.com/
+118,Welder,Bhalla-Khosla,"accounting, carpentry, wiring",0+ years,Master,₹30211 per month,Manager,Khora ,Gujarat,Punjabi,https://www.doctor.org/
+119,Technician Apprentice,Batta-Palla,accounting,3+ years,PhD,₹48068 per month,Assistant,Raebareli,Rajasthan,Bengali,http://www.salvi.org/
+120,Accountant,Ram LLC,"plumbing, driving",3+ years,Postgraduate,₹11094 per month,Engineer,Madhyamgram,Bihar,Kannada,http://setty.com/
+121,Machine Operator,"Dhar, Lanka and Agarwal","teaching, computer, mechanics",1+ years,Diploma,₹31657 per month,Supervisor,Thanjavur,Karnataka,Gujarati,https://www.saha.biz/
+122,Technician Apprentice,Bansal and Sons,carpentry,2+ years,PhD,₹40603 per month,Assistant,Surat,Punjab,English,https://apte-kapoor.net/
+123,Lab Assistant,Seshadri Ltd,"mechanics, typing, wiring",1+ years,Vocational Training,₹32868 per month,Engineer,Suryapet,Uttar Pradesh,Malayalam,https://www.chaudhuri-sachdeva.com/
+124,Marketing Assistant,Dass-Barad,"wiring, accounting",3+ years,Postgraduate,₹49981 per month,Technician,Sagar,Karnataka,Bengali,https://www.gulati.org/
+125,Receptionist,"Padmanabhan, Wadhwa and Rama","mechanics, graphic design",0+ years,Certificate Course,₹20583 per month,Government,Gandhidham,Tamil Nadu,Kannada,https://more.info/
+126,Electrician,Sami Inc,"plumbing, electrical",3+ years,Master,₹33199 per month,Trainer,Ahmednagar,Maharashtra,Gujarati,https://www.hegde-vala.com/
+127,Data Entry Operator,"Padmanabhan, D’Alia and Roy",computer,3+ years,Postgraduate,₹33689 per month,Assistant,Bhilai,Uttar Pradesh,Malayalam,http://wali.com/
+128,Data Entry Operator,"Bajwa, Ghose and Minhas","driving, graphic design",3+ years,ITI,₹16913 per month,Technician,Bhiwandi,Uttar Pradesh,Punjabi,https://doshi-ben.net/
+129,Lab Assistant,"Chawla, Khosla and Radhakrishnan","electrical, wiring, driving",1+ years,Diploma,₹37206 per month,Operator,Bhavnagar,West Bengal,English,https://www.dalal-balakrishnan.com/
+130,Security Guard,Rajagopal and Sons,computer,0+ years,Undergraduate,₹48623 per month,Technician,Deoghar,Karnataka,Bengali,http://kapoor.com/
+131,Clerk,Pillai-Chanda,graphic design,3+ years,12th,₹28613 per month,Clerk,Barasat,Punjab,Marathi,http://lala-sur.com/
+132,Marketing Assistant,"Iyer, Dar and Barad",maintenance,2+ years,Certificate Course,₹21604 per month,Assistant,Ambarnath,Maharashtra,Telugu,http://www.butala-gera.biz/
+133,Carpenter,Mammen-Sathe,graphic design,3+ years,Postgraduate,₹28065 per month,Government,Hazaribagh,Odisha,Marathi,https://www.char-pillai.info/
+134,Welder,Prasad-Saxena,"graphic design, driving",2+ years,ITI,₹10953 per month,Technician,Muzaffarnagar,Bihar,Telugu,https://www.dalal.com/
+135,Teacher,Peri-Grewal,"driving, teaching, wiring",3+ years,Diploma,₹16131 per month,Supervisor,Faridabad,Rajasthan,Punjabi,https://www.walia-bains.com/
+136,Auto Driver,Bhatia Inc,"accounting, mechanics",3+ years,Certificate Course,₹34001 per month,Assistant,Sambalpur,Punjab,Hindi,https://www.dara.com/
+137,Field Technician,Khanna Inc,typing,2+ years,10th,₹16581 per month,Assistant,Kota,Rajasthan,Marathi,http://www.mohan-kuruvilla.biz/
+138,Welder,Hora Inc,"teaching, driving, plumbing",0+ years,10th,₹23958 per month,Private,Hyderabad,Maharashtra,Telugu,https://dutta.info/
+139,Machine Operator,Sunder Group,"driving, mechanics",3+ years,Certificate Course,₹28015 per month,Operator,Nashik,Uttar Pradesh,Odia,http://ramaswamy-rout.com/
+140,Lab Assistant,Lala-Memon,"teaching, plumbing, accounting",2+ years,12th,₹16544 per month,Consultant,Davanagere,Uttar Pradesh,Kannada,http://mangat.info/
+141,Data Entry Operator,"Wagle, Sridhar and Nori","computer, driving, carpentry",2+ years,Vocational Training,₹34248 per month,Technician,Udaipur,Maharashtra,Bengali,https://www.dhar.org/
+142,Office Assistant,"Patel, Kibe and Bala","teaching, carpentry",2+ years,10th,₹41706 per month,Supervisor,Imphal,Kerala,Telugu,http://krish-warrior.com/
+143,Welder,Brar-Tiwari,wiring,3+ years,PhD,₹10845 per month,Supervisor,Gopalpur,Rajasthan,Telugu,https://lad-zachariah.com/
+144,Receptionist,Raj Ltd,graphic design,3+ years,Vocational Training,₹44624 per month,Government,Dindigul,Maharashtra,Odia,http://tank.net/
+145,Field Technician,Babu PLC,electrical,1+ years,Vocational Training,₹34768 per month,Consultant,Ujjain,Uttar Pradesh,English,http://rana.net/
+146,Field Technician,"Devi, Sagar and Bhatti","mechanics, wiring",1+ years,12th,₹34627 per month,Private,Nagaon,Gujarat,Malayalam,https://www.khalsa.com/
+147,Welder,Rama-Sandhu,graphic design,3+ years,Master,₹38319 per month,Government,Thoothukudi,Karnataka,English,http://tata.info/
+148,Maintenance Supervisor,"Murthy, Comar and Sawhney",computer,3+ years,12th,₹11748 per month,Trainer,Vasai-Virar,Gujarat,Malayalam,http://www.agrawal.com/
+149,Receptionist,Din-Bandi,maintenance,2+ years,10th,₹45708 per month,Trainer,Agra,Bihar,Telugu,http://www.khare.com/
+150,Customer Support Executive,Mahal and Sons,"graphic design, computer",1+ years,12th,₹19822 per month,Consultant,Berhampur,Uttar Pradesh,Telugu,http://www.bhandari-deo.biz/
+151,Store Keeper,Mander-Koshy,"mechanics, maintenance",0+ years,Master,₹24381 per month,Technician,Khandwa,Punjab,Odia,http://wali-yogi.com/
+152,Plumber,"Chana, Ramachandran and Kala","maintenance, graphic design",1+ years,Postgraduate,₹33726 per month,Trainer,Faridabad,Maharashtra,Odia,http://www.dube.com/
+153,Maintenance Supervisor,"Krishnamurthy, Talwar and Mander","plumbing, driving",2+ years,Bachelor,₹22274 per month,Private,Jammu,Tamil Nadu,Malayalam,http://www.kurian.biz/
+154,Delivery Boy,Tank-Oommen,electrical,1+ years,12th,₹41042 per month,Consultant,Jaipur,Gujarat,English,http://sidhu-chaudhry.com/
+155,Customer Support Executive,"Barad, Salvi and D’Alia","driving, mechanics",3+ years,Postgraduate,₹22804 per month,Assistant,Alappuzha,Karnataka,Malayalam,https://www.chakrabarti.net/
+156,Mechanic,Andra LLC,computer,2+ years,Certificate Course,₹26622 per month,Engineer,Udupi,West Bengal,Odia,http://www.bhatia.com/
+157,Carpenter,Wali-Chana,"carpentry, computer, electrical",0+ years,Master,₹38556 per month,Operator,Thane,Punjab,Kannada,https://tiwari.com/
+158,Driver,Thaman Inc,"accounting, carpentry, maintenance",1+ years,Certificate Course,₹22475 per month,Supervisor,Bidar,Rajasthan,Gujarati,https://solanki.com/
+159,Auto Driver,Sridhar-Sunder,typing,1+ years,Undergraduate,₹25327 per month,Government,Salem,Kerala,Punjabi,https://kar-dave.biz/
+160,Maintenance Supervisor,"Warrior, Bhagat and Bhasin",typing,2+ years,Bachelor,₹42131 per month,Operator,Bhopal,Odisha,Kannada,https://shetty-soni.net/
+161,Electrician,Gole Inc,"typing, accounting, wiring",1+ years,PhD,₹17723 per month,Trainer,Tadipatri,West Bengal,Punjabi,https://shah.com/
+162,Data Entry Operator,"Kulkarni, Desai and Sibal","maintenance, driving, typing",0+ years,10th,₹21843 per month,Technician,Ramagundam,Punjab,Bengali,http://balay-cherian.info/
+163,Store Keeper,Deo Ltd,mechanics,1+ years,PhD,₹39789 per month,Clerk,Ranchi,Rajasthan,Tamil,https://www.balakrishnan.org/
+164,Receptionist,Yohannan-Behl,computer,2+ years,Certificate Course,₹45162 per month,Manager,Anantapur,Odisha,Malayalam,http://konda-buch.com/
+165,Electrician,Khosla-Modi,"driving, electrical",2+ years,Postgraduate,₹25606 per month,Assistant,Madurai,Odisha,Marathi,http://sidhu-korpal.biz/
+166,Clerk,Sha-Dhar,"electrical, carpentry, driving",1+ years,12th,₹26045 per month,Trainer,Jalna,West Bengal,Punjabi,http://www.saran.com/
+167,Maintenance Supervisor,"Sankaran, Ahluwalia and Gola","mechanics, driving",2+ years,10th,₹30773 per month,Consultant,Kollam,Punjab,Marathi,https://doctor.biz/
+168,Clerk,Nagi Group,"typing, carpentry",1+ years,Diploma,₹47241 per month,Trainer,Surat,Punjab,Kannada,https://www.sahni.org/
+169,Driver,Hari-Gole,"wiring, computer, maintenance",2+ years,High School,₹18083 per month,Supervisor,Kochi,Kerala,Marathi,https://kala.com/
+170,Electrical Technician,Suresh PLC,"carpentry, driving",0+ years,Bachelor,₹26194 per month,Clerk,Agartala,Karnataka,Bengali,https://www.hayer.com/
+171,Receptionist,Bawa Group,"teaching, maintenance",3+ years,10th,₹22087 per month,Manager,Bally,Tamil Nadu,Bengali,http://rana.org/
+172,Computer Operator,Goel-Contractor,typing,1+ years,Undergraduate,₹12586 per month,Assistant,Avadi,West Bengal,Telugu,https://rajan.net/
+173,Computer Operator,"D’Alia, Char and Narang","graphic design, teaching, wiring",2+ years,Certificate Course,₹13348 per month,Government,Purnia,Uttar Pradesh,Punjabi,http://sarkar-bhasin.com/
+174,Welder,"Hari, Kaul and Varma","plumbing, driving",2+ years,High School,₹17749 per month,Government,Junagadh,Uttar Pradesh,Odia,http://www.mittal.info/
+175,Tailor,Dutt-Sridhar,accounting,3+ years,12th,₹49878 per month,Private,Tadepalligudem,Kerala,Bengali,https://radhakrishnan-modi.com/
+176,Technician Apprentice,Nanda Group,"plumbing, computer, mechanics",0+ years,Postgraduate,₹20794 per month,Government,Adoni,Rajasthan,Odia,https://peri.com/
+177,Technician Apprentice,Nayar-Bhandari,wiring,3+ years,Master,₹26818 per month,Private,Kanpur,Uttar Pradesh,Gujarati,https://master-mand.net/
+178,Clerk,Rajan-Kohli,"carpentry, typing",3+ years,Vocational Training,₹17899 per month,Technician,Bardhaman,Gujarat,Malayalam,https://sodhi.info/
+179,Store Keeper,Contractor Group,maintenance,1+ years,High School,₹31710 per month,Government,Shahjahanpur,Maharashtra,Tamil,https://memon-grewal.net/
+180,Data Entry Operator,Sood Inc,"computer, plumbing",3+ years,ITI,₹16311 per month,Consultant,Singrauli,West Bengal,Marathi,http://ramachandran.com/
+181,Receptionist,"Munshi, Ramakrishnan and Ramaswamy","mechanics, teaching",1+ years,Bachelor,₹15378 per month,Supervisor,Tadipatri,Uttar Pradesh,Odia,https://borde.com/
+182,Store Keeper,Brar-Krishnan,"carpentry, wiring",3+ years,High School,₹29417 per month,Operator,Kadapa,West Bengal,Malayalam,https://dar.org/
+183,Healthcare Worker,Vora-Zacharia,"accounting, driving, teaching",2+ years,Undergraduate,₹45860 per month,Manager,Hubli–Dharwad,Maharashtra,Punjabi,http://www.chada-zachariah.com/
+184,Receptionist,"Vyas, Bedi and Ramesh","accounting, electrical, mechanics",3+ years,Undergraduate,₹26268 per month,Government,Barasat,Punjab,Odia,http://mohanty.org/
+185,Teacher,Narasimhan Inc,typing,2+ years,ITI,₹35794 per month,Consultant,Delhi,Kerala,Punjabi,http://halder.com/
+186,Delivery Boy,Ahluwalia-Maharaj,"computer, maintenance",0+ years,10th,₹13712 per month,Assistant,Srikakulam,Uttar Pradesh,English,http://krishnan.com/
+187,Carpenter,"Borra, Murty and Khatri","carpentry, electrical, plumbing",1+ years,ITI,₹35418 per month,Government,Satara,Kerala,Tamil,https://www.nayak.com/
+188,Accountant,Kamdar-Agarwal,"wiring, maintenance",0+ years,Postgraduate,₹39552 per month,Manager,Bokaro,West Bengal,Odia,http://www.kothari-sandhu.com/
+189,Civil Engineer,Dixit-Sibal,plumbing,0+ years,PhD,₹48733 per month,Government,Miryalaguda,Rajasthan,Malayalam,http://www.dada.com/
+190,Store Keeper,Sem-Bhasin,carpentry,1+ years,Certificate Course,₹41214 per month,Operator,Sri Ganganagar,Maharashtra,Tamil,https://www.chacko.com/
+191,Store Keeper,Choudhry-Deep,wiring,1+ years,Diploma,₹24120 per month,Technician,Shimoga,West Bengal,Hindi,https://www.dasgupta.com/
+192,Store Keeper,Prakash PLC,"typing, teaching",3+ years,Undergraduate,₹49216 per month,Assistant,Phagwara,Odisha,Punjabi,https://anne.biz/
+193,Plumber,Sur-Arora,"teaching, typing, carpentry",2+ years,Undergraduate,₹32934 per month,Engineer,Vijayawada,Odisha,Marathi,https://sachdeva.biz/
+194,Mechanic,"Tripathi, Nanda and Bath","plumbing, mechanics",0+ years,Certificate Course,₹44544 per month,Supervisor,Tezpur,Punjab,English,https://chandran.com/
+195,Store Keeper,Balan-Devan,"mechanics, wiring, driving",1+ years,10th,₹31846 per month,Manager,Kurnool,Uttar Pradesh,Odia,https://mishra.com/
+196,Clerk,"Bhavsar, Shah and Prasad",wiring,2+ years,Diploma,₹28582 per month,Trainer,Adoni,Maharashtra,Bengali,http://chaudry.com/
+197,Lab Assistant,Hans-Swamy,accounting,0+ years,Master,₹17579 per month,Operator,Kavali,Maharashtra,Odia,http://subramaniam-nori.com/
+198,Marketing Assistant,Jha-Yadav,electrical,3+ years,Undergraduate,₹34127 per month,Assistant,Uluberia,Rajasthan,Marathi,http://www.dar.com/
+199,Receptionist,Chanda Group,"accounting, graphic design, plumbing",1+ years,PhD,₹11601 per month,Supervisor,Ongole,Maharashtra,Odia,http://mohan.com/
+200,Healthcare Worker,Parmar and Sons,"maintenance, wiring, plumbing",1+ years,10th,₹28245 per month,Operator,Thoothukudi,Gujarat,Gujarati,https://majumdar.com/
+201,Data Entry Operator,"Mane, Dhaliwal and Borah","accounting, graphic design, mechanics",3+ years,12th,₹25175 per month,Operator,Darbhanga,Rajasthan,Odia,http://www.comar.com/
+202,Civil Engineer,Parikh PLC,"driving, graphic design",0+ years,10th,₹21759 per month,Technician,Loni,West Bengal,Punjabi,https://patil-thakkar.info/
+203,Customer Support Executive,Shankar-Basu,"graphic design, plumbing",0+ years,Bachelor,₹39473 per month,Assistant,Bidar,Rajasthan,Hindi,http://walia.com/
+204,Maintenance Supervisor,"Goswami, Varkey and Ramachandran",accounting,2+ years,High School,₹13097 per month,Private,Ramagundam,Punjab,Marathi,https://sur-rama.org/
+205,Carpenter,Sharma Group,"plumbing, teaching",0+ years,High School,₹37684 per month,Private,Mahbubnagar,Kerala,Kannada,https://www.bajwa-mohanty.com/
+206,Mechanic,Sarraf-Ravi,"typing, mechanics, driving",3+ years,12th,₹19889 per month,Assistant,Sultan Pur Majra,Karnataka,Telugu,https://mall.net/
+207,Civil Engineer,Kuruvilla Group,"driving, graphic design, accounting",2+ years,Diploma,₹28497 per month,Consultant,Salem,Punjab,Telugu,https://chandra.net/
+208,Office Assistant,"Jayaraman, Munshi and Kata",driving,2+ years,12th,₹30197 per month,Consultant,Purnia,Rajasthan,Odia,http://dayal.com/
+209,Field Technician,Kara-Munshi,"typing, mechanics",1+ years,Bachelor,₹30493 per month,Manager,Thane,Kerala,Hindi,https://www.gupta.biz/
+210,Plumber,"Keer, Walia and Gulati",accounting,2+ years,High School,₹11541 per month,Manager,Nellore,Gujarat,Punjabi,https://www.mann.com/
+211,Tailor,"Gandhi, Chana and Nayak","computer, teaching, plumbing",3+ years,Bachelor,₹44402 per month,Technician,Raebareli,Gujarat,English,http://shukla.com/
+212,Clerk,"Yohannan, Sagar and Atwal","typing, electrical, computer",1+ years,Diploma,₹35917 per month,Supervisor,Nagpur,Rajasthan,Odia,http://roy.net/
+213,Welder,"Mitra, Sachdev and Dhingra",carpentry,0+ years,Vocational Training,₹36177 per month,Supervisor,Imphal,Kerala,Hindi,http://uppal-morar.com/
+214,Lab Assistant,"Mohan, Bhatt and Ganesan",maintenance,1+ years,10th,₹39590 per month,Manager,Kalyan-Dombivli,Punjab,English,http://sampath-misra.org/
+215,Security Guard,"Bhakta, Master and Morar","driving, typing, accounting",2+ years,PhD,₹15740 per month,Engineer,Danapur,Uttar Pradesh,Tamil,https://www.gola-baria.org/
+216,Field Technician,"Edwin, Chatterjee and Karan","mechanics, typing, maintenance",2+ years,12th,₹44355 per month,Clerk,Ramgarh,West Bengal,Kannada,http://www.patla-zacharia.com/
+217,Electrical Technician,Keer-Mitter,"carpentry, driving",1+ years,10th,₹13804 per month,Clerk,Raiganj,Tamil Nadu,Hindi,http://www.nagar-vig.com/
+218,Clerk,Raju-Walla,computer,1+ years,Master,₹16497 per month,Clerk,Khora ,Karnataka,Marathi,http://kurian.com/
+219,Clerk,Samra-Nagi,"typing, plumbing",2+ years,Diploma,₹40101 per month,Engineer,Siwan,West Bengal,Hindi,https://mandal.com/
+220,Teacher,Dhar Ltd,"electrical, plumbing, maintenance",1+ years,PhD,₹26254 per month,Engineer,Chandigarh,Odisha,Telugu,http://www.sampath.com/
+221,Clerk,"Iyengar, Kuruvilla and Bhatt",driving,2+ years,Undergraduate,₹48364 per month,Technician,Gandhinagar,Odisha,Malayalam,http://www.khurana-jhaveri.org/
+222,Customer Support Executive,"Bajwa, Mittal and Ahuja",wiring,2+ years,PhD,₹12725 per month,Trainer,Mau,Rajasthan,Kannada,http://sachdeva.org/
+223,Teacher,"Ravi, Parmer and Kothari","maintenance, plumbing, wiring",3+ years,12th,₹42181 per month,Private,Jalandhar,Tamil Nadu,Hindi,https://www.krish.com/
+224,Data Entry Operator,Kar Ltd,carpentry,1+ years,Master,₹18505 per month,Government,Visakhapatnam,Uttar Pradesh,English,https://goswami.com/
+225,Sales Executive,Brahmbhatt-Rau,"mechanics, graphic design, plumbing",3+ years,Diploma,₹29545 per month,Supervisor,Singrauli,Karnataka,Gujarati,http://dalal.com/
+226,Maintenance Supervisor,"Sinha, Divan and Loke","mechanics, teaching, maintenance",2+ years,12th,₹45007 per month,Government,Kottayam,Kerala,Kannada,https://nagy-ramakrishnan.com/
+227,Security Guard,Nanda Group,"teaching, accounting, driving",3+ years,PhD,₹41048 per month,Supervisor,Indore,Odisha,Bengali,http://nair.com/
+228,Clerk,Kashyap-Dara,typing,0+ years,Diploma,₹19232 per month,Engineer,North Dumdum,Gujarat,Telugu,http://pillai-dugar.com/
+229,Marketing Assistant,Mishra-Pathak,"computer, plumbing",3+ years,10th,₹29576 per month,Operator,Bhimavaram,Maharashtra,Tamil,https://mutti.com/
+230,Healthcare Worker,Pandit-Balakrishnan,plumbing,3+ years,PhD,₹29255 per month,Operator,Ambarnath,Maharashtra,Malayalam,https://zacharia.com/
+231,Security Guard,Dalal-Sood,electrical,2+ years,ITI,₹16045 per month,Supervisor,Udaipur,Gujarat,Bengali,http://www.morar.com/
+232,Welder,Gupta-Kulkarni,"mechanics, wiring",3+ years,Vocational Training,₹21797 per month,Private,Munger,Karnataka,Bengali,http://www.parmar-menon.com/
+233,Tailor,Balay Inc,maintenance,1+ years,Undergraduate,₹23514 per month,Engineer,Uluberia,Bihar,Gujarati,http://www.more.info/
+234,Mechanic,Murty-Amble,"teaching, carpentry",1+ years,Vocational Training,₹46381 per month,Technician,Bokaro,Kerala,Marathi,http://www.pant.com/
+235,Machine Operator,"Prabhakar, Dhawan and Choudhary","teaching, computer",2+ years,High School,₹41078 per month,Private,Haldia,Uttar Pradesh,Telugu,https://bajaj.net/
+236,Marketing Assistant,Purohit-Bava,"wiring, plumbing, electrical",2+ years,Vocational Training,₹29734 per month,Trainer,Dharmavaram,West Bengal,English,https://kala.com/
+237,Store Keeper,"Ramanathan, Varghese and Chopra",teaching,2+ years,High School,₹13216 per month,Supervisor,Ghaziabad,Kerala,Tamil,https://virk.info/
+238,Clerk,Baria PLC,driving,3+ years,Undergraduate,₹46485 per month,Engineer,Amroha,Gujarat,Marathi,http://www.goda.net/
+239,Machine Operator,Barad and Sons,"mechanics, electrical, maintenance",0+ years,Diploma,₹35821 per month,Supervisor,Jhansi,Kerala,Malayalam,http://kumar.com/
+240,Maintenance Supervisor,Sampath PLC,typing,2+ years,Master,₹25081 per month,Supervisor,Bhusawal,Uttar Pradesh,Malayalam,http://www.borah.com/
+241,Mechanic,"Narayan, Suri and Balan","plumbing, typing, graphic design",3+ years,Certificate Course,₹19303 per month,Manager,Farrukhabad,Bihar,Telugu,http://dasgupta.org/
+242,Delivery Boy,"Khare, Narayanan and Memon","teaching, computer",2+ years,Certificate Course,₹33564 per month,Manager,Mathura,Tamil Nadu,Tamil,http://natarajan-borra.info/
+243,Welder,Shukla-Butala,"electrical, graphic design, teaching",2+ years,ITI,₹30755 per month,Consultant,Phusro,Rajasthan,Odia,http://www.jhaveri.biz/
+244,Electrician,"Bobal, Sachar and Contractor","computer, plumbing, carpentry",3+ years,Undergraduate,₹29982 per month,Assistant,Alwar,Maharashtra,Tamil,http://www.cheema.com/
+245,Maintenance Supervisor,Merchant LLC,"plumbing, mechanics, computer",0+ years,Postgraduate,₹31669 per month,Government,Siwan,Bihar,Odia,http://www.bhakta.com/
+246,Marketing Assistant,Iyer-Bansal,computer,2+ years,Undergraduate,₹41712 per month,Operator,Mira-Bhayandar,Kerala,Bengali,https://dada.biz/
+247,Technician Apprentice,Hayre Ltd,teaching,3+ years,Master,₹25856 per month,Technician,Karnal,Gujarat,Marathi,http://www.contractor-kalita.biz/
+248,Data Entry Operator,Dar-Dora,"typing, computer, driving",1+ years,10th,₹21134 per month,Trainer,Indore,Maharashtra,Malayalam,http://www.deo.org/
+249,Receptionist,Palla and Sons,wiring,0+ years,Certificate Course,₹12287 per month,Manager,Danapur,Bihar,Bengali,https://kari-sarkar.com/
+250,Junior Engineer,"Bal, Tank and Das","plumbing, computer, carpentry",0+ years,10th,₹12508 per month,Technician,Sirsa,Maharashtra,Kannada,http://www.pall.net/
+251,Customer Support Executive,More-Doshi,"mechanics, teaching, plumbing",0+ years,High School,₹11626 per month,Private,Ichalkaranji,Maharashtra,Marathi,https://www.kibe-mody.biz/
+252,Machine Operator,"Narain, Swamy and Mody",plumbing,0+ years,Master,₹35643 per month,Operator,Tirunelveli,Bihar,Hindi,https://jayaraman-memon.com/
+253,Customer Support Executive,Prabhu-Agate,"graphic design, electrical, plumbing",3+ years,Undergraduate,₹13505 per month,Assistant,Khora ,Tamil Nadu,Kannada,https://muni.com/
+254,Computer Operator,"Tak, Malhotra and Mangal","plumbing, accounting",0+ years,Master,₹33413 per month,Supervisor,Munger,West Bengal,Punjabi,https://www.dada-barad.net/
+255,Clerk,Wali LLC,"graphic design, computer",3+ years,Vocational Training,₹25651 per month,Supervisor,Ambattur,West Bengal,Tamil,https://www.mani.com/
+256,Store Keeper,Solanki and Sons,plumbing,2+ years,Undergraduate,₹10191 per month,Supervisor,Jaunpur,West Bengal,Kannada,http://jaggi-bali.info/
+257,Customer Support Executive,Bora Group,"teaching, typing, mechanics",3+ years,High School,₹34998 per month,Private,Tenali,Bihar,Kannada,https://merchant.org/
+258,Sales Executive,Nigam-Pandit,"accounting, electrical, graphic design",3+ years,Undergraduate,₹20078 per month,Technician,Sikar,Punjab,Bengali,https://www.dayal.net/
+259,Technician Apprentice,Ramakrishnan-Sengupta,accounting,0+ years,PhD,₹12428 per month,Private,Sambhal,Gujarat,Bengali,http://www.hegde-seshadri.com/
+260,Plumber,"Ben, Ghosh and Batta","typing, plumbing",1+ years,Vocational Training,₹22915 per month,Private,Etawah,Maharashtra,Telugu,http://www.banerjee-nadkarni.biz/
+261,Sales Executive,Dyal-Chad,"wiring, mechanics, computer",1+ years,Master,₹36162 per month,Clerk,Hosur,West Bengal,Telugu,http://www.sahota-suresh.com/
+262,Security Guard,Pai-Tailor,"accounting, plumbing, electrical",3+ years,High School,₹16528 per month,Government,Silchar,Uttar Pradesh,Hindi,http://nair-chacko.com/
+263,Field Technician,Sathe-Manda,mechanics,1+ years,10th,₹43986 per month,Technician,Allahabad,Karnataka,Marathi,https://www.vig.org/
+264,Carpenter,"Dugal, Choudhury and Bhargava","maintenance, accounting, plumbing",2+ years,Bachelor,₹34389 per month,Consultant,Bikaner,Odisha,Kannada,https://www.varty-barad.com/
+265,Marketing Assistant,Upadhyay-Subramanian,typing,1+ years,Bachelor,₹30197 per month,Trainer,Ichalkaranji,Odisha,English,http://contractor.com/
+266,Technician Apprentice,Basak-Oommen,computer,3+ years,Vocational Training,₹12215 per month,Technician,Srinagar,Odisha,Marathi,http://bajwa-singh.net/
+267,Tailor,Dara-Bhasin,wiring,2+ years,Diploma,₹43861 per month,Technician,Phusro,Rajasthan,Punjabi,https://www.barman-apte.com/
+268,Security Guard,Aurora-Soman,graphic design,0+ years,Bachelor,₹45870 per month,Assistant,Malda,Karnataka,Punjabi,http://bora.biz/
+269,Maintenance Supervisor,Ramaswamy-Morar,"mechanics, computer, maintenance",2+ years,Undergraduate,₹35492 per month,Manager,Vadodara,West Bengal,Malayalam,https://www.chacko-dhar.net/
+270,Civil Engineer,"Amble, Parmer and Venkataraman","mechanics, typing, plumbing",3+ years,Master,₹25423 per month,Operator,Belgaum,Maharashtra,English,http://www.ramaswamy-wali.biz/
+271,Civil Engineer,Warrior-Lal,"typing, teaching",1+ years,Vocational Training,₹33592 per month,Trainer,Barasat,Rajasthan,Marathi,http://www.ramaswamy.com/
+272,Field Technician,"Tiwari, Chandran and Murthy","wiring, driving, accounting",3+ years,Master,₹29848 per month,Supervisor,New Delhi,Bihar,Bengali,https://www.kashyap-gulati.biz/
+273,Driver,Dugar LLC,"maintenance, teaching",3+ years,10th,₹33281 per month,Technician,Guntakal,Bihar,Odia,https://nori.com/
+274,Electrician,Shanker-Bhardwaj,"wiring, carpentry",3+ years,12th,₹26568 per month,Trainer,Bidar,Rajasthan,English,http://www.chaudhry.com/
+275,Sales Executive,"Kapadia, Butala and Uppal",driving,2+ years,Vocational Training,₹27403 per month,Assistant,Nanded,West Bengal,Bengali,https://bava.com/
+276,Electrical Technician,Gade-Memon,"computer, mechanics, electrical",2+ years,Certificate Course,₹29508 per month,Assistant,Tiruppur,Karnataka,Punjabi,https://www.sundaram.com/
+277,Field Technician,Dhillon-Ahluwalia,"computer, plumbing, wiring",3+ years,High School,₹16086 per month,Assistant,Pimpri-Chinchwad,Punjab,Telugu,http://hans-chad.com/
+278,Healthcare Worker,"Chandran, Modi and Rama",mechanics,3+ years,Bachelor,₹47822 per month,Consultant,Guwahati,Karnataka,Malayalam,https://banerjee.com/
+279,Store Keeper,"Sahni, Kapadia and Kurian",typing,0+ years,High School,₹49805 per month,Operator,Solapur,Uttar Pradesh,English,http://narayanan-mukhopadhyay.com/
+280,Data Entry Operator,"Shetty, Venkataraman and Walla","electrical, graphic design, typing",3+ years,Diploma,₹25776 per month,Operator,Bhilai,Karnataka,Telugu,http://www.bail.info/
+281,Office Assistant,Virk Group,plumbing,2+ years,Certificate Course,₹43181 per month,Supervisor,Katni,Bihar,Malayalam,http://www.dyal.com/
+282,Junior Engineer,Gola PLC,electrical,1+ years,12th,₹35994 per month,Trainer,Thiruvananthapuram,Kerala,Punjabi,http://www.patla.com/
+283,Sales Executive,"Sahota, Sura and Dani",accounting,3+ years,Certificate Course,₹34622 per month,Supervisor,Hindupur,Kerala,Punjabi,http://www.raman.com/
+284,Healthcare Worker,Sama and Sons,plumbing,0+ years,Undergraduate,₹28577 per month,Assistant,Shimla,Kerala,Bengali,http://www.dubey.org/
+285,Tailor,Palla Ltd,"driving, wiring",0+ years,10th,₹27154 per month,Trainer,Coimbatore,Punjab,Marathi,http://ravel-bail.org/
+286,Customer Support Executive,Goel-Rana,"mechanics, teaching",3+ years,Diploma,₹34408 per month,Clerk,Lucknow,Punjab,English,http://www.bedi.com/
+287,Mechanic,"Kade, Biswas and Ravi","teaching, carpentry",0+ years,Bachelor,₹24497 per month,Technician,Anantapur,Odisha,Marathi,https://www.walia.com/
+288,Driver,Prashad-Bhat,"driving, teaching, mechanics",0+ years,Postgraduate,₹15191 per month,Operator,Gurgaon,Odisha,Malayalam,http://www.bandi.com/
+289,Delivery Boy,Nanda Group,"plumbing, accounting, wiring",0+ years,Undergraduate,₹31203 per month,Technician,Nanded,Odisha,Odia,https://samra-boase.biz/
+290,Welder,Chaudhari Inc,graphic design,0+ years,12th,₹38685 per month,Technician,Mathura,Karnataka,Telugu,http://chaudry-datta.com/
+291,Office Assistant,Radhakrishnan-Contractor,"teaching, wiring",3+ years,Undergraduate,₹15406 per month,Supervisor,Pune,Bihar,English,http://www.tak.net/
+292,Accountant,Mohan Inc,"mechanics, wiring, teaching",2+ years,Diploma,₹40581 per month,Assistant,Surat,Odisha,Gujarati,http://wagle.org/
+293,Carpenter,Ben and Sons,mechanics,0+ years,ITI,₹21555 per month,Manager,Latur,Uttar Pradesh,Punjabi,http://www.kara-date.com/
+294,Driver,"Pai, Ravi and Garg","typing, carpentry",1+ years,Certificate Course,₹31906 per month,Trainer,Haridwar,Tamil Nadu,Punjabi,http://parsa-yadav.com/
+295,Auto Driver,Bali Group,"carpentry, graphic design, accounting",0+ years,Undergraduate,₹21924 per month,Private,Kochi,Maharashtra,Gujarati,http://goyal.com/
+296,Junior Engineer,Mahajan PLC,"mechanics, accounting, driving",3+ years,Undergraduate,₹14885 per month,Operator,Begusarai,Kerala,Malayalam,http://dua.com/
+297,Field Technician,"Bir, Goswami and Karan",accounting,3+ years,10th,₹29938 per month,Supervisor,Satna,Uttar Pradesh,Tamil,http://ahluwalia.com/
+298,Clerk,Pradhan and Sons,"carpentry, mechanics, maintenance",1+ years,Vocational Training,₹45776 per month,Trainer,Patna,Gujarat,Gujarati,https://lanka.com/
+299,Store Keeper,Basu-Wason,graphic design,0+ years,Undergraduate,₹37123 per month,Manager,Buxar,Gujarat,Bengali,https://www.gulati.com/
+300,Delivery Boy,Nagi and Sons,typing,2+ years,Postgraduate,₹30561 per month,Supervisor,Adoni,Tamil Nadu,Tamil,https://www.thakur.com/
+301,Lab Assistant,"Mahajan, Menon and Naik",carpentry,2+ years,10th,₹38220 per month,Government,Tiruppur,Uttar Pradesh,Marathi,http://bajaj.com/
+302,Data Entry Operator,Ghose PLC,"maintenance, graphic design",1+ years,Undergraduate,₹36755 per month,Assistant,Agra,Bihar,Odia,http://mody.com/
+303,Customer Support Executive,Gole-Chokshi,accounting,1+ years,Master,₹32073 per month,Technician,Nagercoil,Odisha,Odia,https://www.wason.com/
+304,Maintenance Supervisor,Narayanan LLC,"wiring, typing, mechanics",2+ years,ITI,₹13230 per month,Technician,Berhampur,Tamil Nadu,Hindi,https://www.andra.org/
+305,Delivery Boy,Narain-Kade,carpentry,2+ years,Undergraduate,₹22709 per month,Government,Jaipur,Gujarat,Bengali,http://www.bala.org/
+306,Sales Executive,Sachdev-Guha,maintenance,0+ years,PhD,₹20515 per month,Supervisor,Proddatur,Punjab,Tamil,http://www.natarajan-pant.com/
+307,Teacher,Modi-Kamdar,"accounting, teaching, driving",0+ years,Bachelor,₹29744 per month,Assistant,Yamunanagar,Maharashtra,Marathi,http://sem.com/
+308,Mechanic,Sandhu Inc,"computer, accounting, plumbing",1+ years,ITI,₹33770 per month,Trainer,Shimoga,Odisha,Tamil,http://palan.com/
+309,Computer Operator,Shukla Ltd,"wiring, graphic design, electrical",3+ years,Master,₹21958 per month,Government,Maheshtala,Kerala,English,https://www.yogi-lall.com/
+310,Junior Engineer,Nazareth-Desai,accounting,1+ years,ITI,₹12943 per month,Trainer,Howrah,Odisha,Tamil,https://www.kalla-more.com/
+311,Carpenter,De Ltd,"driving, typing, maintenance",3+ years,Master,₹30336 per month,Government,Satara,Punjab,Hindi,http://kapur.com/
+312,Electrical Technician,Halder-Pant,"plumbing, teaching",1+ years,High School,₹44569 per month,Private,Tinsukia,Odisha,Punjabi,https://dar.net/
+313,Customer Support Executive,Sarin and Sons,"teaching, carpentry",0+ years,Vocational Training,₹32880 per month,Engineer,Bihar Sharif,Maharashtra,Odia,http://muni.biz/
+314,Plumber,Yohannan Group,teaching,2+ years,PhD,₹14121 per month,Trainer,Haldia,Kerala,Malayalam,https://www.sampath.info/
+315,Tailor,Narain-Banerjee,"wiring, driving, plumbing",0+ years,ITI,₹36986 per month,Assistant,Shimla,Punjab,Odia,http://www.sant-mann.net/
+316,Electrical Technician,"Sandal, Walia and Kuruvilla",teaching,3+ years,PhD,₹30362 per month,Consultant,Rewa,Kerala,Kannada,https://www.radhakrishnan.net/
+317,Electrical Technician,"Dalal, Dugar and Tara","mechanics, carpentry",3+ years,Diploma,₹17826 per month,Operator,Asansol,Punjab,Telugu,http://soni.info/
+318,Tailor,Ram-Wali,computer,0+ years,10th,₹25168 per month,Technician,Visakhapatnam,Karnataka,Telugu,https://www.vyas-cheema.com/
+319,Junior Engineer,Gade-Rajagopal,"accounting, maintenance",3+ years,Undergraduate,₹23673 per month,Assistant,Ghaziabad,Gujarat,Kannada,https://www.doctor.com/
+320,Technician Apprentice,Saraf PLC,"accounting, wiring, typing",2+ years,Undergraduate,₹25723 per month,Operator,Bhusawal,West Bengal,Tamil,http://wadhwa.biz/
+321,Office Assistant,Baria-Dass,"typing, teaching, mechanics",3+ years,12th,₹38541 per month,Assistant,Thoothukudi,West Bengal,Telugu,https://www.kalita-ray.com/
+322,Accountant,Shankar-Contractor,driving,3+ years,Diploma,₹33676 per month,Government,Ballia,Rajasthan,English,https://www.dalia.net/
+323,Field Technician,"Roy, Bora and Deep","typing, teaching, mechanics",0+ years,High School,₹39181 per month,Supervisor,Raipur,Bihar,Bengali,https://iyengar-sandal.com/
+324,Security Guard,Muni-Gulati,"driving, carpentry, teaching",3+ years,Vocational Training,₹28525 per month,Engineer,Ajmer,West Bengal,Hindi,http://borde-subramanian.com/
+325,Electrician,Ganesan Inc,mechanics,3+ years,ITI,₹28574 per month,Trainer,Kolkata,Bihar,Bengali,https://www.kant-gupta.com/
+326,Auto Driver,Gandhi Group,"electrical, teaching",2+ years,Undergraduate,₹41125 per month,Private,Tiruchirappalli,Maharashtra,Telugu,https://www.bora-puri.com/
+327,Plumber,"Dixit, Edwin and Subramaniam","teaching, maintenance",2+ years,Postgraduate,₹36947 per month,Consultant,Ichalkaranji,Karnataka,Punjabi,https://www.ramachandran.biz/
+328,Accountant,"Zacharia, Devan and Majumdar","driving, maintenance",2+ years,Certificate Course,₹32144 per month,Manager,Raebareli,Tamil Nadu,Gujarati,https://www.more-mishra.com/
+329,Carpenter,Sodhi PLC,"carpentry, plumbing, teaching",2+ years,Diploma,₹27220 per month,Government,Sangli-Miraj & Kupwad,Odisha,Marathi,http://nair.org/
+330,Customer Support Executive,Mand Inc,graphic design,1+ years,Master,₹20434 per month,Clerk,Hospet,Uttar Pradesh,Malayalam,https://www.sahota-sachdev.com/
+331,Office Assistant,"Sane, Kapur and Doctor","teaching, electrical",2+ years,Master,₹31617 per month,Trainer,Lucknow,Rajasthan,English,http://www.chaudhuri.com/
+332,Machine Operator,Wagle-Karnik,"driving, computer, wiring",3+ years,Diploma,₹18307 per month,Trainer,Nizamabad,Tamil Nadu,Telugu,http://www.ray.com/
+333,Junior Engineer,Koshy Ltd,"carpentry, teaching",0+ years,10th,₹43079 per month,Clerk,Satara,Maharashtra,Tamil,https://nadig.com/
+334,Marketing Assistant,Uppal LLC,"teaching, plumbing, wiring",3+ years,12th,₹29377 per month,Government,Jammu,Kerala,Telugu,https://www.mall.com/
+335,Civil Engineer,"Setty, Balasubramanian and Bhakta","plumbing, wiring",2+ years,ITI,₹30308 per month,Operator,Bellary,Odisha,Telugu,http://www.mody.net/
+336,Store Keeper,"Grover, Bawa and Sahni","maintenance, electrical, wiring",3+ years,Diploma,₹35259 per month,Operator,Mathura,Karnataka,Bengali,https://www.dixit.com/
+337,Customer Support Executive,Chandra-Sane,"mechanics, wiring, accounting",2+ years,PhD,₹45546 per month,Clerk,Bidhannagar,Tamil Nadu,Tamil,https://www.sagar-bassi.biz/
+338,Lab Assistant,Sandhu-Shankar,"maintenance, carpentry, electrical",2+ years,Master,₹44485 per month,Supervisor,Muzaffarpur,Kerala,Hindi,https://www.mahajan.biz/
+339,Delivery Boy,"Palla, Venkatesh and Sankaran","plumbing, carpentry",1+ years,ITI,₹27223 per month,Manager,Rourkela,Karnataka,Kannada,http://nath.org/
+340,Tailor,Kala LLC,"plumbing, typing",0+ years,Undergraduate,₹22233 per month,Government,Khammam,Kerala,Bengali,http://mander.info/
+341,Computer Operator,"Dewan, Shenoy and Buch","accounting, wiring, teaching",1+ years,Certificate Course,₹27623 per month,Consultant,Karaikudi,Punjab,Telugu,http://ratta.com/
+342,Field Technician,Sastry-Dhaliwal,"computer, graphic design, plumbing",3+ years,Diploma,₹30664 per month,Assistant,Satna,Uttar Pradesh,Telugu,https://www.wadhwa-sathe.com/
+343,Electrician,Mohanty-Sarin,wiring,0+ years,Diploma,₹49566 per month,Operator,Korba,Bihar,Punjabi,https://rama.com/
+344,Accountant,"Sathe, Bassi and Iyer",typing,0+ years,PhD,₹32001 per month,Technician,Mehsana,Karnataka,Hindi,https://lata.info/
+345,Carpenter,"Lanka, Mittal and Narain",wiring,2+ years,Vocational Training,₹19324 per month,Operator,Proddatur,Karnataka,Punjabi,https://www.thakur-dugal.com/
+346,Computer Operator,Gole Inc,"accounting, plumbing",2+ years,Vocational Training,₹28213 per month,Technician,Dhule,Gujarat,Malayalam,https://goswami.biz/
+347,Plumber,Srinivasan-Dass,"accounting, wiring, maintenance",1+ years,PhD,₹15913 per month,Assistant,Muzaffarnagar,Karnataka,Hindi,https://www.krishna-bumb.info/
+348,Delivery Boy,Johal-Reddy,driving,3+ years,10th,₹34995 per month,Government,Narasaraopet,Karnataka,Punjabi,http://hayre.org/
+349,Junior Engineer,"Chana, Sehgal and Chand","electrical, carpentry",2+ years,12th,₹31877 per month,Consultant,Chittoor,Uttar Pradesh,Kannada,https://kota.com/
+350,Maintenance Supervisor,Atwal-Ghosh,plumbing,1+ years,Undergraduate,₹49280 per month,Private,Begusarai,Bihar,Gujarati,http://krish-puri.info/
+351,Office Assistant,Saha-Manda,"electrical, accounting, teaching",2+ years,PhD,₹27786 per month,Engineer,Nangloi Jat,Punjab,Hindi,http://dara-arora.com/
+352,Lab Assistant,Thakur Inc,driving,0+ years,ITI,₹27761 per month,Manager,Danapur,Karnataka,Tamil,https://www.ram.com/
+353,Delivery Boy,"Luthra, Kurian and Gopal","typing, driving, mechanics",1+ years,High School,₹45345 per month,Supervisor,Jamalpur,Gujarat,Kannada,http://www.korpal.org/
+354,Field Technician,"Dani, Loyal and Lalla",computer,2+ years,Vocational Training,₹17721 per month,Private,Kalyan-Dombivli,Gujarat,Tamil,https://www.palan.info/
+355,Auto Driver,Pall-Prabhakar,"electrical, driving, wiring",2+ years,High School,₹19886 per month,Assistant,Amaravati,Punjab,English,http://sule.biz/
+356,Field Technician,Saran and Sons,maintenance,0+ years,Postgraduate,₹16824 per month,Engineer,Mathura,Odisha,Hindi,https://biswas.com/
+357,Maintenance Supervisor,Kadakia-Nanda,typing,2+ years,Vocational Training,₹28558 per month,Clerk,Bhimavaram,Karnataka,Marathi,http://www.magar.net/
+358,Delivery Boy,Khatri Inc,driving,2+ years,Master,₹15213 per month,Assistant,Sirsa,Tamil Nadu,Tamil,https://ramaswamy.com/
+359,Healthcare Worker,Gade PLC,typing,0+ years,Master,₹33236 per month,Supervisor,Malegaon,Karnataka,Gujarati,https://www.yohannan.com/
+360,Lab Assistant,D’Alia Ltd,computer,0+ years,Vocational Training,₹48819 per month,Operator,Shahjahanpur,Karnataka,Malayalam,http://www.doshi.com/
+361,Store Keeper,Jha-Dewan,"computer, maintenance",2+ years,Undergraduate,₹45250 per month,Government,Belgaum,Tamil Nadu,Telugu,http://www.kota-goel.com/
+362,Carpenter,"Dhillon, Gaba and Kothari","mechanics, accounting",1+ years,10th,₹48613 per month,Assistant,Jodhpur,Gujarat,English,https://www.mani.com/
+363,Maintenance Supervisor,"Tiwari, Suri and Mistry","teaching, plumbing, carpentry",0+ years,High School,₹49410 per month,Assistant,Rajahmundry,Bihar,Malayalam,https://sangha-bhatti.info/
+364,Field Technician,"Batra, Sastry and Kata","electrical, wiring, maintenance",2+ years,Master,₹16975 per month,Technician,Sultan Pur Majra,Punjab,Tamil,https://www.purohit.com/
+365,Sales Executive,Saha-Rajagopalan,"electrical, computer",1+ years,10th,₹36241 per month,Private,Hosur,Bihar,Odia,http://shroff.com/
+366,Electrical Technician,Chander PLC,"carpentry, graphic design",2+ years,Diploma,₹10510 per month,Engineer,Sangli-Miraj & Kupwad,Odisha,Gujarati,https://www.dyal.info/
+367,Marketing Assistant,Desai-Prabhu,maintenance,2+ years,Certificate Course,₹28950 per month,Private,Aurangabad,Rajasthan,Gujarati,http://www.badami.org/
+368,Office Assistant,"Dasgupta, Sahni and Yohannan","computer, maintenance, plumbing",0+ years,Postgraduate,₹19089 per month,Operator,Kottayam,West Bengal,Tamil,https://bhattacharyya.com/
+369,Welder,Shanker LLC,mechanics,1+ years,Certificate Course,₹44194 per month,Supervisor,Loni,Rajasthan,Malayalam,http://www.master.biz/
+370,Mechanic,Gera PLC,"driving, electrical",3+ years,High School,₹42690 per month,Engineer,Mango,Tamil Nadu,Hindi,https://parmer.com/
+371,Mechanic,Kari LLC,"accounting, typing, wiring",2+ years,Certificate Course,₹28545 per month,Supervisor,Mehsana,Gujarat,Marathi,http://www.warrior.net/
+372,Tailor,"Kashyap, Agate and Dhar","graphic design, computer, accounting",2+ years,10th,₹25750 per month,Supervisor,Surat,Kerala,Telugu,http://shanker.com/
+373,Marketing Assistant,Badami Group,"graphic design, teaching, accounting",2+ years,Postgraduate,₹30437 per month,Assistant,Motihari,Bihar,English,https://www.chaudhari-choudhary.com/
+374,Auto Driver,Goda Ltd,"maintenance, typing",0+ years,Vocational Training,₹29348 per month,Technician,Jamnagar,Maharashtra,Gujarati,https://www.palla.info/
+375,Civil Engineer,Bhat Inc,graphic design,0+ years,Undergraduate,₹47671 per month,Manager,Varanasi,Uttar Pradesh,Hindi,https://www.srinivasan-koshy.com/
+376,Field Technician,Mistry PLC,mechanics,0+ years,Bachelor,₹47655 per month,Assistant,Kadapa,Karnataka,Marathi,http://naidu-khatri.com/
+377,Plumber,Dayal-Mutti,maintenance,3+ years,Certificate Course,₹28440 per month,Operator,Guntakal,Karnataka,Kannada,http://mitra.com/
+378,Data Entry Operator,Murthy Ltd,computer,2+ years,High School,₹23447 per month,Supervisor,Aurangabad,Gujarat,Gujarati,http://chaudry.com/
+379,Office Assistant,"Pal, Munshi and Hari","graphic design, mechanics",0+ years,PhD,₹17545 per month,Trainer,Tumkur,West Bengal,Hindi,http://kar.com/
+380,Driver,"Sarma, Maharaj and Varma",typing,0+ years,Vocational Training,₹24347 per month,Government,Vadodara,Tamil Nadu,Telugu,https://www.vyas.com/
+381,Field Technician,Mani and Sons,"mechanics, accounting",1+ years,Undergraduate,₹12091 per month,Private,Dhanbad,Punjab,Malayalam,https://karan.com/
+382,Junior Engineer,"Pandit, Kapoor and Thakur",mechanics,0+ years,PhD,₹42133 per month,Clerk,Nellore,West Bengal,Hindi,https://solanki.net/
+383,Machine Operator,"Kanda, Narayan and Gulati","teaching, graphic design",0+ years,ITI,₹11785 per month,Assistant,Bhopal,Kerala,Bengali,https://som.com/
+384,Auto Driver,Prasad-Banerjee,"carpentry, mechanics, typing",2+ years,PhD,₹40686 per month,Private,Ahmedabad,Kerala,English,http://www.kota-tak.biz/
+385,Data Entry Operator,"Sawhney, Comar and Sura","carpentry, mechanics",0+ years,Undergraduate,₹11340 per month,Technician,Nagercoil,Uttar Pradesh,English,http://pau.com/
+386,Technician Apprentice,"Sem, Bora and Palla","typing, graphic design, computer",2+ years,Diploma,₹38327 per month,Technician,Chittoor,Kerala,Tamil,http://www.thakur-raghavan.org/
+387,Machine Operator,"Apte, Mammen and Banik","carpentry, teaching, plumbing",2+ years,10th,₹10703 per month,Supervisor,Khora ,Kerala,Hindi,https://kade-mander.com/
+388,Receptionist,Goel-Bajaj,"maintenance, wiring, graphic design",2+ years,Master,₹47593 per month,Trainer,Guntur,Rajasthan,Bengali,https://balay.com/
+389,Civil Engineer,Chana and Sons,maintenance,2+ years,Diploma,₹46805 per month,Government,Raurkela Industrial Township,Odisha,Punjabi,http://www.gandhi-bhagat.com/
+390,Machine Operator,"Sahota, Bora and Mammen",accounting,3+ years,Diploma,₹36753 per month,Clerk,Bhind,Odisha,Malayalam,http://www.sridhar.biz/
+391,Field Technician,"Sahni, De and Aggarwal",mechanics,0+ years,Certificate Course,₹19709 per month,Technician,Ulhasnagar,West Bengal,Marathi,https://lala.com/
+392,Healthcare Worker,"Venkatesh, Parsa and Mani",computer,3+ years,10th,₹31324 per month,Technician,Delhi,Rajasthan,Malayalam,http://kari.net/
+393,Store Keeper,Balay-Kapadia,"maintenance, wiring, teaching",0+ years,Bachelor,₹21798 per month,Engineer,Panihati,Odisha,Marathi,https://www.thaman.org/
+394,Delivery Boy,"Bora, Oak and Kanda","plumbing, wiring, teaching",3+ years,10th,₹27424 per month,Private,Uluberia,Rajasthan,Marathi,https://rajagopal.com/
+395,Data Entry Operator,Saraf-Bhasin,accounting,3+ years,Master,₹45725 per month,Trainer,Medininagar,Punjab,English,http://www.gulati.com/
+396,Mechanic,Wadhwa-D’Alia,"typing, maintenance, wiring",2+ years,High School,₹46975 per month,Government,Rohtak,Uttar Pradesh,Kannada,https://www.arya.info/
+397,Junior Engineer,Mukherjee-Sarraf,"accounting, teaching, carpentry",1+ years,Bachelor,₹24195 per month,Trainer,Bhopal,West Bengal,Tamil,http://www.gola.biz/
+398,Welder,"Kalla, Chokshi and Garde","graphic design, wiring",2+ years,10th,₹36248 per month,Private,Ambala,Bihar,Punjabi,http://chad-dyal.com/
+399,Receptionist,Bali-Badami,"teaching, graphic design, plumbing",3+ years,PhD,₹26208 per month,Engineer,Singrauli,Kerala,Kannada,https://hari.info/
+400,Civil Engineer,"Basak, Narasimhan and Mutti","mechanics, electrical, accounting",0+ years,10th,₹15654 per month,Consultant,Jaunpur,Odisha,Tamil,http://www.sha.com/
+401,Store Keeper,Ganguly and Sons,"driving, teaching",0+ years,Postgraduate,₹32611 per month,Operator,Kurnool,Bihar,English,https://konda-chad.com/
+402,Technician Apprentice,"Ramakrishnan, Manda and Vyas","teaching, computer, accounting",0+ years,Bachelor,₹35241 per month,Technician,Vasai-Virar,West Bengal,Hindi,http://www.arora.com/
+403,Clerk,"Shah, Nagarajan and Mani","teaching, graphic design, accounting",1+ years,Master,₹38793 per month,Supervisor,Tumkur,Gujarat,Kannada,https://mann.com/
+404,Electrical Technician,Gokhale and Sons,"driving, accounting",0+ years,Master,₹28758 per month,Government,Siwan,Gujarat,Tamil,http://palan.com/
+405,Machine Operator,Walia LLC,"teaching, maintenance, plumbing",0+ years,Bachelor,₹48689 per month,Assistant,Madurai,Karnataka,Gujarati,http://www.ram.biz/
+406,Lab Assistant,Lalla-Grewal,accounting,2+ years,High School,₹41960 per month,Technician,Adoni,West Bengal,Bengali,https://www.bose-minhas.net/
+407,Driver,"Dada, Sunder and Nagy","mechanics, graphic design, plumbing",1+ years,High School,₹19899 per month,Clerk,Rajpur Sonarpur,Tamil Nadu,Hindi,https://www.manda.com/
+408,Mechanic,Pathak LLC,"electrical, typing, teaching",2+ years,Certificate Course,₹28094 per month,Private,Raipur,Punjab,Marathi,https://www.baria.net/
+409,Delivery Boy,Issac Group,typing,0+ years,Undergraduate,₹11141 per month,Private,Tenali,Kerala,Marathi,http://seth.com/
+410,Electrician,"Dayal, Oza and Magar","plumbing, maintenance",1+ years,PhD,₹46423 per month,Private,Raichur,Uttar Pradesh,English,http://chandran.com/
+411,Customer Support Executive,Nazareth LLC,plumbing,2+ years,Diploma,₹38837 per month,Technician,Thane,Punjab,Gujarati,https://www.mukhopadhyay-kannan.net/
+412,Tailor,"Chanda, Barad and Lad","carpentry, teaching",2+ years,Vocational Training,₹33917 per month,Engineer,Kozhikode,Tamil Nadu,Malayalam,http://www.wagle.com/
+413,Security Guard,"Thakur, Vasa and Ahluwalia",wiring,3+ years,Postgraduate,₹47716 per month,Trainer,Patiala,Bihar,Tamil,http://www.kumar.com/
+414,Sales Executive,Divan-Batta,"accounting, graphic design",3+ years,Undergraduate,₹14970 per month,Trainer,Dhanbad,Odisha,Bengali,https://www.char-mander.net/
+415,Welder,"Kapoor, Sampath and Bhargava","teaching, maintenance, computer",0+ years,10th,₹15758 per month,Private,Danapur,Tamil Nadu,Bengali,http://www.kala.com/
+416,Field Technician,Banerjee-Suresh,carpentry,1+ years,Undergraduate,₹49607 per month,Operator,Bidhannagar,Bihar,English,http://kapur.org/
+417,Security Guard,Vohra and Sons,typing,0+ years,10th,₹17764 per month,Engineer,Anand,Tamil Nadu,Bengali,http://prasad.com/
+418,Welder,"Rajagopalan, Chacko and Rajagopal",driving,2+ years,Bachelor,₹40358 per month,Supervisor,Raipur,Maharashtra,Punjabi,http://www.lata-chopra.com/
+419,Welder,Yogi-Raval,graphic design,2+ years,Certificate Course,₹26056 per month,Supervisor,Singrauli,Karnataka,Malayalam,https://www.bali-nori.com/
+420,Carpenter,"Gupta, Parmar and Sha","graphic design, plumbing",2+ years,10th,₹27416 per month,Engineer,Nangloi Jat,Gujarat,Punjabi,https://chhabra.biz/
+421,Tailor,"Patel, Sampath and Sharaf","wiring, graphic design",1+ years,Undergraduate,₹47948 per month,Supervisor,Aurangabad,Maharashtra,English,http://setty.com/
+422,Machine Operator,Chaudhuri-Choudhary,"maintenance, plumbing",2+ years,Master,₹36261 per month,Assistant,Nandyal,Rajasthan,English,http://narasimhan-zacharia.com/
+423,Electrical Technician,"Krishnan, Mitra and Chand",typing,3+ years,Master,₹29245 per month,Operator,Jamalpur,Gujarat,English,http://www.kata-krishna.biz/
+424,Healthcare Worker,"Chhabra, Kashyap and Date","carpentry, mechanics, maintenance",3+ years,Postgraduate,₹21420 per month,Trainer,Thane,Gujarat,Punjabi,https://dora.com/
+425,Tailor,"Sethi, Shukla and Chander","driving, accounting",1+ years,12th,₹14408 per month,Consultant,Hindupur,Tamil Nadu,Bengali,http://www.saraf.com/
+426,Electrician,"Lalla, Sarraf and Halder",accounting,3+ years,Postgraduate,₹45361 per month,Operator,Sonipat,Maharashtra,Tamil,http://www.mani.info/
+427,Receptionist,"Morar, Raghavan and Modi","teaching, carpentry, mechanics",3+ years,Postgraduate,₹24140 per month,Operator,Thane,Karnataka,Bengali,https://dash-gokhale.com/
+428,Lab Assistant,Korpal and Sons,"carpentry, mechanics, electrical",3+ years,Diploma,₹16468 per month,Supervisor,Chennai,Karnataka,Tamil,https://venkatesh-venkatesh.com/
+429,Welder,Behl Ltd,"electrical, accounting, graphic design",0+ years,Diploma,₹41533 per month,Trainer,Munger,West Bengal,Hindi,https://savant.com/
+430,Accountant,"Oak, Sura and Parmer","carpentry, maintenance",1+ years,Bachelor,₹14851 per month,Assistant,Khandwa,Bihar,Tamil,http://www.ram-pandit.com/
+431,Store Keeper,"Konda, Parikh and Anand","teaching, carpentry",2+ years,Postgraduate,₹29257 per month,Assistant,Agra,West Bengal,Telugu,https://www.mandal.org/
+432,Store Keeper,Ratti-Sagar,"teaching, driving",0+ years,ITI,₹46610 per month,Private,Tezpur,Rajasthan,Punjabi,http://viswanathan.com/
+433,Tailor,"Menon, Desai and Dani","driving, electrical",3+ years,Vocational Training,₹35045 per month,Assistant,Bhusawal,Uttar Pradesh,Odia,https://www.biswas.biz/
+434,Carpenter,Subramaniam Group,"driving, typing",3+ years,Postgraduate,₹34514 per month,Manager,Bikaner,Bihar,Kannada,http://www.bhakta.com/
+435,Office Assistant,Kuruvilla Inc,plumbing,1+ years,ITI,₹42921 per month,Manager,Mango,Tamil Nadu,Odia,https://comar.com/
+436,Carpenter,Mukherjee LLC,"carpentry, computer",2+ years,Certificate Course,₹38294 per month,Assistant,Bhagalpur,Odisha,Hindi,https://www.sarna-bhandari.com/
+437,Tailor,Choudhary Ltd,electrical,0+ years,Diploma,₹16729 per month,Supervisor,Thane,Maharashtra,Punjabi,https://uppal-nayar.com/
+438,Mechanic,"Mohan, Borah and Suresh","typing, computer, graphic design",3+ years,12th,₹13676 per month,Government,Satna,Bihar,Punjabi,http://www.parmar.com/
+439,Lab Assistant,Dada PLC,"graphic design, mechanics",0+ years,12th,₹21833 per month,Engineer,Hosur,Uttar Pradesh,English,http://www.das-garde.org/
+440,Carpenter,"Kapoor, Bobal and Deep","graphic design, maintenance",0+ years,Master,₹40025 per month,Private,Latur,Uttar Pradesh,Bengali,http://www.kothari.biz/
+441,Lab Assistant,"Karan, Gaba and Manne","carpentry, computer, graphic design",0+ years,High School,₹42421 per month,Consultant,Kadapa,Gujarat,Punjabi,http://mangat.com/
+442,Junior Engineer,Swamy-Zachariah,plumbing,2+ years,10th,₹27078 per month,Government,Erode,Rajasthan,Bengali,https://www.bhattacharyya.com/
+443,Teacher,Bhakta-Toor,"teaching, computer",0+ years,Vocational Training,₹40222 per month,Consultant,Dibrugarh,Gujarat,English,http://wali.com/
+444,Maintenance Supervisor,Dhawan-Dhillon,"driving, accounting",3+ years,Bachelor,₹11960 per month,Government,Bhilai,Gujarat,Malayalam,https://rau.info/
+445,Technician Apprentice,"Ray, Ghosh and Vora","typing, wiring",3+ years,Diploma,₹19642 per month,Technician,Sikar,West Bengal,Gujarati,https://raj.com/
+446,Teacher,Bal PLC,carpentry,1+ years,Diploma,₹45720 per month,Operator,Panvel,Odisha,English,http://hora-kaur.com/
+447,Welder,"Iyer, Babu and Aggarwal","computer, graphic design, plumbing",2+ years,PhD,₹17407 per month,Government,Chennai,Bihar,Odia,http://bera.org/
+448,Delivery Boy,Shankar Group,"wiring, accounting, plumbing",2+ years,12th,₹30437 per month,Supervisor,Dehradun,Bihar,Kannada,http://www.goel-padmanabhan.com/
+449,Carpenter,"Chawla, Kant and Pau","typing, teaching",1+ years,12th,₹25549 per month,Manager,Dibrugarh,Karnataka,Gujarati,http://bal-gill.com/
+450,Sales Executive,"Dyal, Rege and Sandhu","mechanics, wiring, carpentry",3+ years,Bachelor,₹41672 per month,Private,Bulandshahr,West Bengal,Punjabi,https://butala.com/
+451,Accountant,Muni Inc,"teaching, mechanics, maintenance",3+ years,Postgraduate,₹35945 per month,Government,Shahjahanpur,West Bengal,Gujarati,http://www.karpe-das.biz/
+452,Receptionist,Wali Inc,carpentry,1+ years,Master,₹40058 per month,Assistant,Sambalpur,Uttar Pradesh,Marathi,https://www.narula-badami.com/
+453,Mechanic,"Nagi, Merchant and Kunda",driving,1+ years,10th,₹25690 per month,Assistant,Sasaram,Karnataka,Punjabi,https://datta.info/
+454,Machine Operator,Kalita-Chhabra,"computer, mechanics",3+ years,Certificate Course,₹22416 per month,Private,Mumbai,Gujarat,Punjabi,https://yohannan.com/
+455,Auto Driver,Prasad Inc,"plumbing, maintenance",2+ years,Undergraduate,₹34531 per month,Government,Durg,Uttar Pradesh,Hindi,http://www.krishna.com/
+456,Electrician,Soman Group,accounting,0+ years,Certificate Course,₹35834 per month,Consultant,Jammu,Kerala,Malayalam,https://morar.org/
+457,Electrician,Swamy Ltd,"teaching, driving, wiring",0+ years,PhD,₹41070 per month,Clerk,Jalgaon,Kerala,Kannada,https://brahmbhatt.com/
+458,Marketing Assistant,"Rana, Nath and Cherian",plumbing,0+ years,Master,₹15917 per month,Operator,Moradabad,West Bengal,Odia,http://www.maharaj.org/
+459,Security Guard,Tiwari-Nanda,"carpentry, typing, driving",1+ years,ITI,₹13343 per month,Government,Warangal,Maharashtra,Gujarati,http://balay-roy.info/
+460,Tailor,"Contractor, Bala and Balasubramanian","accounting, mechanics",3+ years,Vocational Training,₹45724 per month,Government,Kirari Suleman Nagar,Rajasthan,Hindi,https://www.cheema-goswami.com/
+461,Auto Driver,Deshmukh-Sandal,"graphic design, electrical, typing",2+ years,Undergraduate,₹14261 per month,Assistant,Ambarnath,Bihar,Tamil,https://grover.com/
+462,Accountant,Khalsa Ltd,teaching,3+ years,PhD,₹31044 per month,Consultant,Jamalpur,Odisha,Punjabi,https://ratta-korpal.org/
+463,Customer Support Executive,Nagy PLC,"mechanics, accounting",3+ years,10th,₹35793 per month,Clerk,Kottayam,West Bengal,Hindi,https://www.narang.com/
+464,Junior Engineer,Kulkarni-Nanda,electrical,1+ years,Postgraduate,₹46033 per month,Government,Raipur,Kerala,Marathi,http://www.bansal-tailor.org/
+465,Clerk,Halder Inc,"maintenance, accounting, carpentry",3+ years,10th,₹45809 per month,Trainer,Jabalpur,Uttar Pradesh,Marathi,http://mander.com/
+466,Lab Assistant,"Lanka, Sachar and Date",computer,1+ years,12th,₹37575 per month,Private,Vasai-Virar,Tamil Nadu,Odia,https://www.deep.com/
+467,Electrical Technician,Maharaj-Sodhi,accounting,3+ years,Certificate Course,₹10237 per month,Trainer,Visakhapatnam,West Bengal,Odia,http://mander.com/
+468,Plumber,Sethi PLC,"wiring, electrical, driving",0+ years,Postgraduate,₹49979 per month,Operator,Thiruvananthapuram,West Bengal,Gujarati,https://www.shanker.com/
+469,Field Technician,"Ganesh, Dalal and Patil","computer, graphic design, driving",0+ years,Diploma,₹22759 per month,Operator,Mahbubnagar,West Bengal,Marathi,https://karpe.info/
+470,Teacher,Sani and Sons,"graphic design, teaching, maintenance",2+ years,10th,₹13413 per month,Trainer,Silchar,Tamil Nadu,Gujarati,http://jani.com/
+471,Receptionist,Behl Group,teaching,3+ years,10th,₹13269 per month,Assistant,Meerut,Karnataka,English,https://parekh.com/
+472,Electrician,Wable Inc,"mechanics, teaching, graphic design",0+ years,Bachelor,₹35116 per month,Clerk,Dewas,Odisha,Odia,https://dugar.com/
+473,Clerk,Morar PLC,carpentry,0+ years,12th,₹36562 per month,Assistant,Bhagalpur,Rajasthan,Kannada,http://ahuja.com/
+474,Plumber,Ben-Khosla,"plumbing, electrical, wiring",1+ years,10th,₹41269 per month,Supervisor,Dewas,Punjab,Hindi,http://www.ratti.com/
+475,Store Keeper,Sawhney PLC,electrical,1+ years,ITI,₹19935 per month,Engineer,Kavali,Bihar,Punjabi,http://bhat.com/
+476,Accountant,Mane-Naidu,"driving, carpentry, mechanics",2+ years,12th,₹14144 per month,Trainer,Bharatpur,Maharashtra,Punjabi,https://www.misra-kadakia.com/
+477,Junior Engineer,"Panchal, Anand and Kumer",typing,1+ years,Diploma,₹32889 per month,Consultant,Latur,Kerala,Tamil,https://www.swamy-radhakrishnan.info/
+478,Office Assistant,"Basu, Kara and Bhatnagar",wiring,0+ years,Master,₹22417 per month,Clerk,Jaunpur,Punjab,Hindi,https://bakshi-mitter.info/
+479,Sales Executive,Basak-Karan,"carpentry, graphic design, electrical",2+ years,Bachelor,₹35907 per month,Manager,Jodhpur,Punjab,Bengali,https://www.sodhi.org/
+480,Electrician,Ray-Kohli,"computer, typing",3+ years,Master,₹34512 per month,Assistant,Aligarh,Punjab,Punjabi,https://www.hayre.biz/
+481,Teacher,Mukhopadhyay-Narang,electrical,3+ years,PhD,₹28686 per month,Private,Jamnagar,West Bengal,English,https://www.johal.com/
+482,Sales Executive,Babu Group,"mechanics, typing",3+ years,Postgraduate,₹42708 per month,Private,Nandyal,Bihar,Gujarati,http://ganguly.org/
+483,Data Entry Operator,Sankar PLC,"carpentry, teaching",1+ years,Master,₹28504 per month,Private,Chandrapur,Karnataka,Kannada,https://bandi.org/
+484,Clerk,Banik-Chadha,computer,3+ years,ITI,₹19392 per month,Clerk,Kamarhati,Punjab,Telugu,https://pall-saha.info/
+485,Tailor,"Vig, Wason and Palan",computer,1+ years,Diploma,₹44189 per month,Trainer,Malegaon,Odisha,Tamil,https://sawhney-bhalla.com/
+486,Computer Operator,Handa and Sons,"mechanics, graphic design, typing",1+ years,Undergraduate,₹32824 per month,Operator,Tirunelveli,Odisha,Telugu,https://www.kakar.com/
+487,Store Keeper,Zachariah LLC,"accounting, teaching, driving",0+ years,Vocational Training,₹37404 per month,Private,Phusro,West Bengal,Gujarati,http://www.chaudhary.com/
+488,Civil Engineer,Srinivasan Inc,"wiring, typing",1+ years,12th,₹19592 per month,Operator,Tenali,Bihar,Hindi,https://sandhu-mitter.org/
+489,Healthcare Worker,"Zachariah, Bora and Sampath","driving, mechanics, plumbing",2+ years,Certificate Course,₹27749 per month,Supervisor,Phagwara,Rajasthan,Punjabi,http://www.dar.org/
+490,Computer Operator,"Sen, Sachdeva and Kale",teaching,1+ years,Postgraduate,₹14978 per month,Technician,Bathinda,Gujarat,Bengali,https://www.dhingra-kumar.com/
+491,Carpenter,"Raman, Lal and Banik","plumbing, teaching",3+ years,12th,₹17912 per month,Technician,Amaravati,Maharashtra,Punjabi,https://handa-palla.com/
+492,Accountant,"Sankar, Dugal and Banerjee","teaching, wiring",1+ years,ITI,₹42130 per month,Consultant,Tiruppur,Karnataka,Malayalam,https://www.talwar-chaudhary.com/
+493,Tailor,"Shah, Ganguly and Rajagopalan","teaching, electrical, mechanics",1+ years,Undergraduate,₹21278 per month,Trainer,Haldia,Bihar,Bengali,http://www.rout-subramaniam.org/
+494,Clerk,Goswami-Yogi,"typing, graphic design, teaching",3+ years,12th,₹20287 per month,Supervisor,Narasaraopet,Tamil Nadu,English,https://mall.net/
+495,Healthcare Worker,Hayre-Mall,"carpentry, electrical",3+ years,PhD,₹34078 per month,Trainer,Nizamabad,Gujarat,English,http://prasad-dada.com/
+496,Driver,Chakraborty Inc,"maintenance, carpentry",3+ years,Certificate Course,₹47278 per month,Consultant,Muzaffarnagar,West Bengal,Bengali,https://buch.com/
+497,Clerk,Bora-Shetty,"wiring, typing, carpentry",0+ years,12th,₹49922 per month,Private,Ujjain,Tamil Nadu,Marathi,http://www.sarna.net/
+498,Welder,Borah Ltd,"electrical, computer, graphic design",3+ years,Diploma,₹46700 per month,Consultant,Imphal,Tamil Nadu,Kannada,https://www.dhingra-kata.info/
+499,Junior Engineer,Master Ltd,wiring,2+ years,Vocational Training,₹26650 per month,Private,Nizamabad,Kerala,Kannada,https://saini.net/
+500,Delivery Boy,"Dyal, Bajaj and Rout","mechanics, maintenance, plumbing",0+ years,PhD,₹27748 per month,Technician,Ranchi,Karnataka,Punjabi,http://edwin.info/

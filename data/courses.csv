@@ -1,51 +1,101 @@
 course_id,course_name,related_skill,provider,region,link
-1,Computer Basics,mechanics,NSDC,Tamil Nadu,http://www.cooper.org/
-2,Computer Basics,electrical,Coursera,Maharashtra,https://www.hobbs.com/
-3,Mechanics Training,"accounting, plumbing",Coursera,Bihar,https://buckley.com/
-4,Computer Basics,wiring,Skill India,Uttar Pradesh,http://lester.com/
-5,Electrician Level 1,wiring,Skill India,Kerala,http://www.powers.com/
-6,Electrician Level 1,"mechanics, computer",Coursera,Uttar Pradesh,http://harris.net/
-7,Mechanics Training,plumbing,Skill India,Tamil Nadu,https://www.morris.org/
-8,Accountancy Skills,"computer, maintenance",NSDC,Maharashtra,http://collins-moore.com/
-9,Mechanics Training,maintenance,NSDC,Uttar Pradesh,https://wilson-robinson.com/
-10,Mechanics Training,"electrical, wiring",Skill India,Maharashtra,https://www.smith.com/
-11,Electrician Level 1,"maintenance, wiring",Skill India,Bihar,http://alvarez.org/
-12,Computer Basics,plumbing,Skill India,Kerala,https://douglas.net/
-13,Plumbing Fundamentals,"computer, accounting",NSDC,Uttar Pradesh,https://www.baxter-reed.com/
-14,Computer Basics,"wiring, computer",Skill India,Bihar,http://www.hall.com/
-15,Mechanics Training,"electrical, wiring",Coursera,Bihar,http://www.miller.com/
-16,Electrician Level 1,"electrical, mechanics",Skill India,Kerala,http://holt-gilbert.net/
-17,Electrician Level 1,"computer, mechanics",NSDC,Tamil Nadu,http://peterson.com/
-18,Mechanics Training,"computer, accounting",NSDC,Tamil Nadu,https://www.fox-silva.net/
-19,Mechanics Training,computer,Skill India,Tamil Nadu,https://hill.org/
-20,Accountancy Skills,"electrical, wiring",Skill India,Kerala,http://curry.com/
-21,Mechanics Training,mechanics,Skill India,Maharashtra,https://young.org/
-22,Computer Basics,"accounting, computer",Skill India,Kerala,https://www.nash.com/
-23,Mechanics Training,"mechanics, accounting",Coursera,Maharashtra,https://zamora-ross.info/
-24,Accountancy Skills,plumbing,Skill India,Tamil Nadu,http://wood-mitchell.net/
-25,Electrician Level 1,plumbing,Coursera,Tamil Nadu,http://harrison-holloway.com/
-26,Computer Basics,computer,Skill India,Bihar,http://www.mckinney-oneal.org/
-27,Electrician Level 1,"wiring, electrical",Coursera,Bihar,http://www.smith-pham.com/
-28,Electrician Level 1,accounting,NSDC,Bihar,https://www.torres-bradley.com/
-29,Computer Basics,plumbing,Skill India,Tamil Nadu,https://wagner.com/
-30,Plumbing Fundamentals,"wiring, mechanics",NSDC,Bihar,http://www.bennett.com/
-31,Accountancy Skills,"maintenance, accounting",Coursera,Maharashtra,http://www.jones.com/
-32,Plumbing Fundamentals,accounting,Coursera,Kerala,http://www.mccann-king.com/
-33,Accountancy Skills,accounting,Coursera,Uttar Pradesh,http://www.anderson.com/
-34,Electrician Level 1,"plumbing, maintenance",Coursera,Kerala,http://www.walsh.com/
-35,Accountancy Skills,accounting,Skill India,Uttar Pradesh,http://www.obrien.com/
-36,Accountancy Skills,"mechanics, electrical",Coursera,Uttar Pradesh,https://www.anderson.com/
-37,Computer Basics,accounting,Coursera,Uttar Pradesh,https://www.farrell.info/
-38,Electrician Level 1,"electrical, mechanics",NSDC,Uttar Pradesh,http://davis-munoz.com/
-39,Electrician Level 1,electrical,Skill India,Tamil Nadu,http://www.noble.info/
-40,Electrician Level 1,"maintenance, mechanics",Coursera,Maharashtra,http://higgins.com/
-41,Computer Basics,"electrical, computer",Skill India,Bihar,http://www.preston.biz/
-42,Accountancy Skills,"computer, plumbing",NSDC,Kerala,https://ward.com/
-43,Computer Basics,computer,NSDC,Kerala,https://bates.com/
-44,Electrician Level 1,maintenance,Skill India,Uttar Pradesh,http://barnes.com/
-45,Plumbing Fundamentals,maintenance,Coursera,Bihar,http://www.wolf.biz/
-46,Accountancy Skills,"maintenance, wiring",NSDC,Uttar Pradesh,https://garcia-clark.com/
-47,Computer Basics,computer,NSDC,Kerala,http://www.phillips.info/
-48,Mechanics Training,electrical,Coursera,Uttar Pradesh,http://ball.com/
-49,Plumbing Fundamentals,"wiring, electrical",Coursera,Maharashtra,http://lee.com/
-50,Plumbing Fundamentals,"electrical, maintenance",Coursera,Bihar,http://harrington.org/
+1,Handloom and Textile Skills,mechanics,NSDC,West Bengal,https://khosla.com/
+2,House Wiring and Maintenance,wiring,NSDC,Uttar Pradesh,http://sahni-andra.com/
+3,Home Appliance Repair,"typing, electrical",Skill India,Rajasthan,https://www.gera.com/
+4,Driving Training,"maintenance, carpentry",NSDC,Kerala,https://sandhu.net/
+5,Basic Carpentry,accounting,NSDC,Odisha,https://sarin.biz/
+6,House Wiring and Maintenance,"mechanics, typing",Skill India,Odisha,https://edwin.com/
+7,Bakery and Food Processing,"teaching, typing",NSDC,Maharashtra,https://www.rai.com/
+8,Hospitality Management Basics,driving,NSDC,Punjab,https://www.singh-tak.biz/
+9,Basic Carpentry,accounting,NSDC,Punjab,https://www.sood.org/
+10,Data Entry and Office Tools,maintenance,NSDC,Maharashtra,http://www.mander-guha.org/
+11,Basic Computer Applications,plumbing,NSDC,Punjab,https://zacharia.com/
+12,Basic Computer Applications,accounting,Skill India,Bihar,http://parikh.net/
+13,Mobile Repairing,plumbing,Skill India,Kerala,https://www.bal-sridhar.com/
+14,Welding and Fabrication,"plumbing, wiring",Skill India,Uttar Pradesh,https://sachar.com/
+15,Computer Basics,"teaching, wiring",NSDC,Tamil Nadu,http://butala-ghose.biz/
+16,Electrician Level 1,electrical,Skill India,Rajasthan,http://www.singhal.biz/
+17,Basic Tailoring,driving,NSDC,Rajasthan,http://garg.com/
+18,Plumbing Fundamentals,maintenance,Coursera,Kerala,https://kothari-balay.com/
+19,Civil Drafting,"graphic design, computer",NSDC,Bihar,https://www.loke.com/
+20,Customer Service Training,"accounting, computer",NSDC,Tamil Nadu,http://www.wable.com/
+21,Hospitality Management Basics,"typing, teaching",NSDC,Gujarat,http://sathe-chandra.org/
+22,Automobile Maintenance,"graphic design, driving",Coursera,Odisha,http://dada.com/
+23,CNC Machine Operations,accounting,NSDC,Tamil Nadu,https://www.pant.com/
+24,Advanced Electrical Systems,electrical,NSDC,Maharashtra,https://shroff.org/
+25,Driving Training,graphic design,NSDC,Maharashtra,http://www.chakrabarti-bawa.com/
+26,Digital Marketing,computer,NSDC,Uttar Pradesh,http://www.mannan-sen.com/
+27,Agricultural Equipment Handling,"driving, computer",Coursera,Bihar,http://www.kalla.com/
+28,Refrigeration and AC Mechanic,mechanics,NSDC,Tamil Nadu,http://www.lad-dani.info/
+29,English Communication Skills,wiring,Coursera,Gujarat,http://www.mitra-nadig.com/
+30,Basic Electronics,"computer, driving",NSDC,Tamil Nadu,http://www.swamy.com/
+31,Basic Computer Applications,"computer, driving",Skill India,Bihar,https://desai-nori.com/
+32,Customer Service Training,mechanics,NSDC,Gujarat,https://sharma.net/
+33,Data Entry and Office Tools,carpentry,Skill India,Karnataka,http://www.dua-contractor.com/
+34,Basic Tailoring,typing,Coursera,Maharashtra,http://ramesh.com/
+35,English Communication Skills,"teaching, plumbing",Coursera,Rajasthan,https://www.borra.biz/
+36,Typing and Data Management,"driving, maintenance",NSDC,Rajasthan,http://www.kara.org/
+37,Digital Marketing,"teaching, graphic design",NSDC,Gujarat,http://www.pai.com/
+38,Automobile Maintenance,maintenance,NSDC,Gujarat,https://www.sura.com/
+39,Refrigeration and AC Mechanic,"driving, teaching",Coursera,Uttar Pradesh,http://desai.info/
+40,English Communication Skills,"driving, carpentry",Coursera,West Bengal,https://nazareth.com/
+41,CNC Machine Operations,"mechanics, electrical",NSDC,Kerala,http://www.nair.com/
+42,Agricultural Equipment Handling,"accounting, mechanics",Coursera,Uttar Pradesh,http://www.lata.com/
+43,Electrician Level 1,computer,Skill India,Bihar,http://vyas.net/
+44,Basic Carpentry,"carpentry, teaching",Skill India,West Bengal,http://www.anne-loke.net/
+45,Graphic Design Essentials,"wiring, typing",NSDC,Odisha,https://www.hayre-bhandari.com/
+46,Bakery and Food Processing,"computer, maintenance",Coursera,Tamil Nadu,http://www.kata.net/
+47,CNC Machine Operations,"maintenance, teaching",Skill India,Tamil Nadu,https://bose.com/
+48,Basic Computer Applications,mechanics,NSDC,Uttar Pradesh,http://desai.com/
+49,Graphic Design Essentials,teaching,Skill India,Tamil Nadu,http://www.agate.com/
+50,Accountancy Skills,"accounting, computer",NSDC,Tamil Nadu,http://kulkarni.net/
+51,Automobile Maintenance,"wiring, graphic design",NSDC,Rajasthan,http://www.mani-bera.com/
+52,Customer Service Training,maintenance,Coursera,Maharashtra,https://www.bath.net/
+53,Home Appliance Repair,"carpentry, wiring",Coursera,Gujarat,https://borra-sha.com/
+54,Field Technician Training,"electrical, carpentry",NSDC,Maharashtra,https://boase.com/
+55,Mobile Repairing,driving,NSDC,Kerala,http://www.kunda.com/
+56,Solar Panel Installation,driving,NSDC,Punjab,https://natarajan.net/
+57,Bakery and Food Processing,"wiring, driving",Coursera,Kerala,https://www.dara-naidu.com/
+58,House Wiring and Maintenance,"wiring, graphic design",NSDC,Bihar,https://www.shukla-brahmbhatt.com/
+59,Computer Basics,accounting,Skill India,West Bengal,https://www.chaudry-sahni.net/
+60,Field Technician Training,"graphic design, accounting",Skill India,Bihar,https://www.setty.biz/
+61,Solar Panel Installation,mechanics,Skill India,Maharashtra,http://www.babu.org/
+62,Basic Tailoring,"carpentry, accounting",Coursera,Gujarat,http://www.kala.com/
+63,Automobile Maintenance,wiring,NSDC,West Bengal,https://www.kohli.biz/
+64,Basic Carpentry,driving,Skill India,Uttar Pradesh,https://chokshi.com/
+65,Advanced Electrical Systems,"driving, accounting",NSDC,Tamil Nadu,https://gandhi-prabhu.com/
+66,Bakery and Food Processing,typing,Coursera,Uttar Pradesh,http://kanda.com/
+67,Machine Operator Course,plumbing,Skill India,Rajasthan,https://www.rau.biz/
+68,Agricultural Equipment Handling,teaching,NSDC,Karnataka,https://www.shere.org/
+69,Customer Service Training,"wiring, carpentry",Skill India,Bihar,https://www.chowdhury.biz/
+70,Digital Marketing,typing,NSDC,West Bengal,https://www.dar-dhar.com/
+71,Construction Site Supervisor,wiring,NSDC,West Bengal,http://www.khanna.net/
+72,Graphic Design Essentials,carpentry,Coursera,Uttar Pradesh,http://www.anand.info/
+73,Agricultural Equipment Handling,"maintenance, electrical",Skill India,West Bengal,http://radhakrishnan-pau.com/
+74,Machine Operator Course,carpentry,Coursera,Karnataka,https://palla-dhar.com/
+75,Bakery and Food Processing,"teaching, computer",NSDC,Karnataka,http://dua-sharma.com/
+76,Home Appliance Repair,maintenance,NSDC,Uttar Pradesh,https://sarraf.org/
+77,Field Technician Training,wiring,NSDC,Bihar,https://butala.com/
+78,Agricultural Equipment Handling,"computer, wiring",Coursera,Odisha,https://dasgupta.biz/
+79,English Communication Skills,computer,Coursera,West Bengal,http://luthra.info/
+80,House Wiring and Maintenance,computer,NSDC,Bihar,https://www.sabharwal.com/
+81,Automobile Maintenance,"typing, graphic design",Skill India,Uttar Pradesh,https://www.ray.biz/
+82,Mechanics Training,"wiring, computer",Coursera,Gujarat,https://khalsa-chaudhry.com/
+83,Basic Electronics,"computer, electrical",NSDC,Rajasthan,http://www.anand-balay.com/
+84,Computer Basics,"teaching, accounting",Skill India,Uttar Pradesh,http://www.seshadri-tata.net/
+85,Data Entry and Office Tools,mechanics,Coursera,Uttar Pradesh,http://more-rana.com/
+86,Accountancy Skills,"mechanics, teaching",Skill India,Odisha,http://www.sodhi-murty.com/
+87,Basic Carpentry,"typing, teaching",Skill India,Punjab,http://yogi.com/
+88,Welding and Fabrication,driving,Coursera,Tamil Nadu,http://www.goyal-srivastava.com/
+89,Health and Safety Training,"maintenance, wiring",Skill India,Odisha,http://www.ghosh.net/
+90,Basic Electronics,accounting,Skill India,Rajasthan,https://agarwal.com/
+91,Data Entry and Office Tools,"graphic design, electrical",Coursera,Kerala,http://www.karnik-dugar.com/
+92,Home Appliance Repair,accounting,Coursera,Odisha,https://www.bhakta-acharya.com/
+93,Construction Site Supervisor,graphic design,Skill India,Gujarat,https://www.sathe.biz/
+94,Basic Computer Applications,"carpentry, typing",Coursera,Punjab,https://kala-balasubramanian.com/
+95,Basic Computer Applications,"accounting, teaching",NSDC,Punjab,https://www.chatterjee.com/
+96,Agricultural Equipment Handling,"accounting, typing",Coursera,Odisha,http://www.rastogi.org/
+97,Driving Training,carpentry,Skill India,Gujarat,http://www.kothari-acharya.info/
+98,Electrician Level 1,"carpentry, graphic design",Coursera,Kerala,https://www.kapoor.com/
+99,Driving Training,"teaching, plumbing",Skill India,West Bengal,http://mallick.com/
+100,English Communication Skills,"computer, mechanics",NSDC,Uttar Pradesh,http://www.pal.info/
