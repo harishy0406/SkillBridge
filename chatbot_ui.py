@@ -81,6 +81,7 @@ def main():
                     f"I am from {region}, with education {education}, and skills {skills}, and language{lang_code} "
                     f"Please provide personalized job recommendations (minimum 7-8 jobs) with job title, company name, location, and salary in a clear bullet point format.in the selected language"
                     f"Also provide 7-8 course recommendations with course name, provider, and link. "
+                    f"and Extra Carrer Guidance 3-4 points."
                     f"Give the output without bold letters or extra formatting."
                 )
                 
