@@ -90,3 +90,33 @@ def chatbot():
 # -------------------- ENTRY POINT --------------------
 if __name__ == "__main__":
     chatbot()
+
+
+
+
+# SkillBridge: Job Recommendation using Trained Model
+
+import pickle
+import pandas as pd
+
+# Load pre-trained model (SkillBridge_JobRecommender.pkl)
+with open('SkillBridge_JobRecommender.pkl', 'rb') as f:
+    model = pickle.load(f)
+
+# Sample user input
+user_data = {
+    'skills': ['electrical', 'maintenance', 'wiring'],
+    'education': 'Diploma in Electrical',
+    'region': 'Tamil Nadu'
+}
+
+# Convert user input to DataFrame
+input_df = pd.DataFrame([user_data])
+
+# Predict suitable jobs
+recommendations = model.predict(input_df)
+
+# Display results
+print("Recommended Jobs for You:")
+for job in recommendations:
+    print("-", job)

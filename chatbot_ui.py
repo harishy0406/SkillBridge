@@ -2,7 +2,7 @@ import streamlit as st
 from sambanova import SambaNova
 
 # -------------------- CONFIG --------------------
-API_KEY = "0f4f01cc-990d-44e9-86b5-7c0cb7fc643f"
+API_KEY = "27c9b911-0a48-4a28-b6d2-4119e6ac8863"
 
 client = SambaNova(
     api_key=API_KEY,
@@ -40,7 +40,7 @@ def ai_chat(user_input):
     """
     try:
         response = client.chat.completions.create(
-            model="Llama-4-Maverick-17B-128E-Instruct",
+            model="Meta-Llama-3.1-8B-Instruct",
             messages=[{"role": "user", "content": user_input}],
             temperature=0.1,
             top_p=0.1
