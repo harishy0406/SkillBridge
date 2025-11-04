@@ -105,7 +105,7 @@ streamlit run app/chatbot_ui.py
 
 - More multilingual support
 - Live job postings integration
-- Cloud deployment
+- Cloud deployments
 - Enhanced AI chatbot with interactive options
 
 ## 🤝 Contribution  
