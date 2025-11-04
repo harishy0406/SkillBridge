@@ -93,7 +93,7 @@ def main():
             user_query = (
                 f"I am from {st.session_state.region}, with education {st.session_state.education}, "
                 f"and skills {st.session_state.skills}. Please provide at least 7–8 job recommendations near to the region given in a tabluar format"
-                f"with job title, company name, location, and salary in a clean table format. "
+                f"with job title, company name, location, and salary in a clean table format."
                 f"Also provide 7–8 course recommendations with course name, provider, and link, "
                 f"plus 3–4 career guidance tips. Respond in {st.session_state.lang_code} without bold letters."
             )
