@@ -110,7 +110,7 @@ streamlit run app/chatbot_ui.py
 
 ## 🤝 Contribution  
    
-Want to contribute? Feel free to fork the repo and create a pull request with your ideas. Let’s make **EduVault** even better! 💡  
+Want to contribute? Feel free to fork the repo and create a pull request with your ideas. Let’s make **EduVault** even better!! 💡  
 
 ---
 
