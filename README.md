@@ -43,7 +43,7 @@ SkillBridge/
 
 ## 🧰 Tech Stack
 
-- Python 3.x
+- Python 3.13
 - Streamlit for UI
 - Pandas & NumPy for data handling
 - Scikit-learn for ML models (Random Forest, Naive Bayes)
